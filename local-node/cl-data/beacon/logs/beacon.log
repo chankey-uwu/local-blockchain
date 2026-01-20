@@ -1,0 +1,1092 @@
+Jan 20 20:10:02.803 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:02.804 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:02.819 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:03.460 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:03.460 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:03.468 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:04.232 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:04.232 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:04.244 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:05.030 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:05.030 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:05.035 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:06.072 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:06.072 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:06.084 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:07.895 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:07.895 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:07.906 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:11.350 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:11.350 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:11.361 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:17.978 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:17.978 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:17.989 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:31.017 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:31.017 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:31.030 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:10:56.180 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:10:56.180 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:10:56.193 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:11:47.090 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:11:47.090 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:11:47.104 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:26.634 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:26.634 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:26.644 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:27.213 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:27.213 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:27.219 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:27.927 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:27.927 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:27.933 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:28.606 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:28.606 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:28.619 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:29.622 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:29.622 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:29.633 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:31.210 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:31.210 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:31.218 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:34.611 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:34.611 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:34.623 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:41.244 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:41.244 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:41.254 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:12:54.266 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:12:54.266 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:12:54.276 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:13:19.841 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:13:19.841 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:13:19.851 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:14:10.686 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:14:10.686 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:14:10.695 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:14:56.872 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:14:56.872 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:14:56.884 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:14:57.484 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:14:57.484 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:14:57.496 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:14:58.147 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:14:58.147 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:14:58.153 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:14:58.514 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:14:58.514 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:14:58.521 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:14:59.517 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:14:59.517 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:14:59.530 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:15:01.394 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:15:01.395 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:15:01.408 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:15:04.815 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:15:04.815 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:15:04.823 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:15:11.447 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:15:11.447 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:15:11.455 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:15:24.464 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:15:24.464 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:15:24.473 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:15:50.059 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:15:50.059 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:15:50.073 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:27.100 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:27.100 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:27.110 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:27.485 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:27.485 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:27.491 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:28.237 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:28.237 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:28.253 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:28.955 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:28.955 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:28.959 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:30.023 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:30.023 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:30.036 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:31.849 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:31.849 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:31.855 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:35.300 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:35.300 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:35.315 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:41.950 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:41.950 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:41.959 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:16:54.982 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:16:54.982 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:16:54.993 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:17:20.548 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:17:20.548 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:17:20.558 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:17:29.071 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:17:29.071 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:17:29.081 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:17:29.082 ERROR Missing UDP in Multiaddr                      multiaddr: "/ip4/192.168.65.2/tcp/33000/p2p/16Uiu2HAmGD9YTBK6NBbGpnbbSs5yLq8iUVzcyikrmeTVr15nPqAS"
+Jan 20 20:17:29.084 INFO  Deposit contract                              deploy_block: 0, address: 0x00000000219ab540356cbb839cbe05303d7705fa
+Jan 20 20:17:29.088 DEBUG Opening HotColdDB                           
+Jan 20 20:17:29.088 DEBUG Opening LevelDB                               hot_path: "/root/.lighthouse/beacon/chain_db"
+Jan 20 20:17:29.109 DEBUG Loaded anchor info                            anchor_info: RwLock { data: AnchorInfo { anchor_slot: Slot(18446744073709551615), oldest_block_slot: Slot(18446744073709551615), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) } }
+Jan 20 20:17:29.150 INFO  Blob DB initialized                           path: "/root/.lighthouse/beacon/blobs_db", oldest_blob_slot: Some(Slot(0)), oldest_data_column_slot: Some(Slot(0))
+Jan 20 20:17:29.150 DEBUG Store anchor info                             anchor: AnchorInfo { anchor_slot: Slot(18446744073709551615), oldest_block_slot: Slot(18446744073709551615), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) }
+Jan 20 20:17:29.154 DEBUG New network key generated and written to disk
+Jan 20 20:17:29.156 DEBUG Loaded execution endpoint                     endpoint: http://geth:8551/, jwt_path: "/jwt.hex"
+Jan 20 20:17:32.485 INFO  Starting from known genesis state           
+Jan 20 20:17:32.519 DEBUG Cached state                                  state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, state_slot: 0, deleted_states: [], location: "store_hot_state"
+Jan 20 20:17:32.524 DEBUG Storing hot state summary and diffs           state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, slot: 0, storage_strategy: Snapshot, diff_base_state: snapshot, previous_state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+Jan 20 20:17:32.529 INFO  Block production enabled                    
+Jan 20 20:17:32.550 DEBUG Loaded persisted custody context              custody_context: CustodyContext { validator_custody_count: 0, validator_registrations: RwLock { data: ValidatorRegistrations { validators: {}, epoch_validator_custody_requirements: {} } }, ordered_custody_column_indices: [123, 41, 104, 117, 71, 18, 44, 48, 31, 91, 29, 74, 73, 108, 62, 21, 118, 116, 66, 90, 3, 5, 70, 7, 39, 56, 68, 76, 67, 83, 85, 17, 79, 124, 12, 107, 53, 24, 127, 125, 97, 105, 102, 52, 86, 36, 122, 22, 27, 32, 10, 50, 8, 103, 77, 100, 46, 33, 19, 119, 1, 28, 69, 54, 47, 43, 112, 11, 61, 15, 58, 4, 13, 113, 115, 45, 99, 42, 80, 88, 34, 120, 65, 59, 2, 106, 84, 0, 40, 20, 75, 37, 126, 30, 114, 110, 111, 121, 101, 9, 23, 26, 38, 64, 109, 51, 16, 82, 96, 63, 87, 78, 6, 14, 93, 55, 81, 57, 89, 60, 49, 35, 92, 94, 98, 25, 72, 95], _phantom_data: PhantomData<types::eth_spec::MainnetEthSpec> }
+Jan 20 20:17:32.552 INFO  Beacon chain initialized                      head_state: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0
+Jan 20 20:17:32.554 INFO  Timer service started                       
+Jan 20 20:17:32.554 DEBUG Blobs are pruned                              oldest_blob_slot: 0, data_availability_boundary: 0, split.slot: 0, end_epoch: 0, start_epoch: 0
+Jan 20 20:17:32.554 INFO  UPnP Attempting to initialise routes        
+Jan 20 20:17:32.559 DEBUG ENR written to disk                         
+Jan 20 20:17:32.560 DEBUG Metadata sequence number                      seq_num: 0
+Jan 20 20:17:32.562 DEBUG Metadata written to disk                    
+Jan 20 20:17:32.562 DEBUG Starting node with custody params             cgc: 4, sampling_subnets: {123, 104, 44, 48, 18, 41, 117, 71}
+Jan 20 20:17:32.565 DEBUG Using response rate limiting params           config: InboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s })
+Jan 20 20:17:32.565 DEBUG Using self rate limiting params               config: Some(OutboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s }))
+Jan 20 20:17:32.566 INFO  ENR Initialised                               enr: "enr:-Ny4QLuEsw3ONDkRSivs-LTM218dgDJIF_GadsIC1eUEblIoNpvUNYwzj6IsgRVKpx1vr4QdBbIQPPwg3i_fn1uF34kBh2F0dG5ldHOIAAAAAAAAAACDY2djBIZjbGllbnTRikxpZ2h0aG91c2WFOC4wLjGEZXRoMpCQ8CR_cAAAOP__________gmlkgnY0g25mZISQ8CR_hHF1aWOCIymJc2VjcDI1NmsxoQJydgGAzmfr3j2grbSEQbfNhrXwli4HFs8RIsQ8mX8Z2IhzeW5jbmV0cwCDdGNwgiMo", seq: 1, id: 0x69b6..da2f, ip4: None, udp4: None, tcp4: Some(9000), tcp6: None, udp6: None, quic4: Some(9001), quic6: None
+Jan 20 20:17:32.568 DEBUG Discovery service started                   
+Jan 20 20:17:32.568 INFO  Contacting Multiaddr boot-nodes for their ENR
+Jan 20 20:17:32.568 ERROR Error getting mapping to ENR                  multiaddr: "/ip4/192.168.65.2/tcp/33000/p2p/16Uiu2HAmGD9YTBK6NBbGpnbbSs5yLq8iUVzcyikrmeTVr15nPqAS", error: "InvalidMultiaddr("A UDP port must be specified in the multiaddr")"
+Jan 20 20:17:32.568 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:17:32.581 INFO  Libp2p Starting                               peer_id: 16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b, bandwidth_config: "3-Average"
+Jan 20 20:17:32.581 DEBUG Attempting to open listening ports            listen_addrs: V4(ListenAddr { addr: 0.0.0.0, disc_port: 9000, quic_port: 9001, tcp_port: 9000 }), discovery_enabled: true, quic_enabled: true
+Jan 20 20:17:32.582 INFO  Listening established                         address: /ip4/0.0.0.0/tcp/9000/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:17:32.585 INFO  Listening established                         address: /ip4/0.0.0.0/udp/9001/quic-v1/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:17:32.586 DEBUG Dialing libp2p peer                           address: /ip4/192.168.65.2/tcp/33000
+Jan 20 20:17:32.586 DEBUG Loading peers into the routing table          peers: 0
+Jan 20 20:17:32.586 DEBUG Sync Manager started                        
+Jan 20 20:17:32.586 DEBUG Network message router started              
+Jan 20 20:17:32.586 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:17:32.586 DEBUG Sync's view on execution engine state updated  past_state: Online, new_state: Online
+Jan 20 20:17:32.589 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:17:32.589 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 0 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 0 }]
+Jan 20 20:17:32.590 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_27/ssz_snappy
+Jan 20 20:17:32.592 INFO  HTTP API started                              listen_address: 0.0.0.0:5052
+Jan 20 20:17:32.593 INFO  Metrics HTTP server started                   listen_address: "127.0.0.1:5054"
+Jan 20 20:17:32.593 DEBUG ENR written to disk                         
+Jan 20 20:17:32.596 DEBUG Metadata written to disk                    
+Jan 20 20:17:32.596 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_26/ssz_snappy
+Jan 20 20:17:32.604 DEBUG ENR written to disk                         
+Jan 20 20:17:32.606 DEBUG Metadata written to disk                    
+Jan 20 20:17:32.607 DEBUG Discovery query yielded no results.         
+Jan 20 20:17:32.607 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:17:32.607 DEBUG Discv5 event stream ready                   
+Jan 20 20:17:33.603 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:17:33.604 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:17:33.604 DEBUG Sync's view on execution engine state updated  past_state: Online, new_state: Offline
+Jan 20 20:17:34.606 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:17:34.606 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:17:35.750 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 1 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 1 }]
+Jan 20 20:17:35.750 DEBUG Failed to dial peer                           peer_id: None, error: Transport error: No route to host (os error 113)
+Jan 20 20:17:35.750 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:17:35.750 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 2 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 2 }]
+Jan 20 20:17:35.750 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:17:37.587 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 3 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 3 }]
+Jan 20 20:17:37.587 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:17:37.587 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:17:37.587 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:17:40.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7214
+Jan 20 20:17:42.572 INFO  Could not UPnP map Discovery port             error: Gateway does not support UPnP
+Jan 20 20:17:42.587 INFO  UPnP not available                          
+Jan 20 20:17:43.002 DEBUG Running beacon chain per slot tasks           slot: Slot(7215)
+Jan 20 20:17:46.606 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:17:46.606 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:17:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:17:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:17:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7215, sync_state: Stalled
+Jan 20 20:17:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7215
+Jan 20 20:17:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:17:51.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:17:52.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7215
+Jan 20 20:17:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7216)
+Jan 20 20:17:58.349 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:17:58.349 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:17:58.743 DEBUG Simulating unagg. attestation production    
+Jan 20 20:18:00.743 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:18:00.743 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7216, sync_state: Stalled
+Jan 20 20:18:00.743 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7216
+Jan 20 20:18:00.743 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:18:02.312 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:18:02.312 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:18:02.312 DEBUG Discovery query yielded no results.         
+Jan 20 20:18:02.744 DEBUG Proposer prepare routine firing             
+Jan 20 20:18:03.743 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7216
+Jan 20 20:18:06.743 DEBUG Running beacon chain per slot tasks           slot: Slot(7216)
+Jan 20 20:18:07.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7217)
+Jan 20 20:18:10.351 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:18:10.351 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:18:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:18:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:18:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7217, sync_state: Stalled
+Jan 20 20:18:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7217
+Jan 20 20:18:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:18:15.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:18:16.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7217
+Jan 20 20:18:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7218)
+Jan 20 20:18:22.351 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:18:22.351 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:18:23.000 DEBUG Simulating unagg. attestation production    
+Jan 20 20:18:25.000 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:18:25.000 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7218, sync_state: Stalled
+Jan 20 20:18:25.000 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7218
+Jan 20 20:18:25.000 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:18:26.732 DEBUG Proposer prepare routine firing             
+Jan 20 20:18:27.732 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7218
+Jan 20 20:18:30.733 DEBUG Running beacon chain per slot tasks           slot: Slot(7218)
+Jan 20 20:18:31.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7219)
+Jan 20 20:18:32.044 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:18:32.044 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:18:32.044 DEBUG Discovery query yielded no results.         
+Jan 20 20:18:32.061 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:18:33.072 WARN  Execution engine call failed                  error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:18:33.072 DEBUG Failed to preload engine version cache        error: ApiError(HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out))
+Jan 20 20:18:34.074 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:18:34.074 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:18:34.084 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:18:34.084 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:18:34.732 DEBUG Simulating unagg. attestation production    
+Jan 20 20:18:36.732 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:18:36.732 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7219, sync_state: Stalled
+Jan 20 20:18:36.733 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7219
+Jan 20 20:18:36.733 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:18:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:18:40.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7219
+Jan 20 20:18:43.002 DEBUG Running beacon chain per slot tasks           slot: Slot(7220)
+Jan 20 20:18:46.086 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:18:46.086 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:18:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:18:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:18:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7220, sync_state: Stalled
+Jan 20 20:18:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7220
+Jan 20 20:18:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:18:51.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:18:52.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7220
+Jan 20 20:18:55.002 DEBUG Running beacon chain per slot tasks           slot: Slot(7221)
+Jan 20 20:18:56.836 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: request, detail: error trying to connect: tcp connect error: Connection refused (os error 111))
+Jan 20 20:18:56.836 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:18:58.742 DEBUG Simulating unagg. attestation production    
+Jan 20 20:19:00.742 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:19:00.742 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7221, sync_state: Stalled
+Jan 20 20:19:00.742 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7221
+Jan 20 20:19:00.742 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:19:01.785 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:19:01.785 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:19:01.786 DEBUG Discovery query yielded no results.         
+Jan 20 20:19:02.742 DEBUG Proposer prepare routine firing             
+Jan 20 20:19:03.742 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7221
+Jan 20 20:19:06.742 DEBUG Running beacon chain per slot tasks           slot: Slot(7221)
+Jan 20 20:19:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7222)
+Jan 20 20:19:09.830 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:19:09.830 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:19:11.000 DEBUG Simulating unagg. attestation production    
+Jan 20 20:19:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:19:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7222, sync_state: Stalled
+Jan 20 20:19:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7222
+Jan 20 20:19:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:19:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:19:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7222
+Jan 20 20:19:19.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7223)
+Jan 20 20:19:21.831 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:19:21.831 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:19:23.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:19:25.002 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:19:25.002 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7223, sync_state: Stalled
+Jan 20 20:19:25.002 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7223
+Jan 20 20:19:25.002 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:19:26.735 DEBUG Proposer prepare routine firing             
+Jan 20 20:19:27.736 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7223
+Jan 20 20:19:30.735 DEBUG Running beacon chain per slot tasks           slot: Slot(7223)
+Jan 20 20:19:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7224)
+Jan 20 20:19:31.519 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:19:31.519 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:19:31.519 DEBUG Discovery query yielded no results.         
+Jan 20 20:19:31.536 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:19:33.566 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:19:33.566 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:19:34.735 DEBUG Simulating unagg. attestation production    
+Jan 20 20:19:36.736 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:19:36.736 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7224, sync_state: Stalled
+Jan 20 20:19:36.736 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7224
+Jan 20 20:19:36.736 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:19:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:19:40.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7224
+Jan 20 20:19:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7225)
+Jan 20 20:19:45.569 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:19:45.569 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:19:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:19:49.002 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:19:49.002 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7225, sync_state: Stalled
+Jan 20 20:19:49.002 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7225
+Jan 20 20:19:49.002 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:19:51.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:19:52.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7225
+Jan 20 20:19:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7226)
+Jan 20 20:19:57.351 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:19:57.351 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:19:58.782 DEBUG Simulating unagg. attestation production    
+Jan 20 20:20:00.782 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:20:00.782 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7226, sync_state: Stalled
+Jan 20 20:20:00.782 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7226
+Jan 20 20:20:00.782 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:20:01.301 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:20:01.301 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:20:01.301 DEBUG Discovery query yielded no results.         
+Jan 20 20:20:02.782 DEBUG Proposer prepare routine firing             
+Jan 20 20:20:03.782 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7226
+Jan 20 20:20:06.782 DEBUG Running beacon chain per slot tasks           slot: Slot(7226)
+Jan 20 20:20:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7227)
+Jan 20 20:20:09.353 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:20:09.353 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:20:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:20:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:20:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7227, sync_state: Stalled
+Jan 20 20:20:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7227
+Jan 20 20:20:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:20:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:20:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7227
+Jan 20 20:20:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7228)
+Jan 20 20:20:21.356 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:20:21.356 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:20:23.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:20:25.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:20:25.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7228, sync_state: Stalled
+Jan 20 20:20:25.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7228
+Jan 20 20:20:25.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:20:26.754 DEBUG Proposer prepare routine firing             
+Jan 20 20:20:27.754 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7228
+Jan 20 20:20:30.755 DEBUG Running beacon chain per slot tasks           slot: Slot(7228)
+Jan 20 20:20:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7229)
+Jan 20 20:20:31.055 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:20:31.055 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:20:31.055 DEBUG Discovery query yielded no results.         
+Jan 20 20:20:31.071 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:20:33.109 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:20:33.109 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:20:34.755 DEBUG Simulating unagg. attestation production    
+Jan 20 20:20:36.755 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:20:36.755 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7229, sync_state: Stalled
+Jan 20 20:20:36.755 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7229
+Jan 20 20:20:36.755 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:20:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:20:40.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7229
+Jan 20 20:20:43.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7230)
+Jan 20 20:20:45.112 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:20:45.112 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:20:47.002 DEBUG Simulating unagg. attestation production    
+Jan 20 20:20:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:20:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7230, sync_state: Stalled
+Jan 20 20:20:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7230
+Jan 20 20:20:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:20:51.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:20:52.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7230
+Jan 20 20:20:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7231)
+Jan 20 20:20:56.862 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:20:56.862 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:20:58.750 DEBUG Simulating unagg. attestation production    
+Jan 20 20:21:00.750 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:21:00.750 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7231, sync_state: Stalled
+Jan 20 20:21:00.750 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7231
+Jan 20 20:21:00.750 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:21:00.804 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:21:00.804 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:21:00.804 DEBUG Discovery query yielded no results.         
+Jan 20 20:21:02.750 DEBUG Proposer prepare routine firing             
+Jan 20 20:21:03.750 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7231
+Jan 20 20:21:06.750 DEBUG Running beacon chain per slot tasks           slot: Slot(7231)
+Jan 20 20:21:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7232)
+Jan 20 20:21:08.862 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:21:08.862 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:21:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:21:13.002 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:21:13.002 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7232, sync_state: Stalled
+Jan 20 20:21:13.002 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7232
+Jan 20 20:21:13.002 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:21:15.002 DEBUG Proposer prepare routine firing             
+Jan 20 20:21:16.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7232
+Jan 20 20:21:19.002 DEBUG Running beacon chain per slot tasks           slot: Slot(7233)
+Jan 20 20:21:20.863 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:21:20.863 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:21:23.002 DEBUG Simulating unagg. attestation production    
+Jan 20 20:21:25.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:21:25.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7233, sync_state: Stalled
+Jan 20 20:21:25.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7233
+Jan 20 20:21:25.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:21:26.756 DEBUG Proposer prepare routine firing             
+Jan 20 20:21:27.756 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7233
+Jan 20 20:21:30.559 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:21:30.559 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:21:30.560 DEBUG Discovery query yielded no results.         
+Jan 20 20:21:30.577 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:21:30.756 DEBUG Running beacon chain per slot tasks           slot: Slot(7233)
+Jan 20 20:21:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7234)
+Jan 20 20:21:32.621 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:21:32.621 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:21:34.756 DEBUG Simulating unagg. attestation production    
+Jan 20 20:21:36.756 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:21:36.756 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7234, sync_state: Stalled
+Jan 20 20:21:36.756 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7234
+Jan 20 20:21:36.756 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:21:39.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:21:40.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7234
+Jan 20 20:21:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7235)
+Jan 20 20:21:44.621 ERROR Error during execution engine upcheck         error: HttpClient(url: http://geth:8551/, kind: timeout, detail: operation timed out)
+Jan 20 20:21:44.621 DEBUG Execution engine upcheck complete             state: Offline
+Jan 20 20:21:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:21:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:21:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7235, sync_state: Stalled
+Jan 20 20:21:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7235
+Jan 20 20:21:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:21:51.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:21:52.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7235
+Jan 20 20:24:40.353 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:24:40.353 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:24:40.363 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:24:40.364 ERROR Missing UDP in Multiaddr                      multiaddr: "/ip4/192.168.65.2/tcp/33000/p2p/16Uiu2HAmGD9YTBK6NBbGpnbbSs5yLq8iUVzcyikrmeTVr15nPqAS"
+Jan 20 20:24:40.364 INFO  Deposit contract                              deploy_block: 0, address: 0x00000000219ab540356cbb839cbe05303d7705fa
+Jan 20 20:24:40.367 DEBUG Opening HotColdDB                           
+Jan 20 20:24:40.367 DEBUG Opening LevelDB                               hot_path: "/root/.lighthouse/beacon/chain_db"
+Jan 20 20:24:40.390 DEBUG Loaded anchor info                            anchor_info: RwLock { data: AnchorInfo { anchor_slot: Slot(0), oldest_block_slot: Slot(0), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) } }
+Jan 20 20:24:40.425 INFO  Blob DB initialized                           path: "/root/.lighthouse/beacon/blobs_db", oldest_blob_slot: Some(Slot(0)), oldest_data_column_slot: Some(Slot(0))
+Jan 20 20:24:40.425 DEBUG Attempting schema migration                   from_version: 28, to_version: 28
+Jan 20 20:24:40.426 DEBUG Store anchor info                             anchor: AnchorInfo { anchor_slot: Slot(0), oldest_block_slot: Slot(0), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) }
+Jan 20 20:24:40.427 DEBUG Loaded network key from disk (hex format).  
+Jan 20 20:24:40.428 DEBUG Loaded execution endpoint                     endpoint: http://geth:8551/, jwt_path: "/jwt.hex"
+Jan 20 20:24:43.932 INFO  Starting beacon chain                         method: "resume"
+Jan 20 20:24:43.934 WARN  State cache missed                            state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65
+Jan 20 20:24:44.005 DEBUG Cached state                                  state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, state_slot: 0, deleted_states: [], location: "get_hot_state"
+Jan 20 20:24:44.005 DEBUG Restoring fork choice from persisted          reset_payload_statuses: OnlyWithInvalidPayload, contains_invalid_payloads: false
+Jan 20 20:24:44.006 INFO  Block production enabled                    
+Jan 20 20:24:44.009 DEBUG Loaded persisted custody context              custody_context: CustodyContext { validator_custody_count: 0, validator_registrations: RwLock { data: ValidatorRegistrations { validators: {}, epoch_validator_custody_requirements: {} } }, ordered_custody_column_indices: [123, 41, 104, 117, 71, 18, 44, 48, 31, 91, 29, 74, 73, 108, 62, 21, 118, 116, 66, 90, 3, 5, 70, 7, 39, 56, 68, 76, 67, 83, 85, 17, 79, 124, 12, 107, 53, 24, 127, 125, 97, 105, 102, 52, 86, 36, 122, 22, 27, 32, 10, 50, 8, 103, 77, 100, 46, 33, 19, 119, 1, 28, 69, 54, 47, 43, 112, 11, 61, 15, 58, 4, 13, 113, 115, 45, 99, 42, 80, 88, 34, 120, 65, 59, 2, 106, 84, 0, 40, 20, 75, 37, 126, 30, 114, 110, 111, 121, 101, 9, 23, 26, 38, 64, 109, 51, 16, 82, 96, 63, 87, 78, 6, 14, 93, 55, 81, 57, 89, 60, 49, 35, 92, 94, 98, 25, 72, 95], _phantom_data: PhantomData<types::eth_spec::MainnetEthSpec> }
+Jan 20 20:24:44.009 INFO  Beacon chain initialized                      head_state: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0
+Jan 20 20:24:44.009 INFO  Timer service started                       
+Jan 20 20:24:44.009 INFO  UPnP Attempting to initialise routes        
+Jan 20 20:24:44.009 DEBUG Blobs are pruned                              oldest_blob_slot: 0, data_availability_boundary: 0, split.slot: 0, end_epoch: 0, start_epoch: 0
+Jan 20 20:24:44.011 DEBUG ENR sequence number increased                 seq: 4
+Jan 20 20:24:44.014 DEBUG ENR written to disk                         
+Jan 20 20:24:44.015 DEBUG Loaded metadata from disk                   
+Jan 20 20:24:44.015 DEBUG Metadata sequence number                      seq_num: 3
+Jan 20 20:24:44.018 DEBUG Metadata written to disk                    
+Jan 20 20:24:44.018 DEBUG Starting node with custody params             cgc: 4, sampling_subnets: {44, 104, 48, 41, 123, 18, 117, 71}
+Jan 20 20:24:44.018 DEBUG Using response rate limiting params           config: InboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s })
+Jan 20 20:24:44.018 DEBUG Using self rate limiting params               config: Some(OutboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s }))
+Jan 20 20:24:44.019 INFO  ENR Initialised                               enr: "enr:-Ny4QIVSAujuGymdnl1NPMtaw3VuvQWMY4NC28KY1sbPBChUGNeUVPggn2mkxT5Bf9PSwdfbn-kI5KIMNhMMn890vJcEh2F0dG5ldHOIAAAAAAAAAACDY2djBIZjbGllbnTRikxpZ2h0aG91c2WFOC4wLjGEZXRoMpCQ8CR_cAAAOP__________gmlkgnY0g25mZISQ8CR_hHF1aWOCIymJc2VjcDI1NmsxoQJydgGAzmfr3j2grbSEQbfNhrXwli4HFs8RIsQ8mX8Z2IhzeW5jbmV0cwCDdGNwgiMo", seq: 4, id: 0x69b6..da2f, ip4: None, udp4: None, tcp4: Some(9000), tcp6: None, udp6: None, quic4: Some(9001), quic6: None
+Jan 20 20:24:44.019 DEBUG Discovery service started                   
+Jan 20 20:24:44.019 INFO  Contacting Multiaddr boot-nodes for their ENR
+Jan 20 20:24:44.019 ERROR Error getting mapping to ENR                  multiaddr: "/ip4/192.168.65.2/tcp/33000/p2p/16Uiu2HAmGD9YTBK6NBbGpnbbSs5yLq8iUVzcyikrmeTVr15nPqAS", error: "InvalidMultiaddr("A UDP port must be specified in the multiaddr")"
+Jan 20 20:24:44.019 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:24:44.020 INFO  Libp2p Starting                               peer_id: 16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b, bandwidth_config: "3-Average"
+Jan 20 20:24:44.020 DEBUG Attempting to open listening ports            listen_addrs: V4(ListenAddr { addr: 0.0.0.0, disc_port: 9000, quic_port: 9001, tcp_port: 9000 }), discovery_enabled: true, quic_enabled: true
+Jan 20 20:24:44.020 INFO  Listening established                         address: /ip4/0.0.0.0/tcp/9000/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:24:44.020 INFO  Listening established                         address: /ip4/0.0.0.0/udp/9001/quic-v1/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:24:44.021 DEBUG Dialing libp2p peer                           address: /ip4/192.168.65.2/tcp/33000
+Jan 20 20:24:44.021 DEBUG Loading peers into the routing table          peers: 0
+Jan 20 20:24:44.021 DEBUG Sync Manager started                        
+Jan 20 20:24:44.021 DEBUG Sync's view on execution engine state updated  past_state: Online, new_state: Online
+Jan 20 20:24:44.021 DEBUG Network message router started              
+Jan 20 20:24:44.021 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_27/ssz_snappy
+Jan 20 20:24:44.024 DEBUG ENR written to disk                         
+Jan 20 20:24:44.025 INFO  HTTP API started                              listen_address: 0.0.0.0:5052
+Jan 20 20:24:44.025 INFO  Metrics HTTP server started                   listen_address: "127.0.0.1:5054"
+Jan 20 20:24:44.027 DEBUG Metadata written to disk                    
+Jan 20 20:24:44.027 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:24:44.027 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_26/ssz_snappy
+Jan 20 20:24:44.029 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:24:44.029 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:24:44.033 DEBUG ENR written to disk                         
+Jan 20 20:24:44.036 DEBUG Metadata written to disk                    
+Jan 20 20:24:44.036 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:24:44.036 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 0 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 0 }]
+Jan 20 20:24:44.036 DEBUG Discovery query yielded no results.         
+Jan 20 20:24:44.036 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:24:44.036 DEBUG Discv5 event stream ready                   
+Jan 20 20:24:44.036 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 1 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 1 }]
+Jan 20 20:24:44.037 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:24:47.172 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 2 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 2 }]
+Jan 20 20:24:47.172 DEBUG Failed to dial peer                           peer_id: None, error: Transport error: No route to host (os error 113)
+Jan 20 20:24:47.172 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:24:47.172 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 3 }, SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 3 }]
+Jan 20 20:24:47.172 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(27)), Attestation(SubnetId(26))]
+Jan 20 20:24:47.172 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:24:47.172 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:24:52.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7250
+Jan 20 20:24:53.801 INFO  Could not UPnP map Discovery port             error: Gateway does not support UPnP
+Jan 20 20:24:53.811 INFO  UPnP not available                          
+Jan 20 20:24:54.790 DEBUG Running beacon chain per slot tasks           slot: Slot(7250)
+Jan 20 20:24:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7251)
+Jan 20 20:24:55.820 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:24:58.790 DEBUG Simulating unagg. attestation production    
+Jan 20 20:25:00.791 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:25:00.791 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7251, sync_state: Stalled
+Jan 20 20:25:00.792 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7251
+Jan 20 20:25:00.792 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:25:02.790 DEBUG Proposer prepare routine firing             
+Jan 20 20:25:04.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7251
+Jan 20 20:25:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7252)
+Jan 20 20:25:07.821 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:25:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:25:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:25:13.002 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7252, sync_state: Stalled
+Jan 20 20:25:13.002 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7252
+Jan 20 20:25:13.002 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:25:13.809 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:25:13.809 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:25:13.810 DEBUG Discovery query yielded no results.         
+Jan 20 20:25:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:25:16.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7252
+Jan 20 20:25:19.002 DEBUG Running beacon chain per slot tasks           slot: Slot(7253)
+Jan 20 20:25:19.823 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:25:23.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:25:24.746 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:25:24.746 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7253, sync_state: Stalled
+Jan 20 20:25:24.746 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7253
+Jan 20 20:25:24.746 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:25:26.746 DEBUG Proposer prepare routine firing             
+Jan 20 20:25:27.746 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7253
+Jan 20 20:25:30.746 DEBUG Running beacon chain per slot tasks           slot: Slot(7253)
+Jan 20 20:25:31.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7254)
+Jan 20 20:25:31.568 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:25:34.746 DEBUG Simulating unagg. attestation production    
+Jan 20 20:25:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:25:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7254, sync_state: Stalled
+Jan 20 20:25:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7254
+Jan 20 20:25:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:25:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:25:40.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7254
+Jan 20 20:25:43.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7255)
+Jan 20 20:25:43.553 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:25:43.553 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:25:43.554 DEBUG Discovery query yielded no results.         
+Jan 20 20:25:43.556 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:25:43.570 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:25:43.570 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:25:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:25:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:25:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7255, sync_state: Stalled
+Jan 20 20:25:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7255
+Jan 20 20:25:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:25:51.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:25:52.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7255
+Jan 20 20:25:54.757 DEBUG Running beacon chain per slot tasks           slot: Slot(7255)
+Jan 20 20:25:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7256)
+Jan 20 20:25:55.328 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:25:58.758 DEBUG Simulating unagg. attestation production    
+Jan 20 20:26:00.758 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:26:00.758 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7256, sync_state: Stalled
+Jan 20 20:26:00.758 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7256
+Jan 20 20:26:00.758 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:26:02.757 DEBUG Proposer prepare routine firing             
+Jan 20 20:26:04.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7256
+Jan 20 20:26:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7257)
+Jan 20 20:26:07.329 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:26:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:26:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:26:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7257, sync_state: Stalled
+Jan 20 20:26:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7257
+Jan 20 20:26:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:26:13.312 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:26:13.312 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:26:13.312 DEBUG Discovery query yielded no results.         
+Jan 20 20:26:15.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:26:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7257
+Jan 20 20:26:19.501 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:26:19.501 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:26:19.515 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:26:19.515 INFO  Deposit contract                              deploy_block: 0, address: 0x00000000219ab540356cbb839cbe05303d7705fa
+Jan 20 20:26:19.518 DEBUG Opening HotColdDB                           
+Jan 20 20:26:19.518 DEBUG Opening LevelDB                               hot_path: "/root/.lighthouse/beacon/chain_db"
+Jan 20 20:26:19.547 DEBUG Loaded anchor info                            anchor_info: RwLock { data: AnchorInfo { anchor_slot: Slot(0), oldest_block_slot: Slot(0), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) } }
+Jan 20 20:26:19.582 INFO  Blob DB initialized                           path: "/root/.lighthouse/beacon/blobs_db", oldest_blob_slot: Some(Slot(0)), oldest_data_column_slot: Some(Slot(0))
+Jan 20 20:26:19.583 DEBUG Attempting schema migration                   from_version: 28, to_version: 28
+Jan 20 20:26:19.583 DEBUG Store anchor info                             anchor: AnchorInfo { anchor_slot: Slot(0), oldest_block_slot: Slot(0), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) }
+Jan 20 20:26:19.584 DEBUG Loaded network key from disk (hex format).  
+Jan 20 20:26:19.585 DEBUG Loaded execution endpoint                     endpoint: http://geth:8551/, jwt_path: "/jwt.hex"
+Jan 20 20:26:22.676 INFO  Starting beacon chain                         method: "resume"
+Jan 20 20:26:22.676 WARN  State cache missed                            state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65
+Jan 20 20:26:22.718 DEBUG Cached state                                  state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, state_slot: 0, deleted_states: [], location: "get_hot_state"
+Jan 20 20:26:22.718 DEBUG Restoring fork choice from persisted          reset_payload_statuses: OnlyWithInvalidPayload, contains_invalid_payloads: false
+Jan 20 20:26:22.719 INFO  Block production enabled                    
+Jan 20 20:26:22.720 DEBUG Loaded persisted custody context              custody_context: CustodyContext { validator_custody_count: 0, validator_registrations: RwLock { data: ValidatorRegistrations { validators: {}, epoch_validator_custody_requirements: {} } }, ordered_custody_column_indices: [123, 41, 104, 117, 71, 18, 44, 48, 31, 91, 29, 74, 73, 108, 62, 21, 118, 116, 66, 90, 3, 5, 70, 7, 39, 56, 68, 76, 67, 83, 85, 17, 79, 124, 12, 107, 53, 24, 127, 125, 97, 105, 102, 52, 86, 36, 122, 22, 27, 32, 10, 50, 8, 103, 77, 100, 46, 33, 19, 119, 1, 28, 69, 54, 47, 43, 112, 11, 61, 15, 58, 4, 13, 113, 115, 45, 99, 42, 80, 88, 34, 120, 65, 59, 2, 106, 84, 0, 40, 20, 75, 37, 126, 30, 114, 110, 111, 121, 101, 9, 23, 26, 38, 64, 109, 51, 16, 82, 96, 63, 87, 78, 6, 14, 93, 55, 81, 57, 89, 60, 49, 35, 92, 94, 98, 25, 72, 95], _phantom_data: PhantomData<types::eth_spec::MainnetEthSpec> }
+Jan 20 20:26:22.720 INFO  Beacon chain initialized                      head_state: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0
+Jan 20 20:26:22.720 INFO  Timer service started                       
+Jan 20 20:26:22.720 DEBUG Blobs are pruned                              oldest_blob_slot: 0, data_availability_boundary: 0, split.slot: 0, end_epoch: 0, start_epoch: 0
+Jan 20 20:26:22.720 INFO  UPnP Attempting to initialise routes        
+Jan 20 20:26:22.722 DEBUG ENR sequence number increased                 seq: 7
+Jan 20 20:26:22.725 DEBUG ENR written to disk                         
+Jan 20 20:26:22.726 DEBUG Loaded metadata from disk                   
+Jan 20 20:26:22.726 DEBUG Metadata sequence number                      seq_num: 6
+Jan 20 20:26:22.729 DEBUG Metadata written to disk                    
+Jan 20 20:26:22.729 DEBUG Starting node with custody params             cgc: 4, sampling_subnets: {71, 44, 117, 18, 123, 104, 48, 41}
+Jan 20 20:26:22.729 DEBUG Using response rate limiting params           config: InboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s })
+Jan 20 20:26:22.729 DEBUG Using self rate limiting params               config: Some(OutboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s }))
+Jan 20 20:26:22.729 INFO  ENR Initialised                               enr: "enr:-Ny4QCBghBNaCSr2y4fPVbVcCG2mnixuDae0aXE8-Jp-DDv7NXPURm3A-1u6KHSxpy5p4wj9T04u7B23P7avSjYxS0IHh2F0dG5ldHOIAAAAAAAAAACDY2djBIZjbGllbnTRikxpZ2h0aG91c2WFOC4wLjGEZXRoMpCQ8CR_cAAAOP__________gmlkgnY0g25mZISQ8CR_hHF1aWOCIymJc2VjcDI1NmsxoQJydgGAzmfr3j2grbSEQbfNhrXwli4HFs8RIsQ8mX8Z2IhzeW5jbmV0cwCDdGNwgiMo", seq: 7, id: 0x69b6..da2f, ip4: None, udp4: None, tcp4: Some(9000), tcp6: None, udp6: None, quic4: Some(9001), quic6: None
+Jan 20 20:26:22.729 DEBUG Discovery service started                   
+Jan 20 20:26:22.729 INFO  Contacting Multiaddr boot-nodes for their ENR
+Jan 20 20:26:24.733 ERROR Error getting mapping to ENR                  multiaddr: "/ip4/192.168.65.2/udp/33000/p2p/16Uiu2HAmGD9YTBK6NBbGpnbbSs5yLq8iUVzcyikrmeTVr15nPqAS", error: "Timeout"
+Jan 20 20:26:24.733 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:26:24.733 INFO  Libp2p Starting                               peer_id: 16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b, bandwidth_config: "3-Average"
+Jan 20 20:26:24.733 DEBUG Attempting to open listening ports            listen_addrs: V4(ListenAddr { addr: 0.0.0.0, disc_port: 9000, quic_port: 9001, tcp_port: 9000 }), discovery_enabled: true, quic_enabled: true
+Jan 20 20:26:24.734 INFO  Listening established                         address: /ip4/0.0.0.0/tcp/9000/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:26:24.735 INFO  Listening established                         address: /ip4/0.0.0.0/udp/9001/quic-v1/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:26:24.735 DEBUG Loading peers into the routing table          peers: 0
+Jan 20 20:26:24.735 DEBUG Sync Manager started                        
+Jan 20 20:26:24.735 DEBUG Network message router started              
+Jan 20 20:26:24.735 DEBUG Sync's view on execution engine state updated  past_state: Online, new_state: Online
+Jan 20 20:26:24.735 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_26/ssz_snappy
+Jan 20 20:26:24.737 DEBUG ENR written to disk                         
+Jan 20 20:26:24.739 INFO  HTTP API started                              listen_address: 0.0.0.0:5052
+Jan 20 20:26:24.739 INFO  Metrics HTTP server started                   listen_address: "127.0.0.1:5054"
+Jan 20 20:26:24.741 DEBUG Metadata written to disk                    
+Jan 20 20:26:24.741 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:26:24.741 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_27/ssz_snappy
+Jan 20 20:26:24.741 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:26:24.742 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:26:24.747 DEBUG ENR written to disk                         
+Jan 20 20:26:24.750 DEBUG Metadata written to disk                    
+Jan 20 20:26:24.750 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:26:24.750 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 0 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 0 }]
+Jan 20 20:26:24.750 DEBUG Discovery query yielded no results.         
+Jan 20 20:26:24.750 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:26:24.750 DEBUG Discv5 event stream ready                   
+Jan 20 20:26:24.750 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 1 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 1 }]
+Jan 20 20:26:24.750 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:26:28.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7258
+Jan 20 20:26:28.729 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 2 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 2 }]
+Jan 20 20:26:28.730 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:26:29.730 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 3 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 3 }]
+Jan 20 20:26:29.730 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:26:29.730 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:26:29.730 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:26:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7259)
+Jan 20 20:26:32.722 INFO  Could not UPnP map Discovery port             error: Gateway does not support UPnP
+Jan 20 20:26:34.735 INFO  UPnP not available                          
+Jan 20 20:26:35.000 DEBUG Simulating unagg. attestation production    
+Jan 20 20:26:36.743 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:26:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:26:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7259, sync_state: Stalled
+Jan 20 20:26:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7259
+Jan 20 20:26:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:26:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:26:40.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7259
+Jan 20 20:26:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7260)
+Jan 20 20:26:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:26:48.745 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:26:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:26:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7260, sync_state: Stalled
+Jan 20 20:26:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7260
+Jan 20 20:26:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:26:51.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:26:52.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7260
+Jan 20 20:26:54.478 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:26:54.478 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:26:54.479 DEBUG Discovery query yielded no results.         
+Jan 20 20:26:54.745 DEBUG Running beacon chain per slot tasks           slot: Slot(7260)
+Jan 20 20:26:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7261)
+Jan 20 20:26:58.745 DEBUG Simulating unagg. attestation production    
+Jan 20 20:27:00.491 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:27:00.745 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:27:00.745 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7261, sync_state: Stalled
+Jan 20 20:27:00.745 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7261
+Jan 20 20:27:00.745 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:27:02.745 DEBUG Proposer prepare routine firing             
+Jan 20 20:27:04.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7261
+Jan 20 20:27:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7262)
+Jan 20 20:27:11.002 DEBUG Simulating unagg. attestation production    
+Jan 20 20:27:12.492 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:27:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:27:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7262, sync_state: Stalled
+Jan 20 20:27:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7262
+Jan 20 20:27:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:27:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:27:16.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7262
+Jan 20 20:27:19.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7263)
+Jan 20 20:27:22.745 DEBUG Simulating unagg. attestation production    
+Jan 20 20:27:24.222 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:27:24.222 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:27:24.222 DEBUG Discovery query yielded no results.         
+Jan 20 20:27:24.224 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:27:24.230 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:27:24.236 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:27:24.745 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:27:24.745 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7263, sync_state: Stalled
+Jan 20 20:27:24.745 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7263
+Jan 20 20:27:24.745 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:27:26.745 DEBUG Proposer prepare routine firing             
+Jan 20 20:27:27.746 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7263
+Jan 20 20:27:30.745 DEBUG Running beacon chain per slot tasks           slot: Slot(7263)
+Jan 20 20:27:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7264)
+Jan 20 20:27:35.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:27:36.238 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:27:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:27:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7264, sync_state: Stalled
+Jan 20 20:27:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7264
+Jan 20 20:27:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:27:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:27:40.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7264
+Jan 20 20:27:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7265)
+Jan 20 20:27:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:27:48.240 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:27:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:27:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7265, sync_state: Stalled
+Jan 20 20:27:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7265
+Jan 20 20:27:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:27:51.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:27:51.756 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7265
+Jan 20 20:27:53.977 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:27:53.977 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:27:53.977 DEBUG Discovery query yielded no results.         
+Jan 20 20:27:54.755 DEBUG Running beacon chain per slot tasks           slot: Slot(7265)
+Jan 20 20:27:55.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7266)
+Jan 20 20:27:58.755 DEBUG Simulating unagg. attestation production    
+Jan 20 20:27:59.997 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:28:00.756 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:28:00.756 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7266, sync_state: Stalled
+Jan 20 20:28:00.756 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7266
+Jan 20 20:28:00.756 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:28:02.755 DEBUG Proposer prepare routine firing             
+Jan 20 20:28:04.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7266
+Jan 20 20:28:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7267)
+Jan 20 20:28:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:28:11.997 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:28:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:28:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7267, sync_state: Stalled
+Jan 20 20:28:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7267
+Jan 20 20:28:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:28:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:28:16.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7267
+Jan 20 20:28:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7268)
+Jan 20 20:28:22.785 DEBUG Simulating unagg. attestation production    
+Jan 20 20:28:23.762 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:28:23.762 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:28:23.763 DEBUG Discovery query yielded no results.         
+Jan 20 20:28:23.764 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:28:23.783 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:28:24.785 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:28:24.785 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7268, sync_state: Stalled
+Jan 20 20:28:24.785 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7268
+Jan 20 20:28:24.785 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:28:26.785 DEBUG Proposer prepare routine firing             
+Jan 20 20:28:27.785 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7268
+Jan 20 20:28:30.784 DEBUG Running beacon chain per slot tasks           slot: Slot(7268)
+Jan 20 20:28:31.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7269)
+Jan 20 20:28:35.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:28:35.784 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:28:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:28:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7269, sync_state: Stalled
+Jan 20 20:28:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7269
+Jan 20 20:28:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:28:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:28:40.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7269
+Jan 20 20:28:43.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7270)
+Jan 20 20:28:47.002 DEBUG Simulating unagg. attestation production    
+Jan 20 20:28:47.786 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:28:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:28:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7270, sync_state: Stalled
+Jan 20 20:28:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7270
+Jan 20 20:28:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:28:51.002 DEBUG Proposer prepare routine firing             
+Jan 20 20:28:51.757 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7270
+Jan 20 20:28:53.519 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:28:53.519 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:28:53.519 DEBUG Discovery query yielded no results.         
+Jan 20 20:28:54.757 DEBUG Running beacon chain per slot tasks           slot: Slot(7270)
+Jan 20 20:28:55.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7271)
+Jan 20 20:28:58.758 DEBUG Simulating unagg. attestation production    
+Jan 20 20:28:59.543 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:29:00.758 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:29:00.758 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7271, sync_state: Stalled
+Jan 20 20:29:00.758 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7271
+Jan 20 20:29:00.758 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:29:02.757 DEBUG Proposer prepare routine firing             
+Jan 20 20:29:04.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7271
+Jan 20 20:29:07.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7272)
+Jan 20 20:29:11.002 DEBUG Simulating unagg. attestation production    
+Jan 20 20:29:11.544 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:29:13.005 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:29:13.005 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7272, sync_state: Stalled
+Jan 20 20:29:13.005 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7272
+Jan 20 20:29:13.005 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:29:15.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:29:16.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7272
+Jan 20 20:29:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7273)
+Jan 20 20:29:22.755 DEBUG Simulating unagg. attestation production    
+Jan 20 20:29:23.274 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:29:23.274 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:29:23.274 DEBUG Discovery query yielded no results.         
+Jan 20 20:29:23.275 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:29:23.300 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:29:24.756 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:29:24.756 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7273, sync_state: Stalled
+Jan 20 20:29:24.756 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7273
+Jan 20 20:29:24.756 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:29:26.756 DEBUG Proposer prepare routine firing             
+Jan 20 20:29:27.756 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7273
+Jan 20 20:29:30.756 DEBUG Running beacon chain per slot tasks           slot: Slot(7273)
+Jan 20 20:29:31.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7274)
+Jan 20 20:29:35.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:29:35.301 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:29:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:29:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7274, sync_state: Stalled
+Jan 20 20:29:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7274
+Jan 20 20:29:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:29:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:29:40.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7274
+Jan 20 20:29:43.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7275)
+Jan 20 20:29:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:29:47.302 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:29:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:29:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7275, sync_state: Stalled
+Jan 20 20:29:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7275
+Jan 20 20:29:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:29:50.769 DEBUG Proposer prepare routine firing             
+Jan 20 20:29:51.767 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7275
+Jan 20 20:29:53.040 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:29:53.040 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:29:53.041 DEBUG Discovery query yielded no results.         
+Jan 20 20:29:54.768 DEBUG Running beacon chain per slot tasks           slot: Slot(7275)
+Jan 20 20:29:55.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7276)
+Jan 20 20:29:58.767 DEBUG Simulating unagg. attestation production    
+Jan 20 20:29:59.070 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:30:00.767 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:30:00.767 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7276, sync_state: Stalled
+Jan 20 20:30:00.767 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7276
+Jan 20 20:30:00.767 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:30:03.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:30:04.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7276
+Jan 20 20:30:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7277)
+Jan 20 20:30:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:30:11.071 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:30:13.003 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:30:13.003 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7277, sync_state: Stalled
+Jan 20 20:30:13.003 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7277
+Jan 20 20:30:13.003 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:30:15.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:30:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7277
+Jan 20 20:30:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7278)
+Jan 20 20:31:27.344 INFO  Lighthouse started                            version: "Lighthouse/v8.0.1-d1028c9"
+Jan 20 20:31:27.344 INFO  Configured network                            network_name: "custom (/network-configs)"
+Jan 20 20:31:27.357 INFO  Data directory initialised                    datadir: /root/.lighthouse
+Jan 20 20:31:27.357 INFO  Deposit contract                              deploy_block: 0, address: 0x00000000219ab540356cbb839cbe05303d7705fa
+Jan 20 20:31:27.360 DEBUG Opening HotColdDB                           
+Jan 20 20:31:27.360 DEBUG Opening LevelDB                               hot_path: "/root/.lighthouse/beacon/chain_db"
+Jan 20 20:31:27.392 DEBUG Loaded anchor info                            anchor_info: RwLock { data: AnchorInfo { anchor_slot: Slot(0), oldest_block_slot: Slot(0), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) } }
+Jan 20 20:31:27.426 INFO  Blob DB initialized                           path: "/root/.lighthouse/beacon/blobs_db", oldest_blob_slot: Some(Slot(0)), oldest_data_column_slot: Some(Slot(0))
+Jan 20 20:31:27.426 DEBUG Attempting schema migration                   from_version: 28, to_version: 28
+Jan 20 20:31:27.426 DEBUG Store anchor info                             anchor: AnchorInfo { anchor_slot: Slot(0), oldest_block_slot: Slot(0), oldest_block_parent: 0x0000000000000000000000000000000000000000000000000000000000000000, state_upper_limit: Slot(18446744073709551615), state_lower_limit: Slot(0) }
+Jan 20 20:31:27.427 DEBUG Loaded network key from disk (hex format).  
+Jan 20 20:31:27.428 DEBUG Loaded execution endpoint                     endpoint: http://geth:8551/, jwt_path: "/jwt.hex"
+Jan 20 20:31:30.724 INFO  Starting beacon chain                         method: "resume"
+Jan 20 20:31:30.724 WARN  State cache missed                            state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65
+Jan 20 20:31:30.776 DEBUG Cached state                                  state_root: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, state_slot: 0, deleted_states: [], location: "get_hot_state"
+Jan 20 20:31:30.776 DEBUG Restoring fork choice from persisted          reset_payload_statuses: OnlyWithInvalidPayload, contains_invalid_payloads: false
+Jan 20 20:31:30.777 INFO  Block production enabled                    
+Jan 20 20:31:30.777 DEBUG Loaded persisted custody context              custody_context: CustodyContext { validator_custody_count: 0, validator_registrations: RwLock { data: ValidatorRegistrations { validators: {}, epoch_validator_custody_requirements: {} } }, ordered_custody_column_indices: [123, 41, 104, 117, 71, 18, 44, 48, 31, 91, 29, 74, 73, 108, 62, 21, 118, 116, 66, 90, 3, 5, 70, 7, 39, 56, 68, 76, 67, 83, 85, 17, 79, 124, 12, 107, 53, 24, 127, 125, 97, 105, 102, 52, 86, 36, 122, 22, 27, 32, 10, 50, 8, 103, 77, 100, 46, 33, 19, 119, 1, 28, 69, 54, 47, 43, 112, 11, 61, 15, 58, 4, 13, 113, 115, 45, 99, 42, 80, 88, 34, 120, 65, 59, 2, 106, 84, 0, 40, 20, 75, 37, 126, 30, 114, 110, 111, 121, 101, 9, 23, 26, 38, 64, 109, 51, 16, 82, 96, 63, 87, 78, 6, 14, 93, 55, 81, 57, 89, 60, 49, 35, 92, 94, 98, 25, 72, 95], _phantom_data: PhantomData<types::eth_spec::MainnetEthSpec> }
+Jan 20 20:31:30.777 INFO  Beacon chain initialized                      head_state: 0xde31243c67e396bb1f2dc8d7804b6546cd8b21198b86e61e5009650b4ecf7c65, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0
+Jan 20 20:31:30.777 INFO  Timer service started                       
+Jan 20 20:31:30.777 DEBUG Blobs are pruned                              oldest_blob_slot: 0, data_availability_boundary: 0, split.slot: 0, end_epoch: 0, start_epoch: 0
+Jan 20 20:31:30.778 INFO  UPnP Attempting to initialise routes        
+Jan 20 20:31:30.779 DEBUG ENR sequence number increased                 seq: 10
+Jan 20 20:31:30.781 DEBUG ENR written to disk                         
+Jan 20 20:31:30.782 DEBUG Loaded metadata from disk                   
+Jan 20 20:31:30.783 DEBUG Metadata sequence number                      seq_num: 9
+Jan 20 20:31:30.785 DEBUG Metadata written to disk                    
+Jan 20 20:31:30.785 DEBUG Starting node with custody params             cgc: 4, sampling_subnets: {104, 18, 48, 123, 41, 117, 71, 44}
+Jan 20 20:31:30.785 DEBUG Using response rate limiting params           config: InboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s })
+Jan 20 20:31:30.785 DEBUG Using self rate limiting params               config: Some(OutboundRateLimiterConfig(RateLimiterConfig { ping: 2/10s, metadata: 2/5s, status: 5/15s, goodbye: 1/10s, blocks_by_range: 128/10s, blocks_by_root: 128/10s, blobs_by_range: 896/10s, blobs_by_root: 896/10s, data_columns_by_range: 16384/10s, data_columns_by_root: 16384/10s }))
+Jan 20 20:31:30.785 INFO  ENR Initialised                               enr: "enr:-Ny4QAZg6hYWzhvMe7wQr3buVrdllsJOa8kRCE-Rk-kJp1ZEMwwRqZIh23dPYKr_tk5zOQugB_tvodKqChGJONKl4X8Kh2F0dG5ldHOIAAAAAAAAAACDY2djBIZjbGllbnTRikxpZ2h0aG91c2WFOC4wLjGEZXRoMpCQ8CR_cAAAOP__________gmlkgnY0g25mZISQ8CR_hHF1aWOCIymJc2VjcDI1NmsxoQJydgGAzmfr3j2grbSEQbfNhrXwli4HFs8RIsQ8mX8Z2IhzeW5jbmV0cwCDdGNwgiMo", seq: 10, id: 0x69b6..da2f, ip4: None, udp4: None, tcp4: Some(9000), tcp6: None, udp6: None, quic4: Some(9001), quic6: None
+Jan 20 20:31:30.786 DEBUG Discovery service started                   
+Jan 20 20:31:30.786 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:31:30.786 INFO  Libp2p Starting                               peer_id: 16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b, bandwidth_config: "3-Average"
+Jan 20 20:31:30.786 DEBUG Attempting to open listening ports            listen_addrs: V4(ListenAddr { addr: 0.0.0.0, disc_port: 9000, quic_port: 9001, tcp_port: 9000 }), discovery_enabled: true, quic_enabled: true
+Jan 20 20:31:30.786 INFO  Listening established                         address: /ip4/0.0.0.0/tcp/9000/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:31:30.787 INFO  Listening established                         address: /ip4/0.0.0.0/udp/9001/quic-v1/p2p/16Uiu2HAm38UpfGWfkUrQ9pb8uQbFDQgCiowXyYVnzFqsWgrVSN2b
+Jan 20 20:31:30.787 DEBUG Dialing libp2p peer                           address: /ip4/192.168.65.2/tcp/33000
+Jan 20 20:31:30.787 DEBUG Loading peers into the routing table          peers: 0
+Jan 20 20:31:30.787 DEBUG Sync Manager started                        
+Jan 20 20:31:30.787 DEBUG Sync's view on execution engine state updated  past_state: Online, new_state: Online
+Jan 20 20:31:30.787 DEBUG Network message router started              
+Jan 20 20:31:30.787 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_26/ssz_snappy
+Jan 20 20:31:30.790 DEBUG ENR written to disk                         
+Jan 20 20:31:30.793 DEBUG Metadata written to disk                    
+Jan 20 20:31:30.793 DEBUG Subscribed to topic                           topic: /eth2/90f0247f/beacon_attestation_27/ssz_snappy
+Jan 20 20:31:30.798 INFO  HTTP API started                              listen_address: 0.0.0.0:5052
+Jan 20 20:31:30.798 INFO  Metrics HTTP server started                   listen_address: "127.0.0.1:5054"
+Jan 20 20:31:30.799 DEBUG ENR written to disk                         
+Jan 20 20:31:30.800 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:31:30.801 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:31:30.802 DEBUG Metadata written to disk                    
+Jan 20 20:31:30.802 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:31:30.802 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:31:30.802 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 0 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 0 }]
+Jan 20 20:31:30.802 DEBUG Discovery query yielded no results.         
+Jan 20 20:31:30.802 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:31:30.802 DEBUG Discv5 event stream ready                   
+Jan 20 20:31:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7284)
+Jan 20 20:31:33.938 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 1 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 1 }]
+Jan 20 20:31:33.938 DEBUG Failed to dial peer                           peer_id: None, error: Transport error: No route to host (os error 113)
+Jan 20 20:31:33.938 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:31:35.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:31:35.788 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 2 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 2 }]
+Jan 20 20:31:35.788 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:31:36.786 DEBUG Starting grouped subnet query                 subnets: [SubnetQuery { subnet: Attestation(SubnetId(26)), min_ttl_secs: None, retries: 3 }, SubnetQuery { subnet: Attestation(SubnetId(27)), min_ttl_secs: None, retries: 3 }]
+Jan 20 20:31:36.786 DEBUG Grouped subnet discovery query yielded no results.  subnets_searched_for: [Attestation(SubnetId(26)), Attestation(SubnetId(27))]
+Jan 20 20:31:36.786 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:31:36.786 DEBUG Subnet peer discovery did not find sufficient peers. Reached max retry limit
+Jan 20 20:31:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:31:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7284, sync_state: Stalled
+Jan 20 20:31:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7284
+Jan 20 20:31:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:31:39.000 DEBUG Proposer prepare routine firing             
+Jan 20 20:31:40.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7284
+Jan 20 20:31:40.779 INFO  Could not UPnP map Discovery port             error: Gateway does not support UPnP
+Jan 20 20:31:40.788 INFO  UPnP not available                          
+Jan 20 20:31:42.803 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:31:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7285)
+Jan 20 20:31:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:31:49.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:31:49.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7285, sync_state: Stalled
+Jan 20 20:31:49.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7285
+Jan 20 20:31:49.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:31:50.795 DEBUG Proposer prepare routine firing             
+Jan 20 20:31:51.795 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7285
+Jan 20 20:31:54.598 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:31:54.795 DEBUG Running beacon chain per slot tasks           slot: Slot(7285)
+Jan 20 20:31:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7286)
+Jan 20 20:31:58.796 DEBUG Simulating unagg. attestation production    
+Jan 20 20:32:00.581 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:32:00.581 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:32:00.581 DEBUG Discovery query yielded no results.         
+Jan 20 20:32:00.795 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:32:00.795 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7286, sync_state: Stalled
+Jan 20 20:32:00.795 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7286
+Jan 20 20:32:00.795 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:32:03.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:32:04.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7286
+Jan 20 20:32:06.599 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:32:07.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7287)
+Jan 20 20:32:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:32:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:32:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7287, sync_state: Stalled
+Jan 20 20:32:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7287
+Jan 20 20:32:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:32:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:32:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7287
+Jan 20 20:32:18.601 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:32:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7288)
+Jan 20 20:32:22.763 DEBUG Simulating unagg. attestation production    
+Jan 20 20:32:24.763 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:32:24.763 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7288, sync_state: Stalled
+Jan 20 20:32:24.763 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7288
+Jan 20 20:32:24.763 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:32:26.763 DEBUG Proposer prepare routine firing             
+Jan 20 20:32:27.763 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7288
+Jan 20 20:32:30.343 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:32:30.343 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:32:30.344 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:32:30.344 DEBUG Discovery query yielded no results.         
+Jan 20 20:32:30.356 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:32:30.363 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:32:30.763 DEBUG Running beacon chain per slot tasks           slot: Slot(7288)
+Jan 20 20:32:31.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7289)
+Jan 20 20:32:35.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:32:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:32:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7289, sync_state: Stalled
+Jan 20 20:32:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7289
+Jan 20 20:32:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:32:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:32:40.002 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7289
+Jan 20 20:32:42.364 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:32:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7290)
+Jan 20 20:32:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:32:49.004 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:32:49.004 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7290, sync_state: Stalled
+Jan 20 20:32:49.004 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7290
+Jan 20 20:32:49.004 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:32:50.762 DEBUG Proposer prepare routine firing             
+Jan 20 20:32:51.762 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7290
+Jan 20 20:32:54.126 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:32:54.762 DEBUG Running beacon chain per slot tasks           slot: Slot(7290)
+Jan 20 20:32:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7291)
+Jan 20 20:32:58.762 DEBUG Simulating unagg. attestation production    
+Jan 20 20:33:00.103 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:33:00.104 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:33:00.104 DEBUG Discovery query yielded no results.         
+Jan 20 20:33:00.762 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:33:00.762 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7291, sync_state: Stalled
+Jan 20 20:33:00.762 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7291
+Jan 20 20:33:00.762 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:33:03.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:33:04.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7291
+Jan 20 20:33:06.127 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:33:07.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7292)
+Jan 20 20:33:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:33:13.002 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:33:13.002 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7292, sync_state: Stalled
+Jan 20 20:33:13.002 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7292
+Jan 20 20:33:13.002 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:33:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:33:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7292
+Jan 20 20:33:18.128 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:33:19.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7293)
+Jan 20 20:33:22.771 DEBUG Simulating unagg. attestation production    
+Jan 20 20:33:24.772 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:33:24.772 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7293, sync_state: Stalled
+Jan 20 20:33:24.772 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7293
+Jan 20 20:33:24.772 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:33:26.772 DEBUG Proposer prepare routine firing             
+Jan 20 20:33:27.772 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7293
+Jan 20 20:33:29.874 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:33:29.874 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:33:29.875 DEBUG Discovery query yielded no results.         
+Jan 20 20:33:29.876 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:33:29.900 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:33:30.772 DEBUG Running beacon chain per slot tasks           slot: Slot(7293)
+Jan 20 20:33:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7294)
+Jan 20 20:33:35.000 DEBUG Simulating unagg. attestation production    
+Jan 20 20:33:37.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:33:37.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7294, sync_state: Stalled
+Jan 20 20:33:37.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7294
+Jan 20 20:33:37.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:33:39.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:33:40.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7294
+Jan 20 20:33:41.903 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:33:43.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7295)
+Jan 20 20:33:47.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:33:49.000 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:33:49.000 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7295, sync_state: Stalled
+Jan 20 20:33:49.000 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7295
+Jan 20 20:33:49.000 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:33:50.767 DEBUG Proposer prepare routine firing             
+Jan 20 20:33:51.767 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7295
+Jan 20 20:33:53.670 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:33:54.766 DEBUG Running beacon chain per slot tasks           slot: Slot(7295)
+Jan 20 20:33:55.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7296)
+Jan 20 20:33:58.767 DEBUG Simulating unagg. attestation production    
+Jan 20 20:33:59.642 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:33:59.642 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:33:59.642 DEBUG Discovery query yielded no results.         
+Jan 20 20:34:00.767 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:34:00.767 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7296, sync_state: Stalled
+Jan 20 20:34:00.767 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7296
+Jan 20 20:34:00.767 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:34:03.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:34:04.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7296
+Jan 20 20:34:05.671 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:34:07.001 DEBUG Running beacon chain per slot tasks           slot: Slot(7297)
+Jan 20 20:34:11.001 DEBUG Simulating unagg. attestation production    
+Jan 20 20:34:13.001 WARN  Low peer count                                peer_count: "0"
+Jan 20 20:34:13.001 DEBUG Slot timer                                    peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_block: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, head_slot: 0, current_slot: 7297, sync_state: Stalled
+Jan 20 20:34:13.001 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7297
+Jan 20 20:34:13.001 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
+Jan 20 20:34:15.001 DEBUG Proposer prepare routine firing             
+Jan 20 20:34:16.001 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7297
+Jan 20 20:34:17.673 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:34:18.759 DEBUG Running beacon chain per slot tasks           slot: Slot(7297)
+Jan 20 20:34:19.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7298)

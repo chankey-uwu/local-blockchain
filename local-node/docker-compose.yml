@@ -1,0 +1,65 @@
+version: "3.8"
+
+services:
+  geth:
+    image: geth-usm:v1
+    container_name: local-geth
+    restart: unless-stopped
+    ports:
+      - "8545:8545"
+      - "8551:8551"
+      - "30303:30303"
+    volumes:
+      - ./el-data:/root/.ethereum
+      - ./el-config:/config
+      - ./jwt.hex:/jwt.hex
+      - /mnt/e:/mnt/usb:ro
+    command:
+      - --networkid=585858
+      - --nodiscover
+      - --ipcpath=/tmp/geth.ipc
+      - --http
+      - --http.addr=0.0.0.0
+      - --http.api=eth,net,web3,engine,admin
+      - --http.corsdomain=*
+      - --http.vhosts=*
+      - --authrpc.addr=0.0.0.0
+      - --authrpc.port=8551
+      - --authrpc.vhosts=*
+      - --authrpc.jwtsecret=/jwt.hex
+      - --allow-insecure-unlock
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  lighthouse:
+    image: sigp/lighthouse:latest
+    container_name: local-lighthouse
+    restart: unless-stopped
+    ports:
+      - "5052:5052"
+    volumes:
+      - ./cl-data:/root/.lighthouse
+      - ./cl-config:/network-configs
+      - ./jwt.hex:/jwt.hex
+      - /mnt/e:/mnt/usb:ro
+    entrypoint: ["/bin/sh", "-c"]
+    command: >
+      "
+      KURTOSIS_IP=$$(getent hosts host.docker.internal | awk '{ print $$1 }' | grep -v ':' | head -n 1);
+      
+      if [ -z \"$$KURTOSIS_IP\" ]; then
+        KURTOSIS_IP='192.168.65.2'; 
+      fi;
+
+      lighthouse bn \
+      --datadir=/root/.lighthouse \
+      --testnet-dir=/network-configs \
+      --execution-endpoint=http://geth:8551 \
+      --execution-jwt=/jwt.hex \
+      --http \
+      --http-address=0.0.0.0 \
+      --metrics \
+      --libp2p-addresses=/ip4/$$KURTOSIS_IP/tcp/33000/p2p/16Uiu2HAmGD9YTBK6NBbGpnbbSs5yLq8iUVzcyikrmeTVr15nPqAS
+      "
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

@@ -1,0 +1,61 @@
+2026-01-20 20:17:32 DEBUG  Recv handler starting
+2026-01-20 20:17:32 DEBUG  Send handler starting
+2026-01-20 20:17:32 DEBUG  Handler Starting
+2026-01-20 20:17:32 INFO  Discv5 Service started Ip4
+2026-01-20 20:17:32 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:17:32 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:17:35 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:17:35 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:17:37 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:18:02 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:18:32 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:19:01 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:19:31 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:20:01 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:20:31 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:21:00 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:21:30 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:24:44 DEBUG  Send handler starting
+2026-01-20 20:24:44 DEBUG  Handler Starting
+2026-01-20 20:24:44 DEBUG  Recv handler starting
+2026-01-20 20:24:44 INFO  Discv5 Service started Ip4
+2026-01-20 20:24:44 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:24:44 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:24:44 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:24:47 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:24:47 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:25:13 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:25:43 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:13 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:22 DEBUG  Recv handler starting
+2026-01-20 20:26:22 DEBUG  Send handler starting
+2026-01-20 20:26:22 INFO  Discv5 Service started Ip4
+2026-01-20 20:26:22 DEBUG  Handler Starting
+2026-01-20 20:26:22 DEBUG  Sending RPC to node Request: id: 0f34695cf1913964: FINDNODE Request: distance: [0] Node: 0x4dd8..fbbd, addr: 192.168.65.2:33000
+2026-01-20 20:26:24 DEBUG  RPC Request timed out 0f34695cf1913964
+2026-01-20 20:26:24 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:24 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:24 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:28 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:29 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:26:54 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:27:24 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:27:53 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:28:23 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:28:53 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:29:23 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:29:53 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:31:30 DEBUG  Send handler starting
+2026-01-20 20:31:30 DEBUG  Recv handler starting
+2026-01-20 20:31:30 DEBUG  Handler Starting
+2026-01-20 20:31:30 INFO  Discv5 Service started Ip4
+2026-01-20 20:31:30 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:31:30 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:31:33 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:31:35 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:31:36 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:32:00 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:32:30 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:33:00 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:33:29 WARN  No known_closest_peers found. Return empty result without sending query.
+2026-01-20 20:33:59 WARN  No known_closest_peers found. Return empty result without sending query.
