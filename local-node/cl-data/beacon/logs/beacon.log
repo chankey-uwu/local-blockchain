@@ -1312,3 +1312,10 @@ Jan 20 20:38:24.766 DEBUG Slot timer                                    peers: "
 Jan 20 20:38:24.766 INFO  Searching for peers                           peers: "0", finalized_root: 0x55902430775dccbdb86c2e6f94455387ded3b6e2defa4d1e604a0fb0fb6ebf91, finalized_epoch: 0, head_slot: 0, current_slot: 7318
 Jan 20 20:38:24.766 WARN  Not ready Bellatrix                           info: The execution endpoint is connected and configured, however it is not yet synced
 Jan 20 20:38:26.766 DEBUG Proposer prepare routine firing             
+Jan 20 20:38:27.537 DEBUG Starting a new peer discovery query           connected: 0, target: 200, outbound: 0, wanted: 220
+Jan 20 20:38:27.537 DEBUG Starting a peer discovery request             target_peers: 16
+Jan 20 20:38:27.537 DEBUG Discovery query yielded no results.         
+Jan 20 20:38:27.538 DEBUG Updating gossipsub score parameters           active_validators: 384
+Jan 20 20:38:27.592 DEBUG Execution engine upcheck complete             state: Syncing
+Jan 20 20:38:28.000 DEBUG Refused to advance head state                 head_slot: 0, current_slot: 7318
+Jan 20 20:38:31.000 DEBUG Running beacon chain per slot tasks           slot: Slot(7319)
