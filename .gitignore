@@ -17,4 +17,5 @@ node_modules
 ignition/deployments/chain-31337
 
 # Local blockchain data
-local-node
+local-node/cl-data
+local-node/el-data
