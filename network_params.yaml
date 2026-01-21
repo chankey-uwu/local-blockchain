@@ -1,8 +1,17 @@
 participants:
   - el_type: geth
+    el_image: "geth-usm:v2"
+    cl_type: lighthouse
+    count: 1
+    el_devices:
+      - "/dev/bus/usb/001/002"
+    cl_devices:
+      - "/dev/bus/usb/001/002"
+
+  - el_type: geth
     el_image: "geth-usm:v1"
     cl_type: lighthouse
-    count: 3
+    count: 2
 
 network_params:
   network_id: "585858"
