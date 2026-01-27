@@ -11,9 +11,19 @@
 
 Con `usbipd` se debe "attachear" a wsl y luego cambiar la ruta correcta del bus en `network_params.yaml` 
 
-3. Correr en la consola:
+3. Para iniciar la network, correr en la consola:
    ```console
-   ../go-ethereum/local-blockchain$ kurtosis run --enclave local-blockchain github.com/ethpandaops/ethereum-package --args-file ./network_params.yaml
+   ../local-blockchain$ kurtosis run --enclave local-blockchain github.com/ethpandaops/ethereum-package --args-file ./network_params.yaml
+   ```
+
+4. Para permitir que el nodo detecte la **YubiKey**:\
+   Primero se abre la consola del nodo:
+   ```console
+   ..$ kurtosis service shell local-blockchain el-1-geth-lighthouse
+   ```
+   Luego dentro de la consola se ejecuta:
+   ```
+   / # /usr/sbin/pcscd
    ```
 
 ## Comandos Kurtosis
@@ -23,6 +33,20 @@ Con `usbipd` se debe "attachear" a wsl y luego cambiar la ruta correcta del bus 
 3. `kurtosis enclave rm -f local-blockchain`: elimina los archivos de la Blockchain.
 4. `kurtosis engine restart`: reinicia el motor de kurtosis. Sirve porque a veces quedan Encloves eliminados aún siendo listados o se desconecta de Docker.
 5. `kurtosis service shell local-network el-x-geth-lighthouse`: abre una terminal para el servicio **x**.
+
+## Crear cuenta desde geth (con YubiKey)
+Crear archivo `password.txt` (si no se hace no deja crear la cuenta):
+```
+/ # echo "contraseña" > password.txt
+```
+Dentro del nodo `el-1-geth-lighthouse`, correr:
+```
+/ # geth account new --password password.txt --yubikey true
+```
+(Opcional) Eliminar archivo `password.txt`:
+```
+/ # rm password.txt
+```
 
 ## Archivos adicionales
 
