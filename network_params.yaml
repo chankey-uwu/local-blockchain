@@ -3,10 +3,10 @@ participants:
     el_image: "geth-usm:v2"
     cl_type: lighthouse
     count: 1
-    el_devices:
-      - "/dev/bus/usb/001/002"
-    cl_devices:
-      - "/dev/bus/usb/001/002"
+    el_extra_params: [
+      "--signer=http://172.28.137.233:8550",
+      "--verbosity=4"
+    ]
 
   - el_type: geth
     el_image: "geth-usm:v1"
@@ -24,7 +24,7 @@ additional_services:
 persistent: true
 
 port_publisher:
-  nat_exit_ip: "auto"
+  nat_exit_ip: "127.0.0.1"
   el:
     enabled: true
     public_port_start: 32000

@@ -1,6 +1,6 @@
 const hre = require("hardhat");
 
-const CONTRACT_ADDRESS = "0xb4B46bdAA835F8E4b4d8e208B6559cD267851051";
+const CONTRACT_ADDRESS = "0x422A3492e218383753D8006C7Bfa97815B44373F";
 
 async function main() {
     const storage = await hre.ethers.getContractAt("Storage", CONTRACT_ADDRESS);
@@ -10,13 +10,12 @@ async function main() {
     let currentValue = await storage.retrieve();
     console.log(`\nValor inicial almacenado: ${currentValue}`);
 
-
-    console.log("\nEnviando transacción para guardar el número 777...");
-
-    const tx = await storage.store(777);
+    const tx = await storage.store(1020202020);
     console.log(`Tx Hash: ${tx.hash}`);
 
     console.log("Esperando confirmación del bloque...");
+
+    await tx.wait();
 
     currentValue = await storage.retrieve();
     console.log(`\n¡Éxito! Nuevo valor almacenado: ${currentValue}`);

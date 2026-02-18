@@ -8,6 +8,7 @@ const accountsToCheck = [
     "0xccdd5b657ab09ba1cc7e126e06664e9241836733",
     "0x5e99D75F850f9118fCC711e64eD94E26f8F745f6",
     "0x23148FE43b3aEA23bb4fCb1b92A38d60451A3B23",
+    "0xB6D7312535A21Cb3afD61Ec37ce355c21F4D4133",
 ]
 
 async function main() {
