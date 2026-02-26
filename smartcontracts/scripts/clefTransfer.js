@@ -2,7 +2,7 @@ const { ethers } = require("ethers");
 
 const RPC_URL = "http://127.0.0.1:32003";
 
-const clefAccountAddress = "0x1fD6f6FEC740dd4F81e201fC856276Df8582ba11";
+const clefAccountAddress = "0x5a905A373Ee3f07915Eadcd334546d38Ab43Afd5";
 
 const recipientAddress = "0x8943545177806ED17B9F23F0a21ee5948eCaa776";
 
