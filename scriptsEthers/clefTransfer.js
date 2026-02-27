@@ -2,9 +2,9 @@ const { ethers } = require("ethers");
 
 const RPC_URL = "http://127.0.0.1:32003";
 
-const clefAccountAddress = "0x5a905A373Ee3f07915Eadcd334546d38Ab43Afd5";
+const clefAccountAddress = "0x91bF8EFDad91A7ED68c7953aD7e38b0C41308CfC";
 
-const recipientAddress = "0x8943545177806ED17B9F23F0a21ee5948eCaa776";
+const recipientAddress = "0xA9c0be9a55324c4Da46EB5D95Fbfa3e067485943";
 
 async function main() {
     const provider = new ethers.JsonRpcProvider(RPC_URL);
@@ -26,12 +26,12 @@ async function main() {
     const balance = await provider.getBalance(signer.address);
     console.log(`Balance actual: ${ethers.formatEther(balance)} ETH`);
 
-    console.log(`Esperando aprobación en Clef para enviar 1.5 ETH a ${recipientAddress}...`);
+    console.log(`Esperando aprobación en Clef para enviar 0 ETH a ${recipientAddress}...`);
 
     try {
         const tx = await signer.sendTransaction({
             to: recipientAddress,
-            value: ethers.parseEther("1.5")
+            value: ethers.parseEther("0")
         });
 
         console.log(`\nTransacción confirmada: ${tx.hash}`);

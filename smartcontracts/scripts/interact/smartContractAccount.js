@@ -7,13 +7,13 @@ async function main() {
 
     const ownerSigner = await hre.ethers.provider.getSigner(ownerAddress);
 
-    const Wallet = await hre.ethers.getContractAt(
-        "Wallet",
+    const smartContractAccount = await hre.ethers.getContractAt(
+        "SmartContractAccount",
         contractAddress,
         ownerSigner
     );
 
-    const owner = await Wallet.owner();
+    const owner = await smartContractAccount.owner();
     console.log("Contract owner address:", owner);
 
     const balanceWei = await hre.ethers.provider.getBalance(contractAddress);
@@ -27,7 +27,7 @@ async function main() {
         const message = "HOLA MUNDO";
         const hexMessage = hre.ethers.hexlify(hre.ethers.toUtf8Bytes(message));
 
-        const tx = await Wallet.execute(recipientAddress, amountToSend, hexMessage);
+        const tx = await smartContractAccount.execute(recipientAddress, amountToSend, hexMessage);
 
         console.log("Transaction hash:", tx.hash);
 

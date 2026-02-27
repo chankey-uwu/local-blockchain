@@ -1,8 +1,8 @@
-// contracts/Wallet.sol
+// contracts/SmartContractAccount.sol
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-contract Wallet {
+contract SmartContractAccount {
     address public owner;
     event Received(address indexed sender, uint256 amount);
     event FallbackCalled(address indexed sender, uint256 amount, bytes data);
