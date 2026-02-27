@@ -7,7 +7,6 @@ toolchain go1.24.12
 require (
 	github.com/ebfe/scard v0.0.0-20241214075232-7af069cabc25
 	github.com/ethereum/go-ethereum v1.16.8
-	github.com/go-piv/piv-go v1.11.0
 )
 
 require (

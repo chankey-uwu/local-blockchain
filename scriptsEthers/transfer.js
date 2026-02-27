@@ -1,4 +1,4 @@
-const { ethers, ZeroAddress } = require("ethers");
+const { ethers } = require("ethers");
 
 
 const RPC_URL = "http://127.0.0.1:32003"; 

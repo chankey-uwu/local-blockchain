@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 
 async function main() {
-    const contractAddress = "0xA9c0be9a55324c4Da46EB5D95Fbfa3e067485943";
+    const contractAddress = "0x13f4cfE90BD8fDEd8bb597258244501b4f10255E";
 
     const rpcUrl = hre.network.config.url;
     const provider = new hre.ethers.JsonRpcProvider(rpcUrl);
