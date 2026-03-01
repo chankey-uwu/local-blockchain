@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 
 async function main() {
-    const yubikeyAddress = "0x5a905A373Ee3f07915Eadcd334546d38Ab43Afd5";
+    const yubikeyAddress = "0xAD2F1ED52B71c9e9bC1AB96a88e075F26A1F9d97";
     const yubikeySigner = await hre.ethers.provider.getSigner(yubikeyAddress);
 
     const Wallet = await hre.ethers.getContractFactory("SmartContractAccount");

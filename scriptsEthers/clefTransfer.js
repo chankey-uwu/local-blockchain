@@ -2,9 +2,9 @@ const { ethers } = require("ethers");
 
 const RPC_URL = "http://127.0.0.1:32003";
 
-const clefAccountAddress = "0x91bF8EFDad91A7ED68c7953aD7e38b0C41308CfC";
+const clefSignerAccountAddress = "0x3D360431960B93a2e2aD7733c8f56e8304d5e551";
 
-const recipientAddress = "0xA9c0be9a55324c4Da46EB5D95Fbfa3e067485943";
+const recipientAddress = "0x633cc8C973C0E0E4FDEDC657B348625d104B2649";
 
 async function main() {
     const provider = new ethers.JsonRpcProvider(RPC_URL);
@@ -19,7 +19,7 @@ async function main() {
 
     console.log("Esperando conexión con Clef ...");
 
-    const signer = await provider.getSigner(clefAccountAddress);
+    const signer = await provider.getSigner(clefSignerAccountAddress);
 
     console.log(`\nPreparando envío desde cuenta gestionada por Clef: ${signer.address}`);
 
