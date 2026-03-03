@@ -1,0 +1,1507 @@
+\secnumbersection{DEFINICIÓN DEL PROBLEMA}
+
+\subsection{LOS NOTARIOS: CONCEPTO, ORGANIZACIÓN, FUNCIONES Y ARANCELES}
+
+El artículo 399 del Código Orgánico de Tribunales (COT) establece que los notarios son ministros de fe pública encargados de autorizar y guardar en su archivo los documentos que ante ellos se otorgaren, de dar a las partes interesadas los testimonios que pidieren, y de practicar las demás diligencias que la ley les encomiende.
+
+Por regla general, hay al menos un notario en cada comuna o agrupación de comunas que constituya territorio jurisdiccional de jueces de letras\footnote{Según el Decreto N° 1.515 de 2017 del Ministerio de Justicia, existían 431 cargos de notario en dicho año.}, y son designados por el Presidente de la República, previa propuesta en terna por la Corte de Apelaciones respectiva. Desde abril de 2026, serán designados a través de concursos públicos gestionados por el Sistema de Alta Dirección Pública.
+
+El artículo 401 del COT señala las funciones de los notarios, siendo las esenciales intervenir en el otorgamiento de escrituras públicas y en la expedición de las respectivas copias. Asimismo, algunas funciones notariales pueden ser desempeñadas por otros funcionarios públicos, en determinadas circunstancias\footnote{Por ejemplo, los Oficiales Civiles titulares de oficinas ubicadas en circunscripciones en que no exista notario, pueden intervenir como ministros de fe en la autorización de firmas que se estampen en su presencia, en documentos privados, siempre que conste en ellos la identidad de los comparecientes. Asimismo, los Cónsules de carrera y honorarios, facultados por decreto supremo, son ministros de fe pública para efectos de actuaciones relativas a los actos notariales o de estado civil que se realicen ante ellos, a solicitud de chilenos o extranjeros para tener efecto en Chile.}.
+
+Conforme al artículo 54 de la Ley N° 16.250, el Presidente fija los aranceles de los notarios, previo informe de la Corte Suprema, considerando especialmente las variaciones que haya experimentado el valor adquisitivo de la moneda. El último establecimiento de aranceles de notarios corresponde al Decreto N° 587 de 1998 del Ministerio de Justicia\footnote{Este Decreto sólo ha sido modificado una vez, a través del Decreto 201 del 2020 del Ministerio de Justicia, respecto del caso de escrituras públicas de constitución de hipotecas y otros gravámenes cuyo objeto sea garantizar el pago de un crédito hipotecario destinado al re-financiamiento de uno o más créditos de esta clase que existan con anterioridad.}\cite{truffelo_williams2017}.
+
+\subsection{ACTORES INVOLUCRADOS}
+
+Los principales actores involucrados en el proceso notarial en Chile son:
+\begin{enumerate}
+    \item Los notarios, en tanto ministros de fe;
+    \item Las personas naturales, en representación suya o una persona jurídica, en tanto usuarios que necesitan autentificar sus documentos a través de los servicios notariales, y
+    \item El estado, pues es quien regula, supervisa y fiscaliza el funcionamiento de las notarías.
+\end{enumerate}
+
+\subsection{CRÍTICAS A LOS NOTARIOS}
+
+Desde 2008 ha habido múltiples proyectos de ley para reformar el sistema notarial\cite{agostini2023}, pero no fue hasta 2025 que se aprobó uno. En ese sentido, es importante identificar las principales críticas al sistema notarial chileno.
+
+En 2018, la Fiscalía Nacional Económica (FNE) publicó un estudio sobre el mercado de los notarios\cite{informefne2018}, dando cuenta de varias oportunidades de mejoras: ``Los concursos para los cargos han sido opacos, a pesar de que habría un evidente interés en postular. Normalmente el precio máximo establecido por la regulación no se cumple (por ejemplo, una declaración jurada no debiera costar por decreto más de \$500 y en los hechos el precio es mayor). La competencia se da por calidad de servicio (rapidez en la atención) y no por precio. Los servicios más demandados son 17 (entre ellos, finiquitos laborales y fotocopias autorizadas), la mayoría de los cuales no requiere pericia jurídica sustantiva alguna. Sobre el 80\% de quienes requirieron los servicios notariales no presenciaron al notario. Hay un número significativo de leyes -al menos la FNE contó 205 y puede haber más- que establecen trámites o gestiones que requieren la intervención de notarios. Las rentas promedio que obtienen los notarios llegan a \$14 millones por mes, y si el notario está ubicado en el centro de Santiago, ese número sube a 24 millones, cifras no despreciables si además se considera que el cargo se ostenta en algunos casos vitaliciamente y en otros hasta que se cumple 75 años``\cite{irarrazabal2020}.
+
+Siguiendo esa línea, las principales críticas al sistema guardan relación con nepotismo, faltas a la fe pública, altas tarifas y cobertura geográfica deficiente\cite{agostini2023}.
+
+En primer lugar, la principal crítica respecto de los nombramientos es producto del nepotismo. En 2017, una investigación dio cuenta de que 30 de los notarios eran hijos de otros notarios o ex-notarios y 32 eran parientes directos de miembros del Poder Judicial\cite{biobio160817}. Asimismo, otra investigación de 2021 identificó que un 40\% de los notarios tiene algún grado de parentesco con miembros del Poder Judicial o del Congreso\cite{americatransparente040621}.
+
+En segundo lugar, múltiples incidentes han hecho que la ciudadanía pierda la confianza en las notarías. Por mencionar algunos, en 2013, dos notarios fueron sancionados por autorizar firmas falsas para la inscripción de candidatos presidenciales\cite{adn180216}; en 2017, muchas personas no pudieron votar en las elecciones primarias porque aparecían como militantes de 12 partidos políticos distintos, pero los afiliados desconocían su firma, las cuales habían sido avaladas por notarios\cite{elmostrador090817}, y en 2021, un notario fue acusado de estafa al autorizar 8 veces la firma de una persona que estaba en la cárcel, no pudiendo asistir a firmar\cite{ortiz2021}.
+
+En tercer lugar, tal como se mencionó anteriormente, las tarifas máximas de los notarios son fijadas por ley, sin embargo, “hay bastante evidencia de que los precios máximos que deberían cobrar las notarías por sus servicios no se respetan y que no hay sanciones por ello”\cite{agostini2023}. Incluso si se acogiera algún reclamo, la naturaleza de las sanciones es disciplinaria (como una amonestación, censura o suspensión del cargo), no monetaria.
+
+En cuarto lugar, la cobertura de las notarías a nivel nacional es deficiente. Si se mide el índice de notarias por cada 100 mil habitantes, “hay un rango importante de variación entre regiones que va desde 0,88 notarías por cada 100 mil habitantes en la Región de la Araucanía hasta 2,77 en la Región de Aysén. El promedio para el país es de solo 1,66 notarías por cada 100 mil habitantes”\cite{agostini2023}.
+
+Por último, el sistema notarial también presenta riesgos a la protección de datos personales. A mayor abundamiento, el Auto Acordado de 10/11/2006 de la Excelentísima Corte Suprema exige que las notarías mantengan un archivo de los documentos que certifiquen\cite{cortesuprema_autoacordado_2006}, y para cumplir con esta instrucción, cada documento cuenta con un número de certificado, cuya validez puede ser verificada en la página web Fojas\footnote{Véase \url{https://www.fojas.cl/}}.
+
+Así, la infracción a la protección de los datos personales se da porque la página web permite a cualquier persona indagar entre los documentos de cualquier notaría. A modo de ejemplo, se puede acceder a datos particularmente sensibles, como autorizaciones de viajes de niños menores de edad (donde se incluye su RUT y las fechas en que viajan), fotocopias de cédulas de identidad y direcciones de los domicilios de las personas.
+
+\subsection{LA FIRMA ELECTRÓNICA AVANZADA}~\label{fea_prob}
+
+Según la ley 19.799 Sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de Dicha Firma, la firma electrónica es cualquier sonido, símbolo o proceso electrónico, que permite al receptor de un documento electrónico identificar al menos formalmente a su autor. Así, la Firma Electrónica Avanzada es aquella certificada por un prestador acreditado, que ha sido creada usando medios que el titular mantiene bajo su exclusivo control, de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección posterior de cualquier modificación, verificando la identidad del titular e impidiendo que desconozca la integridad del documento y su autoría. 
+
+A fines prácticos corresponde a un sello que se adjunta a un documento, con la certeza de que ese sello sólo lo pudo haber generado la persona titular de la firma. Este sello se puede ``estampar`` usando un dispositivo físico o un programa, y para ambos es necesario una certificación que se otorga por empresas acreditadas por la Subsecretaría de Economía, Fomento y Reconstrucción.
+
+Durante la discusión del proyecto de esta ley, los congresistas señalaron las similitudes de la firma electrónica avanzada con el sistema notarial. En ese sentido, el diputado Patricio Walker sostuvo que los prestadores de servicios de certificación “son una especie de notarios públicos electrónicos”\footnote{Historia de la Ley N° 19.799. Primer Trámite Constitucional.}. A su vez, el diputado Sergio Elgueta indicó que “cuando la firma electrónica avanzada esté debidamente certificada por prestadores acreditados habrá una especie de documento privado notarial. Es lo mismo que una letra o un pagaré firmado ante notario, en que el texto de los documentos y las firmas que allí aparecen no pueden ser controvertidos, indubitados”\footnote{Historia de la Ley N° 19.799. Primer Trámite Constitucional.}.
+
+Al respecto, la Asociación de Notarios, Conservadores y Archiveros Judiciales presentó un informe, donde señalaron que la definición de firma electrónica avanzada “se asienta en la premisa equivocada de que la firma electrónica avanzada permanecerá siempre en poder de su titular. Es cierto que esta firma, si está certificada por una autoridad que cumpla con los requisitos técnicos y de idoneidad moral que exija el Estado, podría razonablemente garantizar la identidad de ese titular; pero en modo alguno podría ser suficiente, por sí sola, para probar que ella fue utilizada por él, o que prestó su consentimiento al acto o contrato de que se trata. En efecto, la firma digital avanzada es, en la realidad, un código informático que, por su propia naturaleza no puede ser memorizado por su titular, por lo que éste tendrá que guardarlo en un medio magnético, como el disco duro de su computador, en otro dispositivo de memoria secundaria, como un disquete, una cinta, un CD o, incluso, en una tarjeta de las llamadas “inteligentes”. Es por ello perfectamente posible que dicho medio magnético sea extraviado por su propietario, o que le sea robado o hurtado; o que alguien con acceso a su computador copie fraudulentamente dicho código o firma, o, en fin, que aquél, con poca prudencia, la facilite a una persona en la cual tiene gran confianza, como el cónyuge, un pariente cercano o una antigua secretaria”\footnote{Historia de la Ley N° 19.799. Segundo Trámite Constitucional.}.
+
+Frente a los riesgos que ellos identificaron, sostienen que “la solución obvia a la situación planteada precedentemente es que la firma digital, para que tenga pleno valor, para que realmente dé seguridad jurídica, en los casos en que la ley lo exija o las partes lo estipulen, sea incorporada al documento electrónico por su titular, en presencia de un Notario Público”\footnote{Historia de la Ley N° 19.799. Segundo Trámite Constitucional.}, de esta forma, independiente de que la Firma Electrónica Avanzada permitiera vincularse únicamente al titular de la misma, los notarios buscaban limitar esta autonomía.
+
+\subsection{OBJETIVOS DE LA MEMORIA}~\label{thesis_objectives}
+
+El \textbf{objetivo general} de la memoria es proponer un mecanismo de autenticación y almacenamiento digital, que asegure la inmutabilidad documental notarial, que mantenga un registro histórico transparente, y verificable por terceros.
+
+Los \textbf{objetivos específicos} de la memoria son:
+\begin{enumerate}
+    \item \textbf{Objetivo 1:} Explorar y realizar una propuesta sobre como utilizar \textit{blockchain} para implementar ciertas actividades notariales.
+    \item \textbf{Objetivo 2:} Evaluar la capacidad de integrar dispositivos físicos como parte integral del proceso de firma de transacciones dentro de una \textit{blockchain}.
+    \item \textbf{Objetivo 3:} Investigar y comparar las herramientas, \textit{frameworks} y estándares existentes para el desarrollo de experimentos de valor en el área de las notarías.
+\end{enumerate}
+
+\secnumbersection{MARCO CONCEPTUAL}
+En este capítulo se detallan todos los conceptos necesarios para comprender la propuesta de solución. El capítulo se separa en cinco subsecciones: conceptos básicos de criptografía~\ref{cryptography}; estructura de datos \textit{blockchain} y sus funcionalidades~\ref{blockchain}; implementaciones de \textit{blockchain}~\ref{blockchain_networks}; Ethereum y sus componentes principales~\ref{ethereum}, y \textit{hardware} criptográfico~\ref{cryptographic_hardware}. 
+
+\subsection{CRIPTOGRAFÍA}\label{cryptography}
+
+La criptografía es una rama de la ciencia de la computación dedicada al estudio e implementación de técnicas matemáticas para robustecer la seguridad de los sistemas, asegurando la integridad, confidencialidad, autenticidad y el no repudio de la información y sus operaciones~\cite{qadir2019review}. Estas técnicas son utilizadas por distintas áreas como medicina, gobiernos, finanzas, \textit{blockchain}~\ref{blockchain}, entre otras. Esto debido a su diversidad de algoritmos y su alto grado de fiabilidad.
+
+\subsubsection{FUNCIONES \textit{HASH}}\label{hash}
+
+Las funciones \textit{hash} son algoritmos determinísticos que transforman cualquier \textit{input} en una cadena de texto (\textit{output}) computacionalmente inviable de revertir a su \textit{input} original. Existen muchos algoritmos que se pueden usar para esto, siendo los más utilizados:
+\begin{itemize}
+    \item \textbf{SHA:} Es el algoritmo de \textit{hash} más utilizado a nivel mundial. Se basa en la arquitectura Merkle-Damgård, la cual procesa los datos del \textit{input} iterativamente en bloques secuenciales. Existen distintos tipos de algoritmos SHA, dependiendo del largo del \textit{output} que se desee conseguir (SHA-256, SHA-384, SHA-512, etc.).
+    \item \textbf{Keccak:} Utiliza una arquitectura criptográfica distinta llamada construcción de esponja. A diferencia de los métodos secuenciales, este método consta de dos fases: primero ``absorbe'' los datos del \textit{input} mezclándolos mediante operaciones matemáticas complejas, y posteriormente los ``exprime'' para extraer el \textit{output}. Esta diferencia lo hace intrínsecamente resistente a los ataques de extensión de longitud que afectan a la familia SHA-2 y permite que la longitud del \textit{hash} resultante sea adaptable o variable~\cite{sobti2012cryptographic}.
+\end{itemize}
+
+\subsubsection{LLAVES ASIMÉTRICAS}\label{asymmetric_keys}
+
+Las llaves asimétricas, se basan en un par de llaves vinculadas matemáticamente, una privada y una pública. En términos computacionales, estas llaves corresponden a números enteros de gran tamaño. Se generan a partir de algoritmos que aplican funciones matemáticas que aseguran que todo mensaje cifrado con una llave solo puede ser descifrado por la otra. Algunos de los algoritmos que se utilizan son:
+\begin{itemize}
+    \item \textbf{Rivest-Shamir-Adleman (RSA):} Es el primer algoritmo de este estilo, desarrollado en 1977. Se basa en la dificultad matemática de la factorización de productos de números primos, donde cada llave se deriva de números primos de gran magnitud~\cite{rsa1978}.
+    \item \textbf{Criptografía de Curva Elíptica (ECC):} Desarrollada en 1985 por Neal Koblitz y Victor Miller, se crea de la necesidad de reducir el tamaño de las llaves, ya que las llaves RSA pueden llegar al orden de los 4096 bits para ser seguras en la actualidad. Se basa en curvas elípticas, donde la llave privada corresponde a un número entero al azar y la llave pública a la multiplicación escalar de ese número por un punto específico de la curva. La reducción del tamaño es sustancial ya que logran una seguridad similar a una llave RSA de 4096 bits con solo 256 bits~\cite{koblitz1987}.
+\end{itemize}
+
+\subsubsection{APLICACIONES DE LAS LLAVES ASIMÉTRICAS}\label{asymmetric_keys_apps}
+
+Las cuatro principales aplicaciones de la criptografía asimétrica entre dos partes, (donde cada actor posee una llave privada que solo el conoce y una llave pública de libre distribución) son:
+\begin{itemize}
+    \item \textbf{Cifrado y Descifrado:} El emisor utiliza la llave pública del receptor para cifrar la información de un mensaje. De esta forma, se garantiza la confidencialidad, ya que solo el receptor legítimo podrá descifrar el contenido y acceder a él utilizando su llave privada.
+    \item \textbf{Intercambio de Llaves:} Establece un secreto compartido a través de un canal inseguro. Cada parte combina matemáticamente su llave privada con la llave pública de la contraparte. Gracias a las propiedades algebraicas de los algoritmos asimétricos, ambas partes obtienen exactamente el mismo valor. Este secreto se utiliza posteriormente para crear una llave simétrica, con la cual cifrarán la comunicación.
+    \item \textbf{Firma Digital:} El emisor genera un sello criptográfico sobre un mensaje, documento o archivo digital utilizando su llave privada. Posteriormente, cualquier tercero puede verificar la autenticidad y la integridad de dicha firma utilizando la llave pública del firmante, comprobando así que la información no fue alterada y que proviene efectivamente del dueño de la llave.
+    \item \textbf{Autenticación:} Permite a un actor X demostrar su identidad ante un actor Y, sin revelar su llave privada. Para esto, el actor Y envía un desafío criptográfico (un mensaje aleatorio) al actor X. Este actor firma ese desafío y se lo envía al actor Y, de tal forma que al verificar la firma, queda demostrada la identidad del actor X.
+\end{itemize}
+
+\subsection{\textit{BLOCKCHAIN}}\label{blockchain}
+
+La \textit{Blockchain} (cadena de bloques) es una estructura de datos distribuida y secuencial conformada por ``bloques``, que contiene un registro de transacciones. Las transacciones pueden ser transferencias de activos digitales, cambios en el estado de un dato, ejecución de \textit{scripts} (en \textit{blockchains} que los soporten), entre otras. Cada bloque hace referencia al bloque anterior, almacenando su \textit{hash}~\cite{zheng2018blockchain}, formando así, la cadena de bloques. Para que esta estructura adquiera las propiedades de descentralización, opera sobre una red \textit{peer-to-peer} (P2P), garantizando que su registro no dependa de una entidad central, si no que se mantenga replicada y distribuida entre los nodos.
+
+Esta red está compuesta de múltiples nodos independientes conectados entre sí, que dependiendo de su configuración, pueden ser: nodos completos, mantienen el registro histórico completo de transacciones o nodos ligeros, los cuales almacenan solo los \textit{headers} de los bloques, compuesta por el \textit{hash} del bloque anterior, el número del bloque (\textit{nonce}) y un resumen de las transacciones llamado \textit{merkle root}. La figura~\ref{fig:simple_blockchain} ilustra la relación de bloques en una cadena simple. Esta dependencia garantiza que, para alterar la información dentro de un bloque, se necesitaría recalcular el \textit{hash} de ese bloque y de todos los bloques subsiguientes, resultando en una estructura de datos prácticamente inalterable.
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{figures/simple_blockchain.png}
+\caption{\label{fig:simple_blockchain} Ejemplo de una \textit{blockchain} simplificada} Fuente: \url{https://www.shiksha.com/online-courses/articles/merkle-tree-in-blockchain/}
+\end{figure}
+
+\subsubsection{CRIPTOMONEDAS}\label{cryptocurrency}
+
+Las criptomonedas son activos digitales diseñados para funcionar como moneda de intercambio, cuya emisión, seguridad y registro no depende de instituciones acreditadoras centralizadas (como bancos o gobiernos), sino de la criptografía y la tecnología \textit{blockchain}. 
+
+El principal desafío que estas redes resuelven es el problema del doble gasto (\textit{double spending}), una vulnerabilidad digital donde un mismo activo podría ser transferido más de una vez. Al vincularse criptográficamente las transferencias dentro de los bloques, se logra mantener la contabilidad de los saldos de las cuentas. Además, sirven como incentivo económico para recompensar a los nodos que aportan recursos (poder de cómputo o \textit{stake}) para mantener la integridad del sistema.
+
+\subsubsection{ALGORITMOS DE CONSENSO}\label{consensus_algorithms}
+
+Los algoritmos de consenso son mecanismos que tienen los sistemas distribuidos para sincronizar los nodos. Dado a que la \textit{blockchain} es un sistema distribuido, sus nodos utilizan algoritmos de consenso para llegar a un acuerdo sobre qué bloques añadir a la cadena. A la vez, sirven para mitigar riesgos como: desincronización temporal, fallas bizantinas (nodos que transmiten información errónea al resto de la red) y la presencia de actores maliciosos (nodos que intencionalmente intentan vulnerar el sistema). Algunos de los algoritmos más conocidos son:
+\begin{itemize}
+    \item \textbf{\textit{Proof of Work} (PoW):} Utilizado principalmente por Bitcoin. Bajo este algoritmo, los nodos (mineros) compiten por resolver un problema criptográfico, el cual consiste en encontrar un número cuyo resultado de aplicar una función de \textit{hash}, (esta función es doble SHA-256, es decir $SHA256(SHA256(número))$), empiece con una cantidad mínima de ceros. Al ser la función de \textit{hash} imposible de revertir, la única alternativa que tienen los mineros es probar números al azar con la esperanza de ser los primeros en resolver el problema\footnote{Esta cantidad de ceros depende de la cantidad de mineros, ya que la red intenta mantener constante el tiempo en el que se añaden bloques a la cadena, debido a que mientras más intentos se estén realizando, más es probable que haya un ganador.}. Como recompensa por ganar esta competencia, se le otorga el poder de proponer el siguiente bloque de la cadena y a cambio recibir una recompensa en criptomonedas~\cite{nakamoto2008bitcoin}.
+    \item \textbf{\textit{Proof of Stake} (PoS):} Utilizado principalmente por Ethereum, se eliminan los mineros y se remplazan por validadores, los cuales para poder participar requieren de una cantidad mínima de criptomonedas como garantía o \textit{stake} (32 ETH actualmente en Ethereum). El algoritmo realiza un sorteo entre todos los validadores y al que es elegido se le faculta proponer el bloque nuevo.
+    \item \textbf{\textit{Proof of Authority} (PoA):} Alternativa para redes privadas en la que solo un grupo selecto de nodos tienen la capacidad de proponer bloques. Debido a la concentración del poder de decisión, este mecanismo presenta un mayor grado de centralización, aumentando la exposición a ataques dirigidos.
+    \item \textbf{\textit{Proof of Storage}:} Algoritmo implementado por \textit{Protocol Labs} en la red \textit{Filecoin}. Este algoritmo incentiva el almacenamiento descentralizado, separando la validación en dos procesos: \textit{Proof of Replication}: se basa en la demostración de que un nodo ha guardado una copia física y única de los datos, y \textit{Proof of Spacetime}: verifica que dichos datos se han mantenido guardados de forma ininterrumpida por cierta cantidad de tiempo. Al cumplir ambas, se otorga una recompensa en criptomonedas.
+\end{itemize}
+
+\subsubsection{CONTRATOS INTELIGENTES (\textit{SMART CONTRACTS})}\label{smart_contracts}
+
+El concepto de \textit{smart contract} fue propuesto por primera vez en 1994 por Nick Szabo, informático, criptógrafo y jurista, quien teorizaba sobre el uso de contratos digitales vinculados a la propiedad de objetos físicos mediante protocolos auto-ejecutables (\textit{smart contracts})~\cite{szabo1994smart}. Posteriormente, en 1997, formalizó esta idea planteando que algoritmos determinísticos e inmutables deberían sustituir la confianza en instituciones intermediarias para asegurar las relaciones en redes públicas~\cite{szabo1997formalizing}.
+
+En la actualidad, los \textit{smart contract} son programas determinísticos alojados y ejecutados dentro de una \textit{Blockchain}. A diferencia del software tradicional, su interacción requiere la ejecución de una transacción con una comisión asociada, lo que garantiza su ejecución. Al ser inmutables y transparentes, eliminan por diseño la posibilidad de manipulación o riesgos de fraude, convirtiéndolos en una alternativa altamente eficiente para campos como las finanzas, seguros, bienes raíces o cualquier proceso que requiera de operaciones ágiles.
+
+\subsection{IMPLEMENTACIONES DE \textit{BLOCKCHAIN}}\label{blockchain_networks}
+
+Las redes \textit{blockchain} admiten múltiples implementaciones, ya que los bloques están diseñados para almacenar diversos tipos de información, tales como: texto plano, \textit{hashes} de documentos o metadatos en formato JSON. Entre estas implementaciones se encuentran el registro de propiedades, contratos legales e incluso en áreas de la salud~\cite{hayes2024}, pero su implementación más importante es la de las criptomonedas.
+
+\subsubsection{PRIMERA GENERACIÓN DE CRIPTOMONEDAS}\label{first_gen}
+
+La primera generación de criptomonedas inicia en octubre de 2008 con la publicación del famoso \textit{whitepaper} ‘\textit{Bitcoin: A Peer-to-Peer Electronic Cash System}’~\cite{nakamoto2008bitcoin} por Satoshi Nakamoto, donde se propone el protocolo Bitcoin, un sistema de pagos electrónicos entre pares sin la necesidad de un intermediario centralizado confiable.
+
+Poco después, en enero de 2009, es lanzada la criptomoneda de Bitcoin, moneda que ha liderado el mercado hasta la actualidad, logrando una capitalización del mercado de más de un billón de dólares.~\cite{coinmarketcap} Luego surgirían monedas como Litecoin, creada con el ojetivo de reducir el tiempo de la confirmación de transacciones de Bitcoin, disminuyendo los intervalos de tiempo en los que se generan los bloques~\cite{lee2011litecoin}, y Bitcoin Cash, \textit{fork} de Bitcoin que tiene como propósito mejorar la escalabilidad de la red, aumentando el tamaño de los bloques~\footnote{Véase \url{https://www.blockchain.com/learning-portal/tokens/bitcoin-cash-explained}}.
+
+Si bien, el enfoque principal Bitcoin son las transferencias de criptomonedas, su protocolo incluye un lenguaje de programación denominado \textit{Script}, el cual tiene como propósito establacer las condiciones para autorizar una transacción. Este lenguaje fue diseñado de manera intencional para no ser Turing completo con el fin de maximizar la seguridad de la red frente a ataques de denegación de servicio~\cite{buterin2014ethereum}.
+
+\subsubsection{SEGUNDA GENERACIÓN DE CRIPTOMONEDAS}\label{second_gen}
+
+La principal diferencia de la segunda generación de criptomonedas con respecto a la primera, es la introducción de los \textit{smart contract}, permitiendo una mayor programabilidad en la red y otorgándoles la propiedad de ser Turing-completas (más precisamente, cuasi-Turing completas), lo que significa que son capaces de resolver cualquier problema computable, solamente limitado por las comisiones asociadas al cómputo de los contratos, esto para prevenir bucles infinitos~\cite{wood2014yellowpaper}.
+
+Esta generación es iniciada por Ethereum, expandiendo las posibilidades de la \textit{blockchain}, permitiendo crear finanzas descentralizadas (DeFi), NFTs y aplicaciones descentralizadas. Posteriormente, surgieron redes alternativas de contratos inteligentes como Solana y Cardano, diseñadas con arquitecturas de consenso distintas para intentar resolver desafíos específicos de escalabilidad, costos de transacción y velocidad de procesamiento que presentaban las redes iniciales.
+
+\subsection{ETHEREUM}\label{ethereum}
+
+El protocolo Ethereum fue propuesto en 2013 por Vitalik Buterin~\cite{buterin2014ethereum} y formalizado técnicamente en 2014 por Gavin Wood en el \textit{Yellow Paper}~\cite{wood2014yellowpaper}. Posteriormente, el 30 de julio de 2015, se lanzó la red Ethereum, que constituye la implementación de dicho protocolo. Esta red basada en \textit{blockchain} permite la ejecución de \textit{smart contracts} y aplicaciones descentralizadas~\cite{binance_academy_ethereum_2020}, facilitando la creación y gestión de criptomonedas y NFTs~\ref{nfts}.
+
+Ethereum cuenta con la \textit{Ethereum Virtual Machine} (EVM) para ejecutar instrucciones de bajo nivel conocidas como \textit{bytecode}, series de \textit{bytes} donde cada uno representa una operación y se utilizan para establecer la lógica de los \textit{smart contract}\footnote{Véase \url{https://www.evm.codes/}}. A diferencia del lenguaje \textit{Script} de Bitcoin, la EVM permite la ejecución de código con ciclos \textit{for} y \textit{while}, que es lo que le da la propiedad de cuasi-Turing completo a Ethereum.
+
+Ethereum utiliza Ether (ETH) como su criptomoneda nativa, la cual no solo se utiliza como moneda de intercambio, sino que es el incentivo económico que obtienen los validadores de la red (\textit{staking}), gracias a esto y las funcionalidades de los \textit{smart contracts}, Ethereum se posicionó rápidamente como una de las redes con mayor cantidad de transacciones~\cite{dappradar2026rankings} y consolidó a ETH como la segunda criptomoneda con mayor capitalización en el mercado, alcanzando los 232 mil millones de dólares~\cite{coinmarketcap}.
+
+\subsubsection{CUENTAS DE ETHEREUM}\label{ethereum_accounts}
+
+Existen dos tipos de cuenta en Ethereum: las Cuentas de Propiedad Externa (EOA) y las cuentas de contrato, ambas tienen dirección, la capacidad de recibir, guardar y enviar dinero y \textit{tokens}~\ref{nfts}, e interactuar con \textit{smart contracts}. Sus principales características diferenciadoras son:
+
+\paragraph{Externally-owned Account (EOA)} Tal como dice su nombre, se crean fuera de la red, ya que se crean a partir de la generación de un par de llaves asimétricas bajo la curva secp256k1. Para poder enviar transacciones a la cuenta es necesaria su dirección, la cual corresponde a los últimos 20 \textit{bytes} del \textit{hash} Keccak-256 de la llave pública de la cuenta. Además, este tipo de cuentas es el único que permite iniciar transacciones.
+
+\paragraph{Cuentas de contrato} Requieren de gwei~\ref{gas_and_gwei} para crearse, no pueden iniciar transacciones por sí mismas y no poseen llaves privadas. La dirección del contrato se obtiene a partir de los últimos 20 \textit{bytes} del \textit{hash} Keccak-256 de la serialización RLP\footnote{Véase \url{https://ethereum.org/developers/docs/data-structures-and-encoding/rlp}} de la dirección de la cuenta que desplegó el \textit{smart contract} y el \textit{nonce} de la transacción (contador secuencial de la cantidad de transacciones que ha enviado la cuenta).
+
+Para crear una cuenta de contrato, es decir, desplegar un \textit{smart contract} es necesario escribir instrucciones en \textit{bytecode}. Existen múltiples lenguajes de programación que facilitan el proceso de creación de \textit{smart contracts}, algunos de estos son: Solidity, está basado en C++ y JavaScript, siendo el estándar principal para la EVM; Vyper, lenguaje basado en Python, diseñado para ser legible y seguro, para esto limita la recursividad y bucles, con el \textit{tradeoff} de perder la propiedad de ser cuasi-Turing completo; Yul, lenguaje de bajo nivel diseñado para optimizar el consumo de gas, y Fe, lenguaje reciente inspirado en Python y Rust, enfocado en la seguridad~\cite{ethereum_smart_contract_languages}.
+
+\subsubsection{GAS Y GWEI}\label{gas_and_gwei}
+
+Para que la red de Ethereum sea autosustentable, es necesario pagar una comisión por transacción, la cual se calcula con la fórmula:
+\begin{equation}
+    total\_fee = gas\_used \times (base\_fee + priority\_fee) \label{eq:tx_fee}
+\end{equation}
+Donde:
+\begin{itemize}
+    \item $total\_fee$: comisión total de la transacción {[gwei]}.
+    \item $gas\_used$: cantidad de gas utilizado en una transacción {[gas]}.
+    \item $base\_fee$: comisión base de la transacción {[gwei/gas]}.
+    \item $priority\_fee$: comisión por prioridad {[gwei/gas]}.
+\end{itemize}
+Cada transacción tiene un costo computacional medido en unidades de gas ($gas\_used$). Este valor no es arbitrario, sino que se determina sumando un costo base fijo (según el tipo de transacción) más el costo individual de cada operación realizada y cada byte de información enviado.
+
+La Tabla~\ref{table:gas_costs} detalla estos costos unitarios y la suma total de estos componentes equivale a $gas\_used$. Cabe destacar que para crear un \textit{smart contract}, es necesario realizar una transacción, entonces, el coste base de crear un \textit{smart contract} resulta siendo 53,000 [gas].
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|l|r|}
+        \hline
+        \textbf{Tipo de operación} & \textbf{Coste en [gas]}\\ \hline
+        Costo base fijo por transacción & 21,000 \\ \hline
+        Creación de un \textit{smart contract} & 32,000 \\ \hline
+        Datos por byte vacío (0x00) & 4 \\ \hline
+        Datos por byte no vacío & 16 \\ \hline
+        Almacenamiento de código (por byte) & 200 \\ \hline
+        SSTORE (nueva variable) & 20,000 \\ \hline
+    \end{tabular}
+    \caption{Fragmento de las operaciones más comunes de la EVM y su coste en [gas]. Lista completa en \url{https://www.evm.codes/}}
+    \label{table:gas_costs}
+    {Fuente: Elaboración propia.}
+\end{table} \\
+El costo de unidad de gas, medido en gwei (1 gwei = $10^{-9}$ ETH), se compone de la $base\_fee$ y la $priority\_fee$. La $base\_fee$ se ajusta de bloque en bloque según el nivel de congestión de la red, el cual puede fluctuar repentinamente, haciéndolo difícil de predecir, especialmente en lanzamientos de \textit{NFTs} o eventos de liquidación masiva. Esto puede provocar que transacciones fallen por falta de gas o se demoren en procesar. La figura \ref{fig:gas_price} evidencia esto, llegando a un mínimo de 0.432 [gwei/gas] y a un máximo de 4.255 [gwei/gas].
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.555\textwidth]{figures/average_gas_price.png}
+\caption{\label{fig:gas_price} Promedio diario del precio del gas en \textit{gwei} durante un mes.} Fuente: Etherscan.
+\end{figure}\\
+Por otro lado, para entender la $priority\_fee$ (también llamada propina), es necesario entender cómo se procesan las operaciones. Antes de ser añadidas a la cadena de bloques, las transacciones esperan en un área de memoria pública llamado \textit{mempool}. Dado que el espacio dentro de un bloque es limitado, los validadores deben elegir qué transacciones incluir, y lo hacen maximizando su recompensa económica. En consecuencia, la $priority\_fee$ funciona como incentivo para que se priorice una transacción antes que el resto. Cuando la red está completamente descongestionada esta tiende a cero y en periodos de máxima congestión puede superar fácilmente los 100 gwei por unidad de gas.
+
+De la comisión total la fracción \textit{gwei} correspondiente a la base\_fee se quema\footnote{Quemar \textit{gwei} significa que no se puede volver a utilizar, esto se hace desde la adopción del EIP-1559 para evitar que validadores manipulen artificialmente el $base\_fee$.}, mientras que la $priority\_fee$ va dirigido 100\% a los validadores.
+
+Si bien este es el estándar en redes públicas como Ethereum, el precio y la cantidad de gas de las operaciones pueden editarse dependiendo de la red en la que se está trabajando. En redes privadas o permisionadas, se pueden encontrar costes fijos por operación, eliminando la variación por congestión o las propinas, adoptando un sistema por orden de llegada (FIFO).
+
+\subsubsection{NFTs}\label{nfts}
+
+Los \textit{Non-Fungible Tokens} (NFT) son una tecnología estandarizada en 2018 a partir de la adopción del EIP-721~\cite{eip721}, donde se especifica una interfaz estándar para la creación de \textit{tokens} únicos e indivisibles en la red. A diferencia de los \textit{tokens} fungibles (como el propio Ether o aquellos basados en el estándar ERC-20), donde cada \textit{token} es idéntico e intercambiable por otro con el mismo valor, un NFT posee un identificador único que lo distingue de cualquier otro activo digital en la \textit{blockchain}.
+
+Estas características de los NFT facilitan el proceso de adquisición, validación de propiedad y transferencia de titularidad de elementos digitales, al vincular el NFT con una imagen, video, documento, audio, entre otros. Es precisamente por esta capacidad que los NFT se presentan como una posible solución para abordar las problemáticas actuales de las notarías, tales como el riesgo de falsificación, la pérdida de documentos físicos y la centralización de los documentos, donde resulta fundamental contar con representaciones digitales únicas e inalterables. Al representar un documento notarial o un título de propiedad mediante un NFT~\cite{moringiello2023blockchain}, no solo se asegura la trazabilidad de su titularidad, sino que su propia emisión y transferencia requieren de transacciones firmadas criptográficamente, eliminando así el riesgo de repudio.
+
+Almacenar archivos dentro de la \textit{blockchain} puede ser bastante costoso. Por ejemplo, consideremos almacenar una imagen de dimensiones 1920x1080, que corresponden a las dimensiones de la mayoría de las fotos hoy en día. Esto equivale a 2,073,600 píxeles, y asumiendo que cada píxel requiere cuatro \textit{bytes} (esto por el estándar RGBA\footnote{\url{https://www.1stvision.com/cameras/IDS/IDS-manuals/en/basics-color-pixel-formats.html}}), resulta en un archivo de 8,294,400 bytes. 
+
+Podemos calcular la cantidad de gas necesario para almacenar la imagen con la tabla~\ref{table:gas_costs}: 8,294,400 [bytes] $\times$ 16 [gas/byte] + 21,000 [gas] = 132,731,400 [gas], y estimar un coste por unidad de gas optimista basado en la figura~\ref{fig:gas_price}, asumiendo que el coste por unidad de gas es 0.5 gwei y no vamos a pagar propina. Introduciendo todos los elementos en la ecuación~\ref{eq:tx_fee}: total\_fee = 132,731,400 [gas] $\times$ 0.5 [gwei/gas] + 0 [gwei/gas] = 66,365,700 [gwei], o 0.0663657 [ETH], que usando su valor actual en CLP (1 ETH $\approx$ 1,600,000 CLP\footnote{Valor consultado el 27 de febrero de 2026 en \url{https://coinmarketcap.com/es/currencies/ethereum/eth/clp/}}) equivale aproximadamente a 106,185 CLP.
+
+A pesar de obtener un valor monetario estimable, almacenar esta imagen en la red es, en la práctica, imposible. Esto se debe a que el coste de 132,731,400 [gas] es casi el doble que el límite máximo de gas permitido por transacción, el cual es de 60 millones\footnote{Véase \url{https://etherscan.io/chart/gaslimit}}.
+
+Debido a esto, los NFT sólo almacenan: el dueño del NFT, el \texttt{tokenId} y el \texttt{tokenURI} (que enlaza los metadatos y el archivo original). El archivo original, por su parte, se almacena en una base de datos o en un servidor externo, fuera de la \textit{blockchain}~\cite{wang2021nonfungible}.
+
+\subsubsection{IMPLEMENTACIONES DEL PROTOCOLO ETHEREUM}
+
+Al ser las operaciones en ethereum escritas en \textit{bytecode}, vuelve a la EVM agnóstica de un \textit{stack} tecnológico en específico, permitiendo la interoperabilidad de distintas implementaciones de Ethereum. 
+
+Ethereum está compuesto de dos componentes principales: una capa de consenso, responsable de la propagación de cambios en la \textit{blockchain} y validación de bloques, y la capa de ejecución, la cual se encarga de todas las otras operaciones en Ethereum, como, recibir y validar las transacciones, almacenar los \textit{smart contracts}, gestionar la EVM, mantener el estado de las cuentas, entre otras~\cite{quicknode_ethereum_clients}.
+
+Las principales implementaciones de la capa de ejecución son:
+\begin{itemize}
+    \item \textbf{Geth:} escrita en Go, es la implementación de esta capa más utilizada. Implementa una API JSON-RPC con cual interactúan las aplicaciones. Está orientado a la seguridad, incluyendo de forma nativa el servicio Clef. Este servicio aisla la gestión de cuentas de Geth. Permitiendo delegar la firma de transacciones a herramientas externas. 
+    \item \textbf{Nethermind:} escrita en C\# (.NET), su foco está en las aplicaciones empresariales, ofreciendo servicios de \textit{dashbords} como Prometheus o Grafana.
+    \item \textbf{Besu:} escrita en Java, también se centra en las aplicaciones empresariales, soporta redes privadas y públicas, permitiendo cambiar el algoritmo de consenso en las redes privadas.
+    \item \textbf{Reth:} escrita en Rust, opción más reciente se preocupa de la eficiencia, modularidad y facilidad de contribución, busca ser una opción que rivalice a Geth.
+\end{itemize}
+
+En cuanto a las implementaciones de la capa de consenso están:
+\begin{itemize}
+    \item \textbf{Lighthouse:} escrita en Rust, es conocida por su gran rendimiento y escalabilidad. Es la implementación de esta capa más utilizada.
+    \item \textbf{Prysm:} escrita en Go, se diferencia por su confiabilidad, documentación extensa y su experiencia de usuario.
+    \item \textbf{Teku:} escrita en Java, es diseñada por los mismos creadores de Besu y se basa aplicaciones empresariales.
+\end{itemize}
+
+\subsection{HARDWARE CRIPTOGRÁFICO}\label{cryptographic_hardware}
+
+Siguiendo la línea de la vinculación entre el mundo físico y el mundo digital, se introduce el concepto de \textit{hardware} criptográfico. Su característica fundamental es la capacidad de generar llaves privadas dentro de un \textit{Secure Element} (SE). Por diseño es imposible exportarlas, permitiendo que el dispositivo firme la transacciones internamente sin revelar nunca la llave privada al sistema operativo, eliminando el riesgo de que la llave sea extraída por un \textit{malware}, \textit{phishing} o accediendo a la memoria del computador.
+
+Estos dispositivos permiten vincular la identidad del usuario a un elemento físico, como una llave de seguridad o un \textit{e-token}, permitiendo ligar las firmas digitales a la persona dueña del dispositivo (como lo hacen las firmas electrónicas avanzadas~\ref{fea_prob}).
+
+\subsubsection{ESTÁNDARES DE AUTENTICACIÓN Y ENCRIPTACIÓN}
+
+Estos estándares definen los protocolos para: verificar identidades mediante la posesión de hardware; proteger la información, y asegurar la interoperabilidad entre dispositivos físicos y sistemas. Algunos de estos estándares son:
+
+\paragraph{One Time Password (OTP)} 
+
+Es un mecanismo de autenticación que requiere una contraseña dinámica válida para una única sesión o transacción. Su propósito es mitigar las vulnerabilidades de las contraseñas estáticas, como los ataques de repetición (\textit{replay attacks}).
+
+\paragraph{Personal Identity Verification (PIV)} 
+
+Es un estándar especificado por la norma NIST SP 800-73-5, permite que un dispositivo de \textit{hardware} funcione como una \textit{Smart Card}, designando cuatro \textit{slots} con la capacidad de almacenar una llave privada, destinada a funciones de autenticación y emisión de firmas digitales~\cite{nist_sp_800_73_5_pt2}.
+
+\paragraph{WebAuthn} 
+
+Es un estándar web desarrollado por el W3C en colaboración con la Alianza FIDO, diseñado para proveer autenticación robusta mediante criptografía de clave pública. Permite a los usuarios autenticarse en servicios web sin contraseñas, utilizando en su lugar autenticadores físicos.
+
+\paragraph{OpenPGP}\label{openpgp_standard} 
+
+Es un estándar de encriptación y firma digital que combina criptografía simétrica y asimétrica para garantizar la confidencialidad, autenticidad y no repudio de los datos~\cite{openpgp_dev_about} y es utilizado mayoritariamente para proteger correos electrónicos. Al igual que el estándar PIV, OpenPGP designa cuatro \textit{slots} destinados para operaciones específicas: firma digital, cifrado, autenticación y gestión de atributos.
+
+Su diseño flexible permite el uso de curvas elípticas no soportadas por otros estándares como PIV o WebAuthn. Un ejemplo es la curva secp256k1, pilar fundamental de la red Ethereum. Para la interacción con dispositivos físicos, herramientas como GnuPG\footnote{https://www.gnupg.org/ftp/specs/OpenPGP-smart-card-application-3.4.1.pdf\#page=51} utilizan el protocolo de tarjetas inteligentes para enviar instrucciones y realizar operaciones criptográficas directamente en el \textit{hardware}, asegurando que el material sensible nunca sea expuesto.
+
+\subsubsection{SOLUCIONES DE HARDWARE CRIPTOGRÁFICO}
+
+A continuación se presentan tres ejemplos de implementaciones de \textit{hardware} criptográfico y sus funciones:
+
+\paragraph{YubiKey}
+
+Las YubiKey son dispositivos de autenticación hardware desarrollados por la empresa sueca Yubico, fundada el año 2007 por Jakob y Stina Ehrensvärd. El propósito de estos dispositivos es fortalecer la seguridad de los accesos mediante hardware dedicado, simplificando la adopción de estándares criptográficos para el usuario final.~\cite{yubico2024innovation}
+
+Originalmente estaban limitadas al protocolo \textit{One-Time Password} (OTP), emulando un teclado para introducir contraseñas aleatorias y sólo tenían compatibilidad con los puertos USB. En 2012, en colaboración con Google, crean el estándar \textit{Universal 2nd Factor} (U2F). Esta tecnología emplea criptografía de llaves asimétricas para asegurar aún más los inicios de sesión con dispositivos YubiKey, almacenando la llave privada dentro del dispositivo de tal forma que sea físicamente imposible de extraer. Además, incluyeron la tecnología NFC en algunos de sus dispositivos. 
+
+En la actualidad, la serie YubiKey 5 posee protocolos como PIV, OTP, OpenPGP, OATH y FIDO2/WebAuthn. Estos dispositivos son compatibles con interfaces USB-A, USB-C, \textit{lightning} y NFC. Además, soportan algoritmos robustos como RSA 4096 y curvas elípticas como secp256k1 y Ed25519.~\cite{yubico5cnfc}
+
+\paragraph{Nitrokeys}\label{nitrokey}
+
+Dispositivos multifuncionales al igual que las YubiKey. Son desarrolladas por la empresa alemana Nitrokey GmbH, fundada el año 2015 por Jan Suhr. Su principal diferencia con las YubiKey es que son \textit{open source}.
+
+Soportan estándares como FIDO2, OpenPGP y PIV para la autenticación y el cifrado de datos. Permiten actualizaciones de \textit{firmware}, para la incorporación de nuevos algoritmos. 
+
+\paragraph{Trezor Safe}\label{trezor_safe}
+
+Dispositivos producidos por la empresa checa SatoshiLabs, fundada el 2013 por Marek Palatinus y Pavol Rusnák. Están diseñadas para generar llaves privadas y asegurar la custodia de activos en redes basadas en \textit{blockchain}, como Bitcoin, Ethereum, Cardano, Solana, entre otras.
+
+Además, permiten autorizar transacciones y firmar mensajes mediante verificación física en su pantalla. Este mecanismo asegura que ninguna operación se realice sin el consentimiento explícito del usuario, protegiendo las claves privadas de ataques de \textit{malware} en el equipo anfitrión.
+
+Además, la aprobación y firma de transacciones de los modelos más recientes, requieren una interacción física con la pantalla táctil del dispositivo. Este mecanismo asegura que ninguna operación se realice sin el consentimiento explícito del usuario, protegiendo las claves privadas de ataques de \textit{malware} en el equipo anfitrión.
+
+\secnumbersection{PROPUESTA DE SOLUCIÓN}
+
+Como solución a la problemática de los notarios antes descrita, se plantea un sistema distribuido de almacenamiento inmutable, a través de una red de \textit{blockchain}, junto con la autenticación de transacciones mediante dispositivos de \textit{hardware} criptográfico, con el fin de implementar ciertas actividades notariales. 
+
+Específicamente, se propone el uso de la \textit{blockchain} de Ethereum para almacenar documentos, empleando \textit{smart contracts} dentro de la red para simular contratos y certificados, haciendo uso de YubiKeys para firmar transacciones, mediante la emisión de firmas digitales, autenticando que el portador firmó un documento, simulando en conjunto las funciones de una notaría.
+
+En este capítulo se detalla la metodología de trabajo~\ref{met_des}, la arquitectura de la solución~\ref{arq_sol}, los componentes de la solución~\ref{solution_components}, el stack de tecnología~\ref{tech_stack}, los cambios realizados en Ethereum para poder implementar la solución~\ref{yk_imp_geth_clef}, las configuraciones del ambiente de pruebas~\ref{kurt_dep} y la interacción con la red basada en \textit{blockchain} para realizar las pruebas~\ref{smt_ctct}.
+
+\subsection{METODOLOGÍA DE DESARROLLO}\label{met_des}
+
+Para el desarrollo de la solución, se realizó una investigación inicial de las posibles tecnologías a utilizar para poder empezar a trabajar, donde se compararon distintas \textit{blockchain} y llaves físicas para utilizar dentro de la solución.
+
+Luego de una fase de investigación preliminar se determinó que la mejor \textit{blockchain} para desarrollar la solución es Ethereum y la llave física para firmar las transacciones sería YubiKey. (En la sección~\ref{solution_components} se comentan las razones de las elecciones de estas herramientas y sus beneficios).
+
+Como metodología de trabajo se utilizó el desarrollo incremental, demostrando la capacidad de una tecnología antes de empezar a trabajar con la siguiente, de esta forma se asegura que todos los componentes de la solución funcionan bien por si mismos.
+
+\subsection{ARQUITECTURA DE LA SOLUCIÓN}\label{arq_sol}
+
+La arquitectura de la solución propuesta describe, a alto nivel, la interacción entre los distintos componentes del sistema. Estos son: la \textbf{red basada en \textit{blockchain}}, encargada de almacenar los \textit{smart contracts} y llevar el registro inmutable de las transacciones; el \textbf{gestor de llaves}, que actúa como puente entre el usuario y la \textit{blockchain} para verificar las transacciones y crear nuevas cuentas; la \textbf{aplicación}, funciona como la interfaz principal donde el usuario interactúa de manera indirecta con la red para iniciar transacciones, desplegar \textit{smart contracts}, y gestionar la subida e interacción de archivos; la \textbf{llave física}, cuya únicas funciones son almacenar las llaves criptográficas y usarlas para firmar transacciones, y el \textbf{usuario} quien posee la llave física y hace uso de la aplicación. La figura \ref{fig:arq_sol} representa visualmente la interacción de estos componentes.
+\begin{figure}[h]
+\centering
+\includesvg[width=1\textwidth]{figures/arquitectura_solucion.svg}
+\caption{\label{fig:arq_sol} Diagrama de arquitectura de la Solución.} Fuente: Elaboración Propia
+\end{figure}
+
+\subsection{COMPONENTES DE LA SOLUCIÓN}\label{solution_components}
+
+En esta sección se detallan los componentes de la arquitectura y los desafíos técnicos que se tuvieron que abordar para desarrollar la solución:
+\begin{enumerate}
+    \item Las implementaciones de los protocolos de \textit{blockchain} y los nodos, donde se almacenarán todos los archivos y las transacciones;
+    \item La gestión de llaves y firmas, la cual permite que el usuario pueda verificar o confirmar una transacción realizada con una de sus cuentas;
+    \item El entorno de simulación, que emulará el funcionamiento de una \textit{blockchain} localmente, con el uso de contenedores, y
+    \item Las tecnologías con las que se crearan y desplegarán \textit{smart contracts} y se efectuarán las transacciones.
+\end{enumerate}
+
+\subsubsection{RED DE \textit{BLOCKCHAIN} Y NODOS}
+
+Se determinó que la mejor alternativa para desarrollar la solución es Ethereum. Esto debido a su soporte nativo para \textit{smart contracts} lo que proporciona un entorno de ejecución altamente programable en comparación a los \textit{Script} de Bitcoin que resultan ser más restrictivos. Al compararla con otras redes como Solana o Cardano, Ethereum destaca por la estabilidad de su infraestructura, sumado a que EVM posee la comunidad de desarrolladores más extensa del ecosistema \cite{hashlock2025developers}.
+
+\subsubsection{GESTIÓN DE LLAVES Y FIRMAS}
+
+Para aislar la firma de transacciones del cliente de ejecución (Geth), Ethereum promueve el uso de Clef, un servidor RPC independiente dedicado a la gestión y custodia de cuentas. Dado que este gestor no soporta YubiKey de forma nativa, en la subsección~\ref{yk_imp_geth_clef} se detallan las modificaciones realizadas para lograr su integración.
+
+La elección de YubiKey por sobre alternativas como Nitrokey~\ref{nitrokey} se basa en los altos niveles de seguridad y en su \textit{chip} inmutable, el cual impide la modificación de su \textit{firmware}. Sin embargo, esta característica resulta ser un arma de doble filo, ya que Ethereum utiliza la curva elíptica secp256k1~\ref{ethereum_accounts}, soporte que YubiKey incorporó con OpenPGP, recién a partir de la versión de \textit{firmware} 5.2\footnote{Véase \url{https://support.yubico.com/s/article/YubiKey-52-enhancements-to-OpenPGP-34-support}}. En consecuencia, las llaves con un \textit{firmware} anterior son incompatibles, haciendo estrictamente necesario el uso de un dispositivo actualizado.
+
+\subsubsection{ENTORNO DE SIMULACIÓN}\label{sim_env}
+
+Para llevar a cabo pruebas en redes basadas en \textit{blockchain}, se utilizan las denominadas \textit{testnets} o redes de prueba. En el contexto de Ethereum operan como copias de la red principal (\textit{mainnet}) que permiten la validación de contratos y transacciones en un entorno seguro. La necesidad de utilizar fondos sin valor monetario radica en que permite a los desarrolladores realizar pruebas sin incurrir en costos financieros reales, eliminando el riesgo de pérdida de capital por fallos en la lógica de los \textit{smart contracts} o en la configuración de las firmas. Sin embargo, el uso de una \textit{testnet} pública limita el nivel de control sobre la infraestructura y la configuración de los nodos.
+
+Dado que esta implementación requiere un entorno aislado para estructurar la comunicación entre el cliente de ejecución y el gestor de cuentas (Clef), se determinó que la alternativa más adecuada es simular una red privada local, donde los nodos operan en contenedores Docker de forma orquestada. Para este propósito, la documentación oficial de Geth sugiere el uso de \textit{Kurtosis}\footnote{Véase \url{https://geth.ethereum.org/docs/fundamentals/private-network}}, una herramienta diseñada para la orquestación y despliegue de redes locales complejas. Su uso es fundamental para garantizar la reproducibilidad del entorno de simulación, permitiendo un alto grado de configurabilidad de las capas de ejecución y consenso\footnote{Véase \url{https://docs.kurtosis.com/how-to-compose-your-own-testnet/}}, además de facilitar el levantamiento y destrucción de ambientes de prueba de forma eficiente, utilizando pocas líneas de código.
+
+\subsubsection{\textit{SMART CONTRACTS} Y TRANSACCIONES}\label{smt_ctct_and_tx}
+
+Los \textit{smart contracts} fueron escritos en Solidity, se eligió este lenguaje por sobre opciones como Vyper, Yul o Fe debido a que es el estándar en la industria, cuenta con una mayor cantidad de herramientas para complementar su desarrollo y posee la comunidad más grande entre todos los lenguajes de programación de \textit{smart contracts}\footnote{Véase \url{https://www.nadcab.com/blog/best-smart-contract-languages}}.
+
+Estos fueron desplegados utilizando HardHat.js, un ambiente de desarrollo que facilita el testeo, despliegue, verificación y compilación de \textit{smart contracts}, transformando los contratos en \textit{bytecode} legible para la EVM. 
+
+Se utilizó ethers.js para empezar transacciones, ya sean transferencias de fondos o despliegue de \textit{smart contracts}, esto lo hace consumiendo la API de Geth mediante funciones RPC de igual forma que Geth consume la API de Clef.
+
+\subsection{STACK DE TECNOLOGÍAS}\label{tech_stack}
+
+En esta subsección se da un breve repaso de las tecnologías específicas utilizadas en el desarrollo de la solución:
+
+\subsubsection{GO}
+
+Todos los cambios realizados en Clef están escritos en Go, usando las librerías:
+\begin{itemize}
+    \item \texttt{go-ethereum}: aquí se incluyen todas las funciones auxiliares utilizadas y  que se modificaron en Clef.
+    \item \texttt{scard}: librería para comunicar Clef con la YubiKey y enviar operaciones.
+    \item \texttt{encoding/hex}: operaciones para traspasar bytes a hexadecimal y viceversa.
+    \item \texttt{crypto}: funciones criptográficas como \textit{hash} Keccak-256 y verificación de firmas.
+\end{itemize}
+
+\subsubsection{JAVASCRIPT}
+
+En JavaScript se programaron todas las llamadas a las funciones de Geth para realizar transacciones, desplegar \textit{smart contracts}, crear cuentas y revisar balances. Esto se detalla mejor en la sección~\ref{smt_ctct}. Las librerías utilizadas fueron:
+\begin{itemize}
+    \item \texttt{ethers.js}: librería para interactuar con Geth, incluye funciones por defecto como: \texttt{getBalance()} para obtener el balance de una o múltiples cuentas; \texttt{sendTransaction()} que permite enviar una transacción desde una cuenta a otra; \texttt{getCode()} obtiene el código de un \textit{smart contract}, o \texttt{getNetwork()} función que permite conectar la aplicación a la red privada.
+    \item HardHat.js: como se mencionó en~\ref{smt_ctct_and_tx}, facilita el despliegue de \textit{smart contracts}, verificando que el \textit{smart contract} que se va a enviar a la red cumpla con la sintaxis correcta, además, permite fácilmente cambiar la red a una \textit{testnet} o la \textit{mainnet}.
+\end{itemize}
+
+\subsubsection{SOLIDITY}
+
+Como se mencionó en el marco teórico~\ref{ethereum_accounts}, Solidity es un lenguaje de programación de \textit{smart contracts} basado en C++ y JavaScript, sus funciones más importantes son:
+\begin{itemize}
+    \item \texttt{receive()}: permite al \textit{smart contract} recibir ETH (a través de una transacción).
+    \item \texttt{fallback()}: es igual que \texttt{receive()} pero además permite que se envíe un campo con \texttt{data}.
+    \item \texttt{dest.call\{value\}(data)}: permite al \textit{smart contract} enviar una transacción de valor \texttt{value} a la dirección \texttt{dest} con \texttt{data}.
+\end{itemize}
+
+\subsection{IMPLEMENTACIÓN DE YUBIKEY EN GETH Y CLEF}\label{yk_imp_geth_clef}
+
+Para poder realizar los cambios en Clef se realizó un \textit{fork} del código fuente de de Ethereum en Go\footnote{Véase \url{https://github.com/ethereum/go-ethereum}}, el cual contiene en \texttt{cmd/geth} la implementación de Geth y en \texttt{cmd/clef} la implementación de Clef.
+
+Los principales cambios realizados en el código de Clef para habilitar la firma con una YubiKey son la implementación de una función para crear cuentas que se almacenen en la YubiKey utilizando Clef, la función para listar las cuentas asociadas a las llaves YubiKey, y luego utilizarlas para firmar.
+
+Para mayor claridad, se puede ver en la figura~\ref{fig:seq_diag} la interacción que van a tener todos los componentes una vez implementadas todas las funciones:
+\begin{figure}[h]
+\centering
+\includesvg[width=1\textwidth]{figures/diagrama_secuencia_clef.svg}
+\caption{\label{fig:seq_diag} Diagrama de secuencia de la firma de una transacción con Clef con YubiKey.} Fuente: Elaboración Propia
+\end{figure}
+
+\subsubsection{INTERACCIÓN CON LA YUBIKEY}\label{yubi_interact}
+
+Antes de realizar cualquier cambio en el código fuente de Clef, fue necesario implementar tres funciones auxiliares necesarias para realizar todas las operaciones dentro de la YubiKey: primero, establecer la conexión con la YubiKey; segundo, enviar las instrucciones APDU, y terecero, seleccionar el applet de OpenPGP\footnote{Véase \url{https://docs.yubico.com/yesdk/users-manual/yubikey-reference/apdu.html}}.
+\begin{enumerate}
+    \item \texttt{connectCard()}: Función auxiliar para establecer conexión con la YubiKey, se utilizó la librería \textbf{scard}, que permite establecer conexión con una \textit{smartcard} y exportar el \textit{handler}\footnote{Véase \url{github.com/ebfe/scard}}.
+    \item \texttt{transmitAndCheck()}: Utiliza la misma librería que \texttt{connectCard()}, recibe el \textit{handler} de la \textit{smartcard} y le envía una función APDU. 
+    \item \texttt{selectOpenPGP}: Función para la selección del applet de OpenPGP\footnote{Véase \url{https://www.gnupg.org/ftp/specs/OpenPGP-smart-card-application-3.4.1.pdf\#page=51}} y se transmisión a la llave con \texttt{transmitAndCheck()}.
+\end{enumerate}
+
+\subsubsection{MODIFICACIÓN DE LA GENERACIÓN DE CUENTAS}
+
+Por omisión, Clef permite generar cuentas mediante el comando \texttt{clef newaccount --keystore ./<directorio>}. El resultado se guarda en la ruta especificada como un archivo JSON en formato \textit{web3SecretStorage}\footnote{Véase \url{https://ethereum.org/developers/docs/data-structures-and-encoding/web3-secret-storage}}. Este documento contiene la llave privada cifrada mediante el algoritmo AES-128-CTR, protegiéndola con una contraseña definida por el usuario durante su creación, la cual será necesaria cada vez que se quiera utilizar la llave.
+
+Los cambios realizados fueron, crear una \textit{flag} binaria llamada \texttt{YubikeyEnabledFlag} (\texttt{clef newaccount --yubikey}), que al incluirse en el comando, deriva la creación de la cuenta al interior YubiKey, para esto, la función \texttt{GenerateKey()} utiliza las funciones definidas en \ref{yubi_interact} para enviar instrucciones a la YubiKey para que cree las llaves asimétricas que se van a asociar a la cuenta. 
+
+Estos códigos son:
+
+minted
+operaciones en apdu para generación del par de llaves bajo la curva secp256k1
+minted
+
+Tal como se estableció en la sección~\ref{openpgp_standard}, el estándar OpenPGP dispone de un único \textit{slot} para firmas digitales, operación utilizada para la validación de transacciones. No obstante, para habilitar la generación de una llave adicional conforme a la propuesta de solución, se ha optado por utilizar el \textit{slot} de autenticación. Esta decisión se fundamenta en que ambas funciones operan bajo el mismo principio de criptografía asimétrica: el uso de una llave privada para firmar mensajes que terceros verifican mediante la llave pública (del firmante)~\ref{asymmetric_keys_apps}.
+
+\subsubsection{MODIFICACIÓN DE LA FIRMA DE TRANSACCIONES}
+
+A fin de emitir la firma de las transacciones usando la llave, se crearon las siguientes funciones en el código de Clef:
+\begin{itemize}
+    \item \texttt{InitYubikey}: establece una conexión con la YubiKey la cual se comparte a aplicación para listar las distintas cuentas que están bajo la custodia de Clef. \begin{minted}{text}
+-- Selección del applet OpenPGP (selectOpenPGP)
+00 A4 04 00 06 D2 76 00 01 24 01
+
+-- Lectura de llave pública 
+00 47 81 00 02 B6 00 (slot de firma)
+00 47 81 00 02 A4 00 (slot de autenticación)
+\end{minted}
+    \item \texttt{SignYubiKeyTransaction}: firma el \textit{hash} de una transacción usando el \textit{slot} correspondiente a la la llave pública asociada a la dirección del emisor de la transacción, para esto se ejecutan los siguientes comandos APDU:
+\begin{minted}{text}
+-- Selección del applet OpenPGP (selectOpenPGP)
+00 A4 04 00 06 D2 76 00 01 24 01
+
+-- Verificación de PIN de usuario 
+00 20 00 81 Lc <PIN> (slot de firma)
+00 20 00 82 Lc <PIN> (slot de autenticación)
+
+-- Firma del hash de la transacción
+00 2A 9E 9A 20 <txHash[32 bytes]> (slot 0xB6: COMPUTE DIGITAL SIGNATURE)
+00 88 00 00 20 <txHash[32 bytes]> (slot 0xA4: INTERNAL AUTHENTICATE)
+\end{minted}
+\end{itemize}
+
+\subsubsection{EJECUCIÓN DEL CLIENTE CLEF}
+
+Por último, se mencionan los comandos necesarios para iniciar la ejecución del gestor de firmas Clef, de tal forma que se conecte correctamente a un nodo de la \textit{blockchain}, la interaccion con el usuario y la custodia de la YubiKey:
+
+\begin{minted}{bat}
+-- Crear una cuenta con Clef dentro de la YubiKey
+clef newaccount --yubikey
+
+-- Iniciar Geth usando Clef como firmador externo
+clef --keystore <keystore_dir> --chainid (585858 para kurtosis, 1 para mainnet) --http --http.addr "0.0.0.0" --http.port 8550 --pcscd <pcscd_path>
+\end{minted}
+
+\subsection{DESPLIEGUE DEL ENTORNO DE PRUEBAS CON KURTOSIS}\label{kurt_dep}
+
+Como se mencionó en la subsubsección~\ref{sim_env}, Kurtosis es altamente personalizable, por ende, para cumplir con las necesidades del desarrollo se establecieron las siguientes configuraciones de la red, especificados en el archivo \texttt{network\_params.yaml}:
+\noindent
+\begin{minipage}{\textwidth}
+\begin{minted}{yaml}
+participants:
+  - el_type: geth
+    el_image: "geth_utfsm:v1"
+    cl_type: lighthouse
+    count: 1
+    el_extra_params: "--signer=http://127.0.0.1:8550"
+
+  - el_type: geth
+    cl_type: lighthouse
+    count: 2
+
+network_params:
+  network_id: "585858"
+
+additional_services:
+  - dora
+
+port_publisher:
+  nat_exit_ip: "127.0.0.1"
+  el:
+    enabled: true
+    public_port_start: 32000
+  cl:
+    enabled: true
+    public_port_start: 33000
+  additional_services:
+    enabled: true
+    public_port_start: 34000
+\end{minted}
+\vspace*{-25pt}
+\ptcaption{listing}{Configuraciones de \texttt{network\_params.yaml}}
+\centering
+{Fuente: Elaboración propia.}
+\end{minipage}
+
+A continuación se detalla el significado de los elementos más importantes dentro del archivo:
+\begin{itemize}
+    \item \texttt{participants}: configuraciones adicionales de cada nodo dentro de la red.
+    \item \texttt{el\_type}: tipo de capa de ejecución del nodo.
+    \item \texttt{el\_image}: especificación de la imagen a utilizar por el contenedor de Docker de la capa de ejecución, en este caso estamos incluyendo \verb|"geth\_usm:v1"|, una imagen personalizada que incluye las modificaciones de \textbf{geth}. Cuando no se especifica, se utiliza la estándar. 
+    \item \texttt{el\_extra\_params}: parámetros adicionales que se ejecutan al inicializar el nodo, en esta instancia, el participante con parámetros adicionales ocupa \verb|"--signer"|, que permite conectarse a Clef y validar las transacciones localmente.
+    \item \texttt{cl\_type}: tipo de capa de consenso del nodo.
+    \item \texttt{network\_id}: identificador de la red que va a servir para que herramientas como \texttt{ethers.js} o HardHat.js se conecten a la red.
+    \item \texttt{adicional\_services}: servicios adicionales, se incluye \textbf{dora}, herramienta para inspeccionar transacciones, direcciones, contratos, bloques y mucha más información correspondiente a la \textit{blockchain}, su estructura es similar a Etherscan\footnote{Véase \url{https://etherscan.io/}}.
+    \item \texttt{nat\_exit\_ip}: dirección IP externa que los nodos anunciarán a sus pares, dentro de esta arquitectura se utiliza \textit{localhost}.
+    \item \texttt{public\_port\_start}: inicio del rango de puertos que Kurtosis mapeará desde el contenedor hacia el \textit{host}.
+\end{itemize}
+Una vez definidas todas las configuraciones, se inicializa en la terminal la red con una línea de código:
+
+\begin{minted}{bat}
+$ kurtosis run --enclave local-blockchain github.com/ethpandaops/ethereum-package --args-file ./network\_params.yaml
+\end{minted}
+
+\subsection{DESARROLLO E INTERACCIÓN CON \textit{SMART CONTRACTS}}\label{smt_ctct}
+
+Finalmente, los \textit{smart contracts} fueron desarrollados en el lenguaje Solidity, mientras que su despliegue e interacción se realizaron mediante JavaScript, utilizando la librería \texttt{ethers.js} y la herramienta de desarrollo HardHat.js.
+
+Los \textit{scripts} utilizados para dichas tareas pueden revisarse en el anexo~\ref{js_scripts}, donde se detalla el funcionamiento de cada uno de ellos:
+\begin{itemize}
+    \item \texttt{accountCreate.js}: crea una cuenta que que no queda bajo la custodia de Clef, es decir, se retorna la dirección y llave privada de la cuenta.
+    \item \texttt{checkBalance.js}: se revisa el balance de las cuentas dentro de una lista.
+    \item \texttt{fundAccount.js}: se transfieren fondos desde una cuenta \textit{prefondeada}\footnote{Lista de cuentas que vienen por defecto con una cantidad de ETH lo suficientemente altos como para acabarse en circunstancias normales.} a una cuenta a elección. Estas cuentas no se gestionan en Clef, por lo que se requiere de su dirección y llave privada.
+    \item \texttt{clefTransfer.js}: transferencia de fondos desde una cuenta gestionada por Clef. Solo es necesaria la dirección de la cuenta de Clef para transferir, ya que se almacena la llave privada en Clef. 
+\end{itemize}
+
+Los \textit{smart contract} que se desplegaron fueron:
+
+\texttt{Storage.sol}: Contrato mínimo de almacenamiento que mantiene un valor entero (\texttt{number}) en el estado. Permite actualizarlo mediante \texttt{store()} y consultarlo con \texttt{retrieve()}. Cada actualización emite el evento \texttt{NumberChanged}, registrando el \textit{timestamp} y el nuevo valor.
+\noindent
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{solidity}
+// contracts/Storage.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract Storage {
+    uint256 public number;
+
+    event NumberChanged(uint256 timestamp, uint256 newNumber);
+
+    function store(uint256 num) public {
+        number = num;
+        emit NumberChanged(block.timestamp, num);
+    }
+
+    function retrieve() public view returns (uint256) {
+        return number;
+    }
+}
+\end{minted}
+\vspace*{-25pt}
+\phantomsection
+\ptcaption{listing}{\textit{Smart contract} utilizado en~\ref{test_3}}
+\label{listing:contract_storage}
+\centering
+Fuente: Elaboración propia.
+\end{minipage}
+
+\texttt{TwoPartyContract.sol}: Contrato de acuerdo entre dos partes (\texttt{partyA} y \texttt{partyB}) que simula condición de ``doble aprobación``. Calcula dos mensajes esperados (\texttt{messageA} y \texttt{messageB}) a partir de las direcciones y un \texttt{randomSeed}. Cada parte debe llamar a \texttt{signAgreement()} enviando el \texttt{bytes32} que le corresponde; cuando ambas han ``firmado`` (marcando \texttt{partyASigned} y \textit{partyBSigned}), \texttt{isFullySigned()} revela el contenido de \texttt{secretText}.
+\noindent
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{solidity}
+// contracts/TwoPartyContract.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract TwoPartyContract {
+    address public partyA, partyB;
+    bool public partyASigned, partyBSigned;
+    bytes32 public messageA, messageB;
+    string private constant secretText = "...";
+
+    constructor(address _partyA, address _partyB, uint randomSeed) {
+        require(_partyA != address(0) && _partyB != address(0), "Invalid party addresses");
+        
+        partyA = _partyA;
+        partyB = _partyB;
+
+        partyASigned = false;
+        partyBSigned = false;
+
+        messageA = keccak256(abi.encodePacked(_partyA, _partyB, randomSeed));
+        messageB = keccak256(abi.encodePacked(_partyB, _partyA, randomSeed));
+    }
+
+    function signAgreement(bytes32 _message) external {
+        require(msg.sender == partyA || msg.sender == partyB, "Not authorized to sign");
+
+        if (msg.sender == partyA) {
+            require(!partyASigned, "Party A already signed");
+            require(_message == messageA, "Invalid signature data for Party A");
+            partyASigned = true;
+        } else {
+            require(!partyBSigned, "Party B already signed");
+            require(_message == messageB, "Invalid signature data for Party B");
+            partyBSigned = true;
+        }
+    }
+
+    function isFullySigned() external view returns (bytes memory) {
+        if (partyASigned && partyBSigned) {
+            return secretText;
+        }
+        return "";
+    }
+}
+\end{minted}
+\vspace*{-25pt}
+\phantomsection
+\ptcaption{listing}{\textit{Smart contract} utilizado en~\ref{test_4}}
+\label{listing:contract_two_party}
+\centering
+Fuente: Elaboración propia.
+\end{minipage}
+
+Por último, para poder desplegar los contratos, se utilizó la siguiente configuración de HardHat.js para definir la versión del compilador de Solidity, la dirección de la red de Kurtosis y la id de la cadena:
+
+\noindent
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{javascript}
+require("@nomicfoundation/hardhat-toolbox");
+
+module.exports = {
+  solidity: "0.8.24",
+  networks: {
+    kurtosis: {
+      url: "http://127.0.0.1:32003",
+      chainId: 585858,
+    },
+  },
+};
+\end{minted}
+\vspace*{-25pt}
+\phantomsection
+\ptcaption{listing}{Archivo de configuración \texttt{hardhat.config.js}}
+\label{listing:hardhat_configs}
+\centering
+Fuente: Elaboración propia.
+\end{minipage}
+
+\secnumbersection{VALIDACIÓN DE LA SOLUCIÓN}
+
+Dentro de este capítulo se puede encontrar: la metodología del proceso de validación~\ref{process_method}, el entorno donde se van a realizar las pruebas para validar la solución localmente~\ref{validation_enviroment}, las pruebas que se realizaron y sus criterios de aceptación~\ref{proof_of_concept}, el análisis de los resultados locales~\ref{results} y por último la demostración del funcionamiento de la solución en la \textit{mainnet}~\ref{mainnet_validation}.
+
+\subsection{METODOLOGÍA DEL PROCESO}\label{process_method}
+
+Para evaluar la factibilidad de la propuesta, se definió una serie de pruebas orientadas a demostrar el correcto funcionamiento de la solución y el cumplimiento de los objetivos de este trabajo~\ref{thesis_objectives}. 
+
+Cada prueba detalla una operación específica y sus respectivos escenarios de ejecución, considerando tanto resultados exitosos como de error cuando corresponda. Se incluyen imágenes de referencia y extractos de código (principalmente comandos de la terminal), para respaldar los resultados obtenidos.
+
+\subsection{ENTORNO DE VALIDACIÓN}\label{validation_enviroment}
+
+Todas las pruebas fueron realizadas en un mismo computador y una misma YubiKey, utilizando una \textbf{red local de Ethereum} como escenario de validación. Esto permite observar el comportamiento de la solución (creación de cuentas, firma, despliegue e interacción con contratos) \textbf{sin depender de la \textit{mainnet}} y manteniendo control total sobre la configuración de la red, los nodos y el estado de las cuentas.
+
+A continuación se listan los modelos y especificaciones de los dispositivos físicos~\ref{hardware_specs}, y las versiones de las aplicaciones, lenguajes de programación y librerías relevantes~\ref{software_specs}.
+
+\subsubsection{ESPECIFICACIONES DE HARDWARE}\label{hardware_specs}
+
+Los componentes y especificaciones del computador:
+\begin{itemize}
+    \item Procesador: Intel(R) Core(TM) i5-14600KF (3.50 GHz)
+    \item Memoria RAM: Corsair Vengance CMK32GX5M2B5600C40 2 x 16 GB, con 5600 MT/s
+    \item Disco Duro SSD: Kingston SNV3S2000G NV3, 2TB, Read 6000MB/s Write 5000MB/s
+    \item Sistema Operativo: Windows 11 Pro, Verisón 25H2. Versión Kernel: 26200.7840
+    \item Subsistema Linux: Versión WSL 2.3.24.0, Versión Kernel: 5.15.153.1-2
+    \item Ubuntu: 24.04.3 LTS
+\end{itemize}
+
+Las especificaciones de la YubiKey y sus librerías:
+\begin{itemize}
+    \item Modelo: YubiKey 5 NFC
+    \item Firmware: 5.7.4
+    \item Versión YubiKey Manager (ykman): 5.7.2
+    \item Versión OpenPGP: 3.4
+\end{itemize}
+
+\subsubsection{VERSIONES DE SOFTWARE}\label{software_specs}
+
+Las versiones de los programas y lenguajes de programación:
+
+\begin{itemize}
+    \item Go: 1.25.5
+    \item Kurtosis: 1.15.2
+    \item Solidity: 0.8.24
+    \item JavaScript (V8): 12.4.254.21
+    \item Node.js: 22.11.0
+    \item npm: 10.9.0
+    \item HardHat.js: 2.28.3
+    \item ethers.js: 6.16.0
+\end{itemize}
+
+En particular, \textbf{Kurtosis} se utilizó para desplegar y ejecutar la \textbf{infraestructura de la red local de Ethereum} (nodos y servicios asociados), mientras que \textbf{HardHat} y \textbf{ethers.js} se emplearon para desplegar e interactuar con \textit{smart contracts} mediante transacciones emitidas en dicha red local.
+
+\subsection{DEMOSTRACIÓN DEL CONCEPTO}\label{proof_of_concept}
+
+A continuación se detallan las pruebas a las que se va a someter la solución propuesta y sus criterios de aceptación. Todas las operaciones descritas se ejecutan y verifican sobre una \textbf{blockchain local de Ethereum}, lo que permite medir el comportamiento de la solución en un entorno reproducible y controlado.\\
+
+\begin{table}[H]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{0.35\linewidth}|p{0.55\linewidth}|}
+        \hline
+        \multicolumn{2}{|p{\linewidth}|}{\textbf{Prueba 1: Creación de una cuenta de Ethereum dentro de la YubiKey}} \\
+        \hline
+        \textbf{Funcionamiento esperado} & \textbf{Criterios de aceptación} \\ \hline
+        Se debe poder crear un par de llaves asimétricas bajo la curva secp256k1 al interior de la YubiKey, de tal forma que la llave privada nunca salga del dispositivo, y que la cuenta resultante pueda ser utilizada para operar en la \textbf{red local de Ethereum} habilitada para la validación.
+        &  
+        \begin{enumerate}[nosep, leftmargin=16pt]
+            \item Generación exitosa de un par llaves en un \textit{slots} vacío.
+            \item Detención del proceso de creación de llaves si no quedan \textit{slots} vacíos en la YubiKey.
+            \item Listado de la cuenta generada entre las direcciones disponibles para la firma dentro de la interfaz de Clef.
+            \item Capacidad de la cuenta creada de recibir transacciones y tener un saldo de ETH.
+        \end{enumerate} \\
+        \hline
+    \end{tabular}
+    \caption{Primera prueba del proceso de validación.}
+    \label{tab:test_1}
+    
+\end{table}
+
+\begin{table}[H]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{0.35\linewidth}|p{0.55\linewidth}|}
+        \hline
+        \multicolumn{2}{|p{\linewidth}|}{\textbf{Prueba 2: Interacción de la cuenta de la YubiKey con otra, en Ethereum}} \\
+        \hline
+        \textbf{Funcionamiento esperado} & \textbf{Criterios de aceptación} \\ \hline
+        Se debe poder realizar una transacción de criptomonedas desde la cuenta creada en la YubiKey a otra cuenta dentro de la \textbf{red local de Ethereum}, y que se vea reflejada en los balances de las cuentas y en los registros de la \textit{blockchain} local.
+        &  
+        \begin{enumerate}[nosep, leftmargin=16pt]
+            \item Envío de la transacción tras el toque de la YubiKey.
+            \item Verificación del registro de la transacción en el explorador Dora mediante su \textit{hash}.
+            \item Resta del Ether transferido y la comisión del balance de la cuenta de origen.
+            \item Suma del Ether transferido al balance de la cuenta receptora.
+            \item Cancelación de la transacción en ausencia del toque de la YubiKey.
+            \item Cancelación de la transacción por fallo en la introducción del PIN de usuario.
+            \item Cancelación de la transacción por fondos insuficientes en la cuenta.
+        \end{enumerate} \\
+        \hline
+    \end{tabular}
+    \caption{Segunda prueba del proceso de validación.}
+    \label{tab:test_2}
+    
+\end{table}
+
+\begin{table}[H]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{0.35\linewidth}|p{0.55\linewidth}|}
+        \hline
+        \multicolumn{2}{|p{\linewidth}|}{\textbf{Prueba 3: Despliegue de un \textit{smart contract} en Ethereum, con la cuenta de la YubiKey}} \\
+        \hline
+        \textbf{Funcionamiento esperado} & \textbf{Criterios de aceptación} \\ \hline
+        Se debe permitir la interacción de dos cuentas generadas en la YubiKey con el contrato \texttt{TwoPartyContract.sol} (véase~\ref{listing:contract_1}) desplegado en la \textbf{blockchain local de Ethereum}. Este contrato modela una lógica de doble aprobación entre dos direcciones previamente definidas (\texttt{partyA} y \texttt{partyB}). Cada parte debe invocar la función \texttt{signAgreement(bytes32)} enviando el mensaje esperado calculado en el constructor. El contrato actualiza su estado interno únicamente cuando el emisor coincide con la dirección autorizada y el mensaje corresponde al valor predefinido. Finalmente, la función \texttt{isFullySigned()} revela un texto secreto sólo cuando ambas aprobaciones han sido registradas.
+        &  
+        \begin{enumerate}[nosep, leftmargin=16pt]
+            \item Obtención de la dirección del contrato luego de su despliegue.
+            \item Persistencia del valor numérico inicial tras la creación del contrato.
+            \item Verificación del despliegue del \textit{smart contract} en el explorador Dora mediante su dirección. 
+            \item Modificación exitosa del valor almacenado mediante transacciones firmadas por cuentas externas.
+            \item Lectura del valor actualizado desde la red local sin necesidad de firmar transacciones.
+            \item Se cancela el despliegue del \textit{smart contract} si la cuenta no tiene los fondos suficientes.
+        \end{enumerate} \\
+        \hline
+    \end{tabular}
+    \caption{Tercera prueba del proceso de validación: Despliegue de contrato.}
+    \label{tab:test_3}
+    
+\end{table}
+
+\begin{table}[H]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{0.35\linewidth}|p{0.55\linewidth}|}
+        \hline
+        \multicolumn{2}{|p{\linewidth}|}{\textbf{Prueba 4: Interacción de la cuenta creada en la YubiKey, con un \textit{smart contract} desplegado en Ethereum}} \\
+        \hline
+        \textbf{Funcionamiento esperado} & \textbf{Criterios de aceptación} \\ \hline
+        Se debe permitir la interacción de dos cuentas generadas en la YubiKey con el contrato \texttt{TwoPartyContract.sol} (véase~\ref{listing:contract_2}) desplegado en la \textbf{blockchain local de Ethereum}. Este contrato modela una lógica de doble aprobación entre dos direcciones previamente definidas (\texttt{partyA} y \texttt{partyB}). Cada parte debe invocar la función \texttt{signAgreement(bytes32)} enviando el mensaje esperado calculado en el constructor. El contrato actualiza su estado interno únicamente cuando el emisor coincide con la dirección autorizada y el mensaje corresponde al valor predefinido. Finalmente, la función \texttt{isFullySigned()} revela un texto secreto sólo cuando ambas aprobaciones han sido registradas.
+        &  
+        \begin{enumerate}[nosep, leftmargin=16pt]
+            \item Con una cuenta generada fuera de la YubiKey desplegar el \textit{contrato} y realizar una lectura inicial de los valores booleanos 
+            \item Actualización del estado booleano a \texttt{true} solo si la dirección del emisor y el mensaje coinciden con los registros almacenados.
+            \item Rechazo de la transacción si el firmante es otro que no sean las cuentas generadas en la YubiKey.
+            \item Rechazo de la transacción si una cuenta generada en la YubiKey envía un mensaje equivocado.
+            \item Incapacidad de actualizar el estado de una variable booleana $=$ \texttt{true}.
+            \item Restricción de acceso al mensaje secreto mientras al menos uno de los estados booleanos permanezca en \texttt{false}.
+            \item Retorno del mensaje secreto únicamente tras la validación exitosa de las dos firmas procedentes de la YubiKey.
+        \end{enumerate} \\
+        \hline
+    \end{tabular}
+    \caption{Cuarta prueba del proceso de validación: Interacción con lógica multi-firma.}
+    \label{tab:test_4}
+\end{table}
+
+Para facilitar la lectura del documento, los criterios de aceptación se codifican bajo el formato \textit{X.Y}, donde \textit{X} representa el número de la prueba e \textit{Y} indica el número del criterio. Por ejemplo, el código 2.5 corresponde al quinto criterio de aceptación de la prueba 2.
+
+Por regla general, las figuras comparten el mismo código del criterio que validan. A excepción de cuando hay múltiples imágenes para un mismo criterio, cuando un criterio de aceptación requiere más de una captura para su demostración, se añade un tercer dígito secuencial. Por ejemplo, las figuras 4.1.1 y 4.1.2 validan el criterio 4.1.
+
+Finalmente, con el propósito de priorizar la fluidez del texto principal, las imágenes correspondientes a los registros de la consola de Clef han sido agrupados en la sección de Anexos. Es importante que estén porque certifican que las operaciones requirieron del toque de la YubiKey y la aprobación del usuario, pero son todas muy parecidas, cambiando solo los \textit{hashes} de las transacciones y las direcciones de las cuentas.
+
+\subsubsection{CREACIÓN DE UNA CUENTA DE ETHEREUM DENTRO DE LA YUBIKEY}
+
+Los comandos que se van a introducir en la terminal para realizar la primera prueba son:
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{bat}
+:: 1) Se va a ejecutar tres veces, para demostrar que no se podrá generar la llave cuando se encuentren todos los slots ocupados
+../local-blockchain/scriptsEthers$ sudo go run cmd/clef/main.go newaccount --yubikey
+\end{minted}
+\vspace*{-25pt}
+\ptcaption{listing}{Comando para la creación de cuentas en la YubiKey mediante Clef.}
+\label{listing:test_1}
+\end{minipage}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={52pt 20pt 0pt 38pt},clip]{figures/solution_validation/test1/1.1.png}
+    \caption{\label{fig:1.1} Captura de la terminal, con los resultados 1.1.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test1/1.2.png}
+    \caption{\label{fig:1.2} Captura de la terminal, con los resultados 1.2.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test1/1.3.png}
+    \caption{\label{fig:1.3} Captura de la terminal, con los resultados 1.3.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+
+\subsubsection{INTERACCIÓN DE LA CUENTA DE LA YUBIKEY CON OTRA, EN ETHEREUM}
+
+Los comandos que se van a introducir en la terminal para realizar la segunda prueba son:
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{bat}
+:: 1) Se revisa que no tenga fondos la cuenta
+../local-blockchain/scriptsEthers$ node checkBalance.js
+:: 2) Luego se realiza una transferencia de 1000 ETH para que pueda operar
+../local-blockchain/scriptsEthers$ node fundAccount.js
+:: 3) Se revisa nuevamente el balance
+../local-blockchain/scriptsEthers$ node checkBalance.js
+:: 4) Se ejecuta una transacción firmada con la YubiKey
+../local-blockchain/scriptsEthers$ node clefTransfer.js
+\end{minted}
+\vspace*{-25pt}
+\ptcaption{listing}{Secuencia de comandos para la validación de transferencia de ETH en la red local.}
+\label{listing:test_2}
+\end{minipage}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth]{figures/solution_validation/test2/2.2.png}
+    \caption{\label{fig:2.2} Captura de la terminal, con los resultados 2.2.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test2/2.3 and 2.4.png}
+    \caption{\label{fig:2.3and2_4} Captura de la terminal, con los resultados 2.3 y 2.4.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test2/2.5.png}
+    \caption{\label{fig:2.5} Captura de la terminal, con los resultados 2.5.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test2/2.6 app.png}
+    \caption{\label{fig:2.6} Captura de la terminal , con los resultados 2.6.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test2/2.7 app.png}
+    \caption{\label{fig:2.7} Captura de la terminal, con los resultados 2.7.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+
+\subsubsection{DESPLIEGUE DE UN \textit{SMART CONTRACT} EN ETHEREUM, CON LA CUENTA DE LA YUBIKEY}\label{test_3}
+
+Los comandos que se van a introducir en la terminal para realizar la tercera prueba son:
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{bat}
+:: 1) Despliegue del contrato en la blockchain local
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\storage\deployStorage.js --network kurtosis
+:: 2) Consulta del valor almacenado en la variable number
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\storage\readStorage.js --network kurtosis
+:: 3) Carga de fondos a la cuenta que modificará el valor
+../local-blockchain/scriptsEthers$ node .\fundAccount.js
+:: 4) Modificación del valor almacenado
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\storage\interactStorage.js --network kurtosis
+:: 5) Nueva consulta del valor almacenado
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\storage\readStorage.js --network kurtosis
+\end{minted}
+\vspace*{-25pt}
+\ptcaption{listing}{Comandos para el despliegue e interacción con el contrato \texttt{Storage.sol} en la red local.}
+\label{listing:test_3}
+\end{minipage}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test3/3.1 app.png}
+    \caption{\label{fig:3.1} Captura de la terminal, con los resultados 3.1.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test3/3.2.png}
+    \caption{\label{fig:3.2} Captura de la terminal, con los resultados 3.2.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth]{figures/solution_validation/test3/3.3.png}
+    \caption{\label{fig:3.3} Captura de la aplicación Dora, con los resultados 3.3.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test3/3.4 app.png}
+    \caption{\label{fig:3.4} Captura de la terminal, con los resultados 3.4.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test3/3.6 app.png}
+    \caption{\label{fig:3.6} Captura de la terminal, con los resultados 3.6.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+
+\subsubsection{INTERACCIÓN DE LA CUENTA DE LA YUBIKEY, CON UN \textit{SMART CONTRACT} DESPLEGADO EN ETHEREUM}\label{test_4}
+
+Los comandos que se van a introducir en la terminal para realizar la cuarta prueba son:
+\begin{minipage}{\textwidth}
+\begin{minted}[fontsize=\footnotesize,breaklines,linenos]{bat}
+:: 1) Carga de fondos a la cuenta que desplegará el contrato (no YubiKey)
+../local-blockchain/scriptsEthers$ node .\fundAccount.js
+:: 2) Despliegue del contrato TwoPartyContract.sol
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\twoPartyContract\deployTwoPartyContract.js --network kurtosis
+:: 3) Lectura inicial de las variables booleanas (ambas false)
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\twoPartyContract\readTwoPartyContract.js --network kurtosis
+:: 4) Primera firma con una cuenta YubiKey
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\twoPartyContract\signTwoPartyContract.js --network kurtosis
+:: 5) Segunda lectura (una true, otra false)
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\twoPartyContract\readTwoPartyContract.js --network kurtosis
+:: 6) Segunda firma con la otra cuenta YubiKey
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\twoPartyContract\signTwoPartyContract.js --network kurtosis
+:: 7) Lectura final (ambas true y retorno del mensaje secreto)
+../local-blockchain/smartcontracts$ npx hardhat run .\scripts\twoPartyContract\readTwoPartyContract.js --network kurtosis
+\end{minted}
+\vspace*{-25pt}
+\ptcaption{listing}{Secuencia de despliegue e interacción con \texttt{TwoPartyContract.sol} en la red local.}
+\label{listing:test_4}
+\end{minipage}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test4/4.1.1 app.png}
+    \caption{\label{fig:4.1.1} Captura de la terminal, con los resultados 4.1.1.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test4/4.1.2 y 4.6 app.png}
+    \caption{\label{fig:4.1.2and4.6} Captura de los criterios de aceptación 4.1.2 y 4.6.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test4/4.2 y 4.6 app.png}
+    \caption{\label{fig:4.2and4.6} Captura de la terminal, con los resultados 4.2 y 4.6.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth]{figures/solution_validation/test4/4.3 app.png}
+    \caption{\label{fig:4.3} Captura de la terminal, con los resultados 4.3.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test4/4.4 app.png}
+    \caption{\label{fig:4.4} Captura de la terminal, con los resultados 4.4.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth]{figures/solution_validation/test4/4.5 app.png}
+    \caption{\label{fig:4.5} Captura de la terminal, con los resultados 4.5.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\begin{terminalcap}[H]
+    \centering
+    \includegraphics[width=\textwidth,trim={44pt 20pt 0pt 30pt},clip]{figures/solution_validation/test4/4.7 app.png}
+    \caption{\label{fig:4.7} Captura de la terminal, con los resultados 4.7.}
+    \vspace{2pt}
+    
+\end{terminalcap}
+
+\subsection{ANÁLISIS DE RESULTADOS}\label{results}
+
+Una vez realizadas las pruebas descritas en la sección \ref{proof_of_concept}, se evaluó el comportamiento de la solución propuesta frente a cada uno de los criterios de aceptación establecidos, considerando que \textbf{todas las transacciones y verificaciones se realizaron sobre la \textit{blockchain} local de Ethereum} desplegada en el entorno de validación:
+\begin{enumerate}
+    \item \textbf{Generación y custodia de llaves:} El proceso de creación de la cuenta de Ethereum funcionó sin problemas. Se comprobó que el par de llaves asimétricas se genera y almacena dentro de la YubiKey, asegurando que la llave privada está aislada del sistema operativo.
+    \item \textbf{Firma y validación de transacciones:} Las pruebas de transferencia de Ether verificaron la fiabilidad de los mecanismos de autenticación, ya que toda transacción emitida por la cuenta gestionada por la YubiKey necesitó la introducción del PIN y un toque físico. Además, el sistema rechazó las transacciones inválidas, ya sea por no tocar la YubiKey, equivocarse en el PIN o no poseer los fondos suficientes.
+    \item \textbf{Despliegue de \textit{smart contracts}:} En la prueba~\ref{test_3} se verificó que la cuenta gestionada por la YubiKey puede desplegar correctamente el contrato \texttt{Storage.sol}. El código fue publicado en la red local y su estado pudo ser leído y modificado conforme a lo esperado, confirmando que el aislamiento criptográfico en \textit{hardware} no impide la ejecución completa del ciclo de vida de un contrato inteligente.
+    \item \textbf{Interacción con \textit{smart contracts}:} En la prueba~\ref{test_4} se comprobó la correcta interacción con el contrato \texttt{TwoPartyContract.sol}, el cual exige coincidencia entre dirección y mensaje para actualizar su estado interno. El sistema rechazó transacciones cuando la dirección del firmante o el mensaje no coincidían con los valores preestablecidos, y sólo reveló el texto secreto tras la validación exitosa de ambas partes. Esto demuestra que la firma realizada en la YubiKey produce efectos jurídicos y lógicos verificables en la red.
+\end{enumerate}
+
+\subsubsection{CONCLUSIÓN GENERAL DE LAS PRUEBAS LOCALES}
+
+Se cumplieron todos los criterios de aceptación en la \textbf{red local de Ethereum}. En el Anexo se adjunta el registro de la consola de Clef, certificando que el sistema operativo o el entorno de ejecución (\textit{node.js}, Hardhat, Kurtosis) en ningún momento intervinieron en los procesos de autenticación o firma, cumpliendo así con el objetivo principal de asegurar las cuentas de Ethereum mediante aislamiento criptográfico en \textit{hardware}.
+
+\secnumbersection{CONCLUSIONES}
+
+\subsection{CUMPLIMIENTO DE OBJETIVOS}
+
+El cumplimiento de los objetivos específicos de la memoria puede observarse en el desarrollo de la arquitectura propuesta y en la superación de las pruebas y criterios de aceptación definidos por la validación de la solución.
+
+En relación a los \textbf{objetivos específicos}, se logró lo siguiente:
+
+\begin{itemize}
+    \item \textbf{Objetivo 1:} Se diseñó y validó una arquitectura basada en Ethereum capaz de almacenar información inmutable a través del despliegue de \textit{smart contracts}, emulando las garantías de almacenamiento, no repudio y transparencia necesarias para actividades notariales.
+    \item \textbf{Objetivo 2:} Se logró integrar un dispositivo físico (YubiKey) como custodia exclusiva de cuentas en Ethereum. Las pruebas realizadas muestran que la firma de las transacciones requiere de una interacción humana, logrando así la vinculación de lo digital con lo físico.
+    \item \textbf{Objetivo 3:} Se realizó una investigación comparativa de herramientas y protocolos relevantes para el desarrollo, lo que permitió definir un \textit{stack} tecnológico compuesto por Ethereum, Solidity, Geth, Clef, Kurtosis y YubiKey, utilizado como base para la implementación y validación del sistema.
+\end{itemize}
+
+Con el cumplimiento de estos tres objetivos específicos, se alcanza el objetivo general de la memoria; proponer un mecanismo de autenticación y basado en \textit{hardware} y un sistema de almacenamiento digital inmutable y verificable, para su eventual aplicación en procesos notariales.
+
+\subsection{ALCANCE Y LIMITACIONES DE LA SOLUCIÓN}
+
+El alcance principal de este proyecto abarca la capacidad de firmar y ejecutar transacciones en la red Ethereum, utilizando una cuenta cuyas llaves asimétricas son generadas y custodiadas dentro de la YubiKey. A nivel operativo, esta funcionalidad se encuentra principalmente limitada por el balance de Ether disponible en la cuenta para cubrir los costos de transacción (gas).
+
+Adicionalmente, el alcance técnico de esta implementación podría extenderse más allá de Ethereum, abriendo la posibilidad de interactuar con otras \textit{blockchain} que soporten criptografía basada en la curva elíptica secp256k1. Dado que las llaves asimétricas generadas en el dispositivo cumplen con este estándar, es posible calcular direcciones válidas para otras redes adaptando únicamente el algoritmo de cálculo correspondiente a cada protocolo. 
+
+Un ejemplo de lo anterior es la red Bitcoin. Tanto Bitcoin como Ethereum calculan las direcciones de las cuentas aplicando funciones de \textit{hash} a la llave pública. Mientras que Ethereum utiliza exclusivamente la función Keccak-256, Bitcoin aplica una secuencia de algoritmos de \textit{hash} (como SHA-256 y RIPEMD-160) sobre distintas partes de la llave. Puesto que ambos métodos son de dominio público, se podría utilizar la misma llave pública generada en la YubiKey para realizar operaciones en ambas redes.
+
+Una limitación relevante de esta implementación es la capacidad de almacenar únicamente dos pares de llaves compatibles con la curva secp256k1 por dispositivo YubiKey. Esta restricción reduce su escalabilidad en comparación con dispositivos como el Trezor Safe~\ref{trezor_safe}, los cuales permiten la generación de de hasta 10 cuentas por criptomoneda a partir de una arquitectura de billetera determinística jerárquica (HD wallet).
+
+Al igual que en la YubiKey, el modelo de seguridad de Trezor contempla la generación y almacenamiento interno de las llaves privadas dentro del dispositivo, impidiendo su exportación directa al sistema anfitrión, donde el computador únicamente recibe el resultado de las operaciones de firma, las cuales se ejecutan aisladamente dentro del \textit{hardware} del dispositivo, según sus especificaciones de \textit{firmware} oficial~\footnote{Véase \url{https://trezor.io/guides/trezor-suite/multiple-accounts-in-trezor-suite}}.
+
+Otra limitación de la solución corresponde a las limitaciones físicas que tienen las Yubikey. Yubico define cinco limitaciones de este tipo\footnote{Véase \url{https://docs.yubico.com/hardware/yubikey/datasheet/_static/YubiKey_technical_data_sheet.pdf}}:
+\begin{itemize}
+    \item Cantidad de inserciones físicas que se estima que pueden soportar, 10,000;
+    \item Cantidad de ciclos de escritura/borrado que se estima que pueden realizar, 500,000;
+    \item Rango de temperatura operacional, entre 0°C a 40°C;
+    \item Rango de temperatura de almacenamiento, entre -20°C a 85°C, y
+    \item El tiempo promedio entre fallas, el cual se estima asumiendo un uso normal de la llave, y es de más de 100 años para la YubiKey que se utilizó para el desarollo de la solución (YubiKey 5 Series)~\ref{hardware_specs}.
+\end{itemize}
+Aunque en condiciones normales de uso es improbable que se alcancen estos límites operacionales duranter la vida útil del dispositivo, resulta interesante tener en cuenta estos escenarios en aplicaciones de alta demanda. Sistemas que requieran autenticaciones frecuentes o conexiones físicas reiteradas podrían, en el largo plazo, aproximarse a los límites técnicos definidos por Yubico.
+
+\subsection{TRABAJO FUTURO}
+
+El presente trabajo constituye una prueba de concepto que permite identificar posibles desarrollos posteriores. La implementación de la arquitectura en una red pública de Ethereum permitiría evaluar su comportamiento en un entorno abierto, considerando variables como costos reales de transacción, latencia y la interacción con participantes externos, aspectos que no pueden replicarse completamente en un ambiente local.
+
+También podría explorarse el uso de dispositivos con mayores capacidades de cómputo y almacenamiento de llaves, así como compatibilidad con mayor cantidad de algoritmos criptográficos. De manera complementaria, podría investigarse el diseño de soluciones de \textit{hardware} específicamente orientadas a la gestión segura de identidades en redes \textit{blockchain}, incorporando mecanismos adicionales de autenticación, tales como verificación biométrica del usuario. Esto permitiría reducir el riesgo de suplantación, evitando que la posesión del dispositivo y el conocimiento del PIN resulten suficientes para autorizar operaciones.
+
+Otra línea de desarrollo consistiría en profundizar los mecanismos de autenticación, incorporando capas adicionales de seguridad, bajo un enfoque alineado con la protección de datos, con el propósito de someter la solución a procesos de certificación que cumplan con los estándares de seguridad de la información, tanto a nivel nacional como internacional.
+
+Finalmente, una línea de investigación relevante consistiría en analizar la factibilidad de aplicar esta arquitectura en un entorno notarial real, considerando los requisitos normativos, y legales asociados a la certificación de documentos y la identificación de personas.
+
+\subsection{REFLEXIÓN FINAL}
+
+El desarrollo de este trabajo permitió comprender que, en entornos \textit{blockchain} tradicionales, el único requisito para ejercer control sobre una cuenta es poseer la llave privada asociada a ella. Dicha llave, al ser un dato digital, puede copiarse, distribuirse y utilizarse simultáneamente desde distintos dispositivos y ubicaciones, sin que la red pueda distinguir si su uso proviene efectivamente del titular original o de un tercero.
+
+A partir de esto, la investigación se orientó al estudio de la generación y custodia de dicha llave en un entorno aislado y no exportable, de modo que su uso quedara vinculado únicamente a un dispositivo físico específico. Bajo esta arquitectura, cada transacción emitida por la cuenta requiere necesariamente la posesión efectiva del dispositivo que contiene la llave, incorporando así una condición física adicional de seguridad.
+
+No obstante, vincular esa condición física con la identidad de una persona constituye un desafío técnico, conceptual e incluso filosófico, más allá que el desarrollo de algoritmos. Si bien la arquitectura propuesta representa una aproximación funcional a dicha vinculación, la experiencia evidenció que la identidad humana es mucho más compleja que secuencias de bytes, pues incorpora dimensiones sociales, culturales y existenciales que son imposibles de representar íntegramente mediante un mecanismo criptográfico.
+
+---------------------------------------------------------
+bibliografia.bib
+
+@article{truffelo_williams2017,
+    author = {Truffelo Paola and Williams Guido},
+    title = {Marco regulatorio de Notarios y Auxiliares de la Administración de Justicia en Chile},
+    journal = {BCN},
+    year = {2017},
+    url = {https://www.camara.cl/verDoc.aspx?prmTIPO=DOCUMENTOCOMUNICACIONCUENTA&prmID=59064}
+}
+
+@article{agostini2023,
+    author = {Claudio Agostini},
+    title = {Reforma al sistema notarial: Necesario y urgente},
+    journal = {CentroCompetencia},
+    year = {2023}
+}
+
+@misc{cortesuprema_autoacordado_2006,
+  author = {{Corte Suprema de Chile}},
+  title = {Auto Acordado S/N: Auto Acordado sobre uso de documento y firma electrónica por notarios, conservadores y archiveros judiciales},
+  year = {2006},
+  howpublished = {\url{https://www.bcn.cl/leychile/navegar?idNorma=255008}},
+  note = {Consultado el 22 de febrero de 2026}
+}
+
+@article{informefne2018,
+    author = {Castro, Sebastián and Castro, Felipe and Diestre, Jacinta and Muñoz Luis},
+    title = {Estudio de Mercado sobre Notarios (EM02-2017)},
+    journal = {Fiscalía Nacional Económica},
+    year = {2017}
+}
+
+@article{irarrazabal2020,
+    author = {Irarrázabal, Felipe},
+    title = {Notarios asustados y el poder de la información},
+    journal = {CentroCompetencia},
+    year = {2020}
+}
+
+@misc{biobio160817,
+    key = {Bío Bío Chile},
+    title = {\href{https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-judicial/2017/08/16/los-nexos-familiares-y-politicos-de-los-notarios-nombrados-por-el-ministro-jaime-campos.shtml}{Los nexos familiares y políticos de los notarios nombrados por el ministro Jaime Campos}},
+    note = {Consultado el 2 de noviembre de 2024},
+    year = {2017}
+}
+
+@misc{americatransparente040621,
+    key = {Fundación América Transparente},
+    title = {{\href{https://americatransparente.org/segun-datos-de-la-fundacion-america-transparente-40-de-los-notarios-estan-emparentados-con-actuales-o-pasados-miembros-del-parlamento-o-poder-judicial/}{Según datos de la Fundación América Transparente: 40\% de los notarios están emparentados con actuales o pasados miembros del Parlamento o Poder Judicial}}},
+    note = {Consultado el 2 de noviembre de 2024},
+    year = {2021}
+}
+
+@misc{adn180216,
+    key = {ADN.CL},
+    title = {\href{https://www.adnradio.cl/nacional/2016/02/18/corte-suprema-confirmo-expulsion-de-los-notarios-gloria-acharan-y-roberto-mosquera-3064066.html}{Corte Suprema confirmó expulsión de los notarios Gloria Acharán y Roberto Mosquera}},
+    note = {Consultado el 2 de noviembre de 2024},
+    year = {2016}
+}
+
+@misc{elmostrador090817,
+    key = {El Mostrador},
+    title = {\href{https://www.elmostrador.cl/noticias/pais/2017/08/09/servel-apunta-a-12-partidos-politicos-que-registran-afiliados-falsos/}{Servel identifica a 12 partidos políticos que registran afiliados falsos}},
+    note = {Consultado el 3 de noviembre 2024},
+    year = {2017}
+}
+
+@article{ortiz2021,
+    author = {Ortiz, Florencia},
+    title = {Estafa de vehículos: acusan a notario de autorizar mandatos con persona que realmente estaba presa},
+    journal = {{Bío Bío Chile}},
+    year = {2021}
+}
+
+@article{estradasanchezhernandez2012,
+    author = {Estrada, Ernesto and Sanchez, Juan Carlos and Hernández, César},
+    title = {Regulación de los servicios notariales en México},
+    journal = {SciELO},
+    year = {2012}
+}
+
+@inproceedings{qadir2019review,
+  title={A review paper on cryptography},
+  author={Qadir, Abdalbasit Mohammed and Varol, Nurhayat},
+  booktitle={2019 7th international symposium on digital forensics and security (ISDFS)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{sobti2012cryptographic,
+  title={Cryptographic hash functions: a review},
+  author={Sobti, Rajeev and Geetha, Ganesan},
+  journal={International Journal of Computer Science Issues (IJCSI)},
+  volume={9},
+  number={2},
+  pages={461},
+  year={2012},
+  publisher={International Journal of Computer Science Issues (IJCSI)}
+}
+
+@article{zheng2018blockchain,
+  title={Blockchain challenges and opportunities: A survey},
+  author={Zheng, Zibin and Xie, Shaoan and Dai, Hong-Ning and Chen, Xiangping and Wang, Huaimin},
+  journal={International journal of web and grid services},
+  volume={14},
+  number={4},
+  pages={352--375},
+  year={2018},
+  publisher={Inderscience Publishers (IEL)}
+}
+
+@article{hayes2024,
+    author = {Hayes, Adam},
+    title = {Blockchain Facts: What Is It, How It Works and How It Can Be Used},
+    journal = {Investopedia},
+    year = {2024}
+}
+
+@article{nakamoto2008bitcoin,
+  title={Bitcoin: A peer-to-peer electronic cash system},
+  author={Nakamoto, Satoshi},
+  journal={Satoshi Nakamoto},
+  year={2008}
+}
+
+@misc{coinmarketcap,
+  author = {{CoinMarketCap}},
+  title = {Cryptocurrency Prices, Charts \& Market Cap},
+  year = {2026},
+  howpublished = {\url{https://coinmarketcap.com/}},
+  note = {Consultado el 23 de febrero de 2026}
+}
+
+@misc{szabo1994smart,
+  author = {Szabo, Nick},
+  title = {Smart Contracts},
+  year = {1994},
+  howpublished = {\url{https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html}},
+  note = {Consultado el 17 de febrero de 2026}
+}
+
+@article{szabo1996smart,
+  author  = {Szabo, Nick},
+  title   = {Smart Contracts: Building Blocks for Digital Free Markets},
+  journal = {Extropy: The Journal of Transhumanist Thought},
+  year    = {1996},
+  volume  = {16},
+  number  = {4}
+}
+
+@article{szabo1997formalizing,
+  author = {Szabo, Nick},
+  title = {Formalizing and Securing Relationships on Public Networks},
+  journal = {First Monday},
+  year = {1997},
+  month = {sep},
+  volume = {2},
+  number = {9},
+  doi = {10.5210/fm.v2i9.548},
+  url = {https://firstmonday.org/ojs/index.php/fm/article/view/548}
+}
+
+@misc{lee2011litecoin,
+  author = {Charlie Lee},
+  title = {Litecoin: A Peer-to-Peer Internet Currency},
+  year = {2011},
+  howpublished = {\url{https://www.whitepaper.io/document/683/litecoin-whitepaper}}
+}
+
+@misc{buterin2014ethereum,
+  author = {Buterin, Vitalik},
+  title = {A Next-Generation Smart Contract and Decentralized Application Platform},
+  year = {2014},
+  howpublished = {Ethereum White Paper},
+  url = {https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf}
+}
+
+@techreport{wood2014yellowpaper,
+  author = {Wood, Gavin},
+  title = {Ethereum: A Secure Decentralised Generalised Transaction Ledger},
+  institution = {Ethereum Project},
+  year = {2014},
+  number = {Yellow Paper},
+  url = {https://ethereum.github.io/yellowpaper/paper.pdf}
+}
+
+@misc{binance_academy_ethereum_2020,
+  author = {{Binance Academy}},
+  title = {¿Qué es {Ethereum}?},
+  howpublished = {\url{https://www.binance.com/es/academy/articles/what-is-ethereum}},
+  year = 2020,
+  note = {Consultado el 23 de febrero de 2026}
+}
+
+@techreport{eip721,
+  author = {William Entriken and Dieter Shirley and Jacob Evans and Nastassia Sachs},
+  title = {EIP-721: Non-Fungible Token Standard},
+  institution = {Ethereum Improvement Proposals}, 
+  year = {2018},
+  numbert = {721},
+  month = {January},
+  url = {https://eips.ethereum.org/EIPS/eip-721},
+  type = {Ethereum Improvement Proposal}
+}
+
+@techreport{eip1559,
+  author = {Vitalik Buterin and Eric Conner and Rick Dudley and Matthew Slipper and Ian Norden and Abdelhamid Bakhta},
+  title = {EIP-1559: Fee market change for ETH 1.0 chain},
+  institution = {Ethereum Improvement Proposals},
+  year = {2019},
+  number = {1559},
+  month = {April},
+  url = {https://eips.ethereum.org/EIPS/eip-1559},
+  type = {Ethereum Improvement Proposal}
+}
+
+@INPROCEEDINGS{9588047,
+  author={Liu, Haojun and Luo, Xinbo and Liu, Hongrui and Xia, Xubo},
+  booktitle={2021 International Conference on Electronic Information Engineering and Computer Science (EIECS)}, 
+  title={Merkle Tree: A Fundamental Component of Blockchains}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={556-561},
+  keywords={Computer science;Authentication;Binary trees;Educational technology;Tools;Data structures;Blockchains;Merkle tree;Hash functions;Blockchain;Bitcoin},
+  doi={10.1109/EIECS53707.2021.9588047}
+}
+
+@techreport{filecoin2017,
+  author = {{Protocol Labs}},
+  title = {Filecoin: A Decentralized Storage Network},
+  institution = {Protocol Labs},
+  year = {2017}
+}
+
+@article{rsa1978,
+  author  = {Rivest, Ronald L. and Shamir, Adi and Adleman, Leonard},
+  title   = {A Method for Obtaining Digital Signatures and Public-Key Cryptosystems},
+  journal = {Communications of the ACM},
+  volume  = {21},
+  number  = {2},
+  pages   = {120--126},
+  year    = {1978},
+  publisher = {ACM}
+}
+
+@article{koblitz1987,
+  author  = {Neal Koblitz},
+  title   = {Elliptic Curve Cryptosystems},
+  journal = {Mathematics of Computation},
+  volume  = {48},
+  number  = {177},
+  pages   = {203--209},
+  year    = {1987}
+}
+
+@online{burca2025secp256k1,
+  author = {Flavius Burca},
+  title = {What exactly are secp256k1, ECDSA and Keccak256?},
+  year = {2025},
+  month = {6},
+  url = {https://www.flavius.io/media/a-word-on-secp256k1-and-ecdsa},
+  note = {Consultado el 15 de febrero de 2026},
+  organization = {Flavius.io}
+}
+
+@online{yubico2024innovation,
+  author = {Yubico},
+  title = {Yubico Innovation History: Our journey into authentication},
+  year = {2024},
+  url = {https://www.yubico.com/why-yubico/yubico-innovation-history/},
+  organization = {Yubico AB},
+  note = {Consultado el 17 de febrero de 2026}
+}
+
+@online{yubico5cnfc,
+  author = {Yubico},
+  title = {YubiKey 5C NFC},
+  year = {2026},
+  url = {https://www.yubico.com/cl/product/yubikey-5-series/yubikey-5c-nfc/},
+  organization = {Yubico AB},
+  note = {Consultado el 17 de febrero de 2026}
+}
+
+@techreport{nist_sp_800_73_5_pt2,
+  author = {Hildegard Ferraiolo and Ketan Mehta and Salvatore Francomacaro and Ramaswamy Chandramouli and Sarbari Gupta},
+  title = {Interfaces for Personal Identity Verification: Part 2 – PIV Card Command Interface},
+  institution = {National Institute of Standards and Technology (NIST)},
+  year = {2024},
+  type = {NIST Special Publication (SP)},
+  number = {800-73pt2-5},
+  address = {Gaithersburg, MD},
+  month = {7},
+  doi = {10.6028/NIST.SP.800-73pt2-5},
+  url = {https://csrc.nist.gov/pubs/sp/800/73/pt2/5/final}
+}
+
+@misc{ethereum_gas_2026,
+  author = {{Ethereum Foundation}},
+  title = {Gas and fees},
+  howpublished = {\url{https://ethereum.org/en/developers/docs/gas/}},
+  year = {2026},
+  note = {Consultado el 18 de febrero de 2026}
+}
+
+@misc{hyperledger_besu_cli_2026,
+  author = {{Hyperledger Foundation}},
+  title = {Hyperledger Besu Command Line Interface (CLI) Reference Options},
+  howpublished = {\url{https://besu.hyperledger.org/public-networks/reference/cli/options}},
+  year = {2026},
+  note = {Consultado el 18 de febrero de 2026}
+}
+
+@misc{hashlock2025developers,
+  author       = {Hashlock},
+  title        = {Blockchains with the Most Developers in 2025},
+  year         = {2025},
+  url          = {https://hashlock.com/blog/blockchains-with-the-most-developers-in-2025},
+  note         = {Consultado el 23 de febrero de 2026},
+  howpublished = {Blog post}
+}
+
+@misc{dappradar2026rankings,
+  author = {{DappRadar}},
+  title  = {Top Blockchain Rankings: Transactions},
+  year   = {2026},
+  url    = {https://dappradar.com/rankings/chains?sort=transactionCount&order=desc},
+  note   = {Consultado el 26 de febrero de 2026}
+}
+
+@misc{ethereum_smart_contract_languages,
+  author = {{Ethereum Foundation}},
+  title = {Smart contract languages},
+  howpublished = {\url{https://ethereum.org/developers/docs/smart-contracts/languages}},
+  year = {2026},
+  note = {Consultado el 26 de febrero de 2026}
+}
+
+@article{moringiello2023blockchain,
+  title={Blockchain Real Estate and NFTs},
+  author={Moringiello, Juliet M. and Odinet, Christopher K.},
+  journal={William \& Mary Law Review},
+  volume={64},
+  number={4},
+  year={2023},
+  url={https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=3982&context=wmlr}
+}
+
+@article{wang2021nonfungible,
+  title={Non-Fungible Token (NFT): Overview, Evaluation, Opportunities and Challenges},
+  author={Wang, Qin and Li, Rujia and Wang, Qi and Chen, Shiping},
+  journal={arXiv preprint arXiv:2105.07447},
+  year={2021},
+  url={https://arxiv.org/pdf/2105.07447}
+}
+
+@article{kovacevic2024token,
+  title={Token-based identity management in the distributed cloud},
+  author={Kovacevic, Ivana and Rankovic, Tamara and Stojkov, Milan and Simic, Milos},
+  journal={arXiv preprint arXiv:2410.21865},
+  year={2024}
+}
+
+@misc{openpgp_dev_about,
+  author = {Coles, Tammi and Kwapisiewicz, Wiktor and Runge, David and Schaub, Paul and Sch{\"a}fer, Heiko},
+  title = {{OpenPGP for application developers: What is OpenPGP?}},
+  howpublished = {\url{https://openpgp.dev/book/about.html#what-is-openpgp}},
+  year = {2026},
+  note = {Consultado el 26 de febrero de 2026}
+}
+
+@online{quicknode_ethereum_clients,
+    author = {QuickNode},
+    title = {Ethereum Clients Explained: Execution and Consensus Layers},
+    year = {2023},
+    url = {https://www.quicknode.com/guides/ethereum-development/getting-started/ethereum-clients-explained},
+    urldate = {2026-02-28}
+}

@@ -11,8 +11,6 @@ contract TwoPartyContract {
     bytes32 public messageB;
     string private constant text = "Deseo ante todo expresar a mis conciudadanos que los ultimos treinta anios de mi vida los consagre exclusivamente al altruismo y al efecto hice mi primer testamento en 1894, legando a la sociedad de Valparaiso una Universidad, pero en el transcurso del tiempo, la experiencia me demostro que aquello era un error y que era de importancia capital levantar al proletario de mi patria, concibiendo un plan, por el cual contribuyo, primeramente con mi obolo a la infancia, enseguida a la Escuela Primaria, de ella a la Escuela de Artes y Oficios y por ultimo al Colegio de Ingenieros, poniendo al alcance del desvalido meritorio llegar al mas alto grado del saber humano";
 
-    event PartySigned(address indexed party);
-
     constructor(address _partyA, address _partyB, uint randomSeed) {
         require(_partyA != address(0) && _partyB != address(0), "Invalid party addresses");
         partyA = _partyA;
@@ -35,8 +33,6 @@ contract TwoPartyContract {
             require(_message == messageB, "Invalid signature data for Party B");
             partyBSigned = true;
         }
-
-        emit PartySigned(msg.sender);
     }
 
     function isFullySigned() external view returns (string memory) {
