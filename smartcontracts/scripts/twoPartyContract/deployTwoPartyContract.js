@@ -2,7 +2,7 @@ const hre = require("hardhat");
 
 async function main() {
     // 1. Configura tus direcciones aqui
-    const deployerAddress = "0x47A5471364A9d61444284AB1d79aF6DBb641B181"; 
+    const deployerAddress = "0xFDA39044B2A06F7A152f213617C01f87E5b4e41B"; 
     
     const partyA = "0x79Ce52DeFC7e6B78737eAB5bF18747FF089CFBCA";
     const partyB = "0x5396846b57f6881FD73Deac1011Bc948D5ae9721"; 

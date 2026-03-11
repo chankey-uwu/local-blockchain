@@ -1,6 +1,6 @@
 const hre = require("hardhat");
 
-const CONTRACT_ADDRESS = "0x386Dcf5d72F701AD20CDfBEBf668E11b5eCb1Ff0";
+const CONTRACT_ADDRESS = "0x820C923543F727A1371eED7FD323d3F5bF281385";
 
 async function main() {
     // 1. Tomamos la URL de tu hardhat.config.js

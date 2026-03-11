@@ -6,6 +6,7 @@ module.exports = {
     kurtosis: {
       url: "http://127.0.0.1:32003",
       chainId: 585858,
+      timeout: 100000,
     },
     mainnet: {
       url: "https://eth-mainnet.g.alchemy.com/v2/mXaADGzvNO3m6igVuTT7-",

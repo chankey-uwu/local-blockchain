@@ -5,7 +5,7 @@ const clefSignerAdresses = {
     "partyA": "0x79Ce52DeFC7e6B78737eAB5bF18747FF089CFBCA",
     "partyB": "0x5396846b57f6881FD73Deac1011Bc948D5ae9721",
 }
-const contractAddress = "0x386Dcf5d72F701AD20CDfBEBf668E11b5eCb1Ff0";
+const contractAddress = "0x820C923543F727A1371eED7FD323d3F5bF281385";
 
 async function main() {
     const rpcUrl = hre.network.config.url;
