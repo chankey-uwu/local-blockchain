@@ -1,14 +1,26 @@
 const hre = require("hardhat");
 
-const CONTRACT_ADDRESS = "0x9533ECd4a32A796c44Ca55855b1847D0459A5A5C";
+const CONTRACT_ADDRESS = "0x0728aba35e05ea32eA2b02F62e029Cf994510195";
 
 async function main() {
+
+    // Hardhat automatically connects to the selected network
     const provider = hre.ethers.provider;
 
-    const storage = await hre.ethers.getContractAt("Storage", CONTRACT_ADDRESS, provider);
+    // Load contract ABI from artifacts
+    const artifact = await hre.artifacts.readArtifact("Storage");
 
-    let currentValue = await storage.retrieve();
-    console.log(`Current stored value: ${currentValue}`);
+    // Create contract instance
+    const storage = new hre.ethers.Contract(
+        CONTRACT_ADDRESS,
+        artifact.abi,
+        provider
+    );
+
+    // Call view function
+    const currentValue = await storage.retrieve();
+
+    console.log(`Current stored value: ${currentValue.toString()}`);
 }
 
 main().catch((error) => {

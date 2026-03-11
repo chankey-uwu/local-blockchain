@@ -2,9 +2,9 @@ const { ethers } = require("ethers");
 
 const RPC_URL = "http://127.0.0.1:32003";
 
-const clefSignerAccountAddress = "0xAD2F1ED52B71c9e9bC1AB96a88e075F26A1F9d97";
+const clefSignerAccountAddress = "0x79Ce52DeFC7e6B78737eAB5bF18747FF089CFBCA";
 
-const recipientAddress = "0xB03C8599446732C34B65633E91485195AEe2885D";
+const recipientAddress = "0x5396846b57f6881FD73Deac1011Bc948D5ae9721";
 
 async function main() {
     const provider = new ethers.JsonRpcProvider(RPC_URL);
@@ -15,8 +15,8 @@ async function main() {
     console.log("Waiting for transaction approval ...");
 
     try {
-        const ammounToSend = "42";
-        const ethToSend = ethers.parseEther(ammounToSend);
+        const amountToSend = "42";
+        const ethToSend = ethers.parseEther(amountToSend);
         const tx = await signer.sendTransaction({
             to: recipientAddress,
             value: ethToSend

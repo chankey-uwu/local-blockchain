@@ -1,0 +1,40 @@
+--- Demo 1 ---
+
+> ./clef.exe --yubikey
+
+> ./clef.exe --chainid 585858 --http --http.addr "0.0.0.0" --http.port 8550 --http.vhosts="*"
+
+--- Demo 2 ---
+
+Escribir direcciones bien
+
+> node ./scriptsEthers/clefTransfer.js
+> node ./scriptsEthers/checkBalance.js
+
+--- Demo 3 ---
+
+Escribir direcciones bien
+
+> cd smartcontracts
+
+> npx hardhat run ./scripts/storage/deployStorage.js --network kurtosis
+
+> npx hardhat run ./scripts/storage/readStorage.js --network kurtosis
+
+> npx hardhat run ./scripts/storage/interactStorage.js --network kurtosis
+
+--- Demo 4 ---
+
+Escribir direcciones bien
+
+> npx hardhat run ./scripts/twoPartyContract/deployTwoPartyContract.js --network kurtosis
+
+> npx hardhat run ./scripts/twoPartyContract/readTwoPartyContract.js --network kurtosis
+
+> npx hardhat run ./scripts/twoPartyContract/deployTwoPartyContract.js --network kurtosis
+
+--- Mainnet ---
+
+Escribir direcciones bien
+
+npx hardhat run .\\scripts\\mainnet\\getUTFSMImage.js --network mainnet

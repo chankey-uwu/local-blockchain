@@ -12,8 +12,8 @@ const MAINNET_RPC_URL = "https://eth-mainnet.g.alchemy.com/v2/mXaADGzvNO3m6igVuT
 const CLEF_URL = "http://127.0.0.1:8550";
 const CHAIN_ID = 1; 
 
-const signerAccountAddress = "0x79Ce52DeFC7e6B78737eAB5bF18747FF089CFBCA";
-const recipientAddress = "0x5396846b57f6881FD73Deac1011Bc948D5ae9721";
+const signerAccountAddress = "0x5396846b57f6881FD73Deac1011Bc948D5ae9721";
+const recipientAddress = "0x79Ce52DeFC7e6B78737eAB5bF18747FF089CFBCA";
 
 async function main() {
     const mainnetProvider = new ethers.JsonRpcProvider(MAINNET_RPC_URL, CHAIN_ID, { staticNetwork: true });
@@ -22,7 +22,7 @@ async function main() {
     console.log("Starting transfer from " + signerAccountAddress + " to " + recipientAddress);
 
     try {
-        const amountToSend = "0.00000051";
+        const amountToSend = "0.00184";
         const ethToSend = ethers.parseEther(amountToSend);
 
         const nonce = await mainnetProvider.getTransactionCount(signerAccountAddress);

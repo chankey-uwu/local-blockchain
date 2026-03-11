@@ -8,7 +8,7 @@ const genesisAccounts = [
     { address: "0xE25583099BA105D9ec0A67f5Ae86D90e50036425", pkey: "39725efee3fb28614de3bacaffe4cc4bd8c436257e2c8bb887c4b5c4be45e76d" },
 ];
 
-const recipientAddress = "0xAD2F1ED52B71c9e9bC1AB96a88e075F26A1F9d97";
+const recipientAddress = "0x47A5471364A9d61444284AB1d79aF6DBb641B181";
 
 async function main() {
     const provider = new ethers.JsonRpcProvider(RPC_URL);

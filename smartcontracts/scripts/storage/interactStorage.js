@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 
 const INTERACTOR_ADDRESS = "0x5396846b57f6881FD73Deac1011Bc948D5ae9721";
-const CONTRACT_ADDRESS = "0x9533ECd4a32A796c44Ca55855b1847D0459A5A5C";
+const CONTRACT_ADDRESS = "0x0728aba35e05ea32eA2b02F62e029Cf994510195";
 
 async function main() {
     console.log(`Interacting with Storage contract with signer: ${INTERACTOR_ADDRESS}`);

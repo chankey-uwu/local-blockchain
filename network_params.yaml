@@ -1,15 +1,10 @@
 participants:
   - el_type: geth
-    el_image: "geth-usm:v2"
     cl_type: lighthouse
     count: 1
-    el_extra_params: [
-      "--signer=http://172.28.137.233:8550",
-      "--verbosity=4"
-    ]
+    el_extra_params: ["--signer=http://host.docker.internal:8550"]
 
   - el_type: geth
-    el_image: "geth-usm:v1"
     cl_type: lighthouse
     count: 2
 
